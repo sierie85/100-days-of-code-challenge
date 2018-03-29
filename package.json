@@ -1,0 +1,33 @@
+{
+  "name": "100-days-of-code-challenge",
+  "version": "1.0.0",
+  "description": "100-days-of-code-challenge - codeing some kind of imdb like website",
+  "main": "server.js",
+  "scripts": {
+    "watch": "nodemon ./server.js --ignore tests/",
+    "start": "npm run watch",
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sierie85/100-days-of-code-challenge.git"
+  },
+  "author": "Sebastian Brieschenk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sierie85/100-days-of-code-challenge/issues"
+  },
+  "homepage": "https://github.com/sierie85/100-days-of-code-challenge#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "helmet": "^3.12.0",
+    "mongoose": "^5.0.12",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3",
+    "nodemon": "^1.17.2"
+  }
+}
