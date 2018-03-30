@@ -1,1 +1,7 @@
-h1 hello
+extends layout
+include mixins/movie-card
+
+block content
+  div(class='card-group')
+    each movie in movies
+      +movieCard(movie)

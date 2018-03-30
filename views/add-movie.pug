@@ -1,0 +1,40 @@
+extends layout
+
+block content
+  div
+    form(method='POST')
+      div(class='form-group')
+        label(for='name') Movie Name
+        input(type='text' class='form-control' id='name' name='name' placeholder='Supermovie')
+      div(class='form-group')
+        label(for='genre') Genre
+        select(class='form-control' multiple id='genre' name='genre')
+          option(value='1') Action
+          option(value='2') Comedy
+          option(value='3') Drama
+          option(value='4') Fantasy
+          option(value='5') Crime
+          option(value='6') Thriller
+          option(value='7') Adventure
+      div(class='form-group')
+        label(for='description') Description
+        textarea(class='form-control' id='description' name='description' rows='5')
+      div(class='form-group')
+        label(for='runtime') Runtime
+        input(type='text' class='form-control' id='runtime' name='runtime' placeholder='92')
+      div(class='form-group')
+        label(for='released') released
+        input(type='text' class='form-control' id='released' name='released' placeholder='1998-02-03')
+      div(class='form-group')
+        label(for='rated') rated
+        select(class='form-control' id='rated' name='rated')
+          option 0
+          option 6
+          option 12
+          option 16
+          option 18
+      div(class='form-group')
+        label(for='poster') Poster
+        input(type='text' class='form-control' id='poster' name='poster' placeholder='link-to-poster?')
+      div(class='form-group')
+        input(type='submit' class='btn btn-primary' value='submit')

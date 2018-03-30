@@ -1,0 +1,8 @@
+mixin movieCard(movie = {})
+
+  div(class='card')
+    img(class='card-img-top' src=`${movie.poster}` alt=`${movie.name}`)
+    div(class='card-body')
+      h5(class='card-title')=movie.name
+      p(class='card-text')=movie.description
+

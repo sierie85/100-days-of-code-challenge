@@ -4,6 +4,6 @@
 
 **Today's Progress**: setup the project
 
-**Thoughts:**:
+## Day 1: 30-03-2018
 
-**Link to work:** [mdbo](http://www.example.com)
+**Today's Progress**: include bootstrap. Add views and routes for movies and login. Add mongoose, create Movie Schema, write tests for MovieSchema. Add movie controller for get movies and post movie.

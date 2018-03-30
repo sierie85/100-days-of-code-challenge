@@ -1,0 +1,24 @@
+doctype html
+html
+  head
+    title MDBO
+    link(rel='stylesheet', href='/css/bootstrap.min.css')
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+  body
+
+    div(class='container')
+
+      header(class='row')
+        div(class='col')
+          h1 MDBO
+        div(class='col')
+          nav
+            ul(class='nav justify-content-end')
+              li(class='nav-item')
+                a(class='nav-link' href='/') Home
+              li(class='nav-item')
+                a(class='nav-link' href='/movies') Movies
+              li(class='nav-item')
+                a(class='nav-link' href='/login') Login
+
+      block content
