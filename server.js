@@ -1,16 +1,17 @@
 // Database init and connection
 const mongoose = require('mongoose');
+const path = require('path');
 require('dotenv').config({ path: '.env' });
 mongoose.connect(process.env.DATABASE);
 mongoose.Promise = global.Promise;
 mongoose.connection.on('error', err => { console.error('Error connecting to database', err);});
 
-// Express init
-const path = require('path');
+// require packages
 const express = require('express');
 const bodyParser = require('body-parser');
 const helmet = require('helmet');
 const routes = require('./routes/routes');
+// Express init
 const app = express();
 
 // View Engine

@@ -3,9 +3,8 @@ include mixins/movie-card
 
 block content
   h1 Movies
-  div
+  div(class='row')
     a(class='btn btn-success' href='/add-movie') Add Movie
-  div
-    div(class='card-group')
-      each movie in movies
-        +movieCard(movie)
+  div(class='row')
+    each movie in movies
+      +movieCard(movie)

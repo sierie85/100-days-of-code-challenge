@@ -1,0 +1,5367 @@
+[
+  {
+    "name": "The Shawshank Redemption",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler"
+    ],
+    "director": "Frank Darabont",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "runtime": 142,
+    "rated": "R",
+    "released": "14 Oct 1994",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbRating": "9.3",
+    "imdbID": "tt0111161"
+  },
+  {
+    "name": "The Godfather",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Richard S. Castellano"
+    ],
+    "director": "Francis Ford Coppola",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "runtime": 175,
+    "rated": "R",
+    "released": "24 Mar 1972",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2Q2NzQ3ZDUtNWU5OC00Yjc0LThlYmEtNWM3NTFmM2JiY2VhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "9.2",
+    "imdbID": "tt0068646"
+  },
+  {
+    "name": "The Godfather: Part II",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Al Pacino",
+      "Robert Duvall",
+      "Diane Keaton",
+      "Robert De Niro"
+    ],
+    "director": "Francis Ford Coppola",
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "runtime": 202,
+    "rated": "R",
+    "released": "20 Dec 1974",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjZiNzIxNTQtNDc5Zi00YWY1LThkMTctMDgzYjY4YjI1YmQyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "9.0",
+    "imdbID": "tt0071562"
+  },
+  {
+    "name": "The Dark Knight",
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, the Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "runtime": 152,
+    "rated": "PG-13",
+    "released": "18 Jul 2008",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+    "imdbRating": "9.0",
+    "imdbID": "tt0468569"
+  },
+  {
+    "name": "12 Angry Men",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Martin Balsam",
+      "John Fiedler",
+      "Lee J. Cobb",
+      "E.G. Marshall"
+    ],
+    "director": "Sidney Lumet",
+    "description": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+    "runtime": 96,
+    "rated": "APPROVED",
+    "released": "01 Apr 1957",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.9",
+    "imdbID": "tt0050083"
+  },
+  {
+    "name": "Schindler's List",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Liam Neeson",
+      "Ben Kingsley",
+      "Ralph Fiennes",
+      "Caroline Goodall"
+    ],
+    "director": "Steven Spielberg",
+    "description": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.",
+    "runtime": 195,
+    "rated": "R",
+    "released": "04 Feb 1994",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.9",
+    "imdbID": "tt0108052"
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      "Noel Appleby",
+      "Ali Astin",
+      "Sean Astin",
+      "David Aston"
+    ],
+    "director": "Peter Jackson",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "runtime": 201,
+    "rated": "PG-13",
+    "released": "17 Dec 2003",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYWY1ZWQ5YjMtMDE0MS00NWIzLWE1M2YtODYzYTk2OTNlYWZmXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg",
+    "imdbRating": "8.9",
+    "imdbID": "tt0167260"
+  },
+  {
+    "name": "Pulp Fiction",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Tim Roth",
+      "Amanda Plummer",
+      "Laura Lovelace",
+      "John Travolta"
+    ],
+    "director": "Quentin Tarantino",
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "runtime": 154,
+    "rated": "R",
+    "released": "14 Oct 1994",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_SX300.jpg",
+    "imdbRating": "8.9",
+    "imdbID": "tt0110912"
+  },
+  {
+    "name": "The Good, the Bad and the Ugly",
+    "genre": [
+      "Western"
+    ],
+    "actors": [
+      "Eli Wallach",
+      "Clint Eastwood",
+      "Lee Van Cleef",
+      "Aldo Giuffrè"
+    ],
+    "director": "Sergio Leone",
+    "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "runtime": 178,
+    "rated": "R",
+    "released": "29 Dec 1967",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_SX300.jpg",
+    "imdbRating": "8.9",
+    "imdbID": "tt0060196"
+  },
+  {
+    "name": "Fight Club",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Edward Norton",
+      "Brad Pitt",
+      "Meat Loaf",
+      "Zach Grenier"
+    ],
+    "director": "David Fincher",
+    "description": "An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soapmaker, forming an underground fight club that evolves into something much, much more.",
+    "runtime": 139,
+    "rated": "R",
+    "released": "15 Oct 1999",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzFjMWNhYzQtYTIxNC00ZWQ1LThiOTItNWQyZmMxNDYyMjA5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.8",
+    "imdbID": "tt0137523"
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      "Alan Howard",
+      "Noel Appleby",
+      "Sean Astin",
+      "Sala Baker"
+    ],
+    "director": "Peter Jackson",
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "runtime": 178,
+    "rated": "PG-13",
+    "released": "19 Dec 2001",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+    "imdbRating": "8.8",
+    "imdbID": "tt0120737"
+  },
+  {
+    "name": "Forrest Gump",
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Rebecca Williams",
+      "Sally Field",
+      "Michael Conner Humphreys"
+    ],
+    "director": "Robert Zemeckis",
+    "description": "The presidencies of Kennedy and Johnson, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+    "runtime": 142,
+    "rated": "PG-13",
+    "released": "06 Jul 1994",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.8",
+    "imdbID": "tt0109830"
+  },
+  {
+    "name": "Star Wars: Episode V - The Empire Strikes Back",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams"
+    ],
+    "director": "Irvin Kershner",
+    "description": "After the rebels are overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda. His friends accept shelter from a questionable ally as Darth Vader hunts them in a plan to capture Luke.",
+    "runtime": 124,
+    "rated": "PG",
+    "released": "20 Jun 1980",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.8",
+    "imdbID": "tt0080684"
+  },
+  {
+    "name": "Inception",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ellen Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "description": "A thief, who steals corporate secrets through the use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.",
+    "runtime": 148,
+    "rated": "PG-13",
+    "released": "16 Jul 2010",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+    "imdbRating": "8.8",
+    "imdbID": "tt1375666"
+  },
+  {
+    "name": "The Lord of the Rings: The Two Towers",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      "Bruce Allpress",
+      "Sean Astin",
+      "John Bach",
+      "Sala Baker"
+    ],
+    "director": "Peter Jackson",
+    "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "runtime": 179,
+    "rated": "PG-13",
+    "released": "18 Dec 2002",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMDY0NmI4ZjctN2VhZS00YzExLTkyZGItMTJhOTU5NTg4MDU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.7",
+    "imdbID": "tt0167261"
+  },
+  {
+    "name": "One Flew Over the Cuckoo's Nest",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Michael Berryman",
+      "Peter Brocco",
+      "Dean R. Brooks",
+      "Alonzo Brown"
+    ],
+    "director": "Milos Forman",
+    "description": "A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.",
+    "runtime": 133,
+    "rated": "R",
+    "released": "19 Nov 1975",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.7",
+    "imdbID": "tt0073486"
+  },
+  {
+    "name": "Goodfellas",
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "director": "Martin Scorsese",
+    "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+    "runtime": 146,
+    "rated": "R",
+    "released": "21 Sep 1990",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNThjMzczMjctZmIwOC00NTQ4LWJhZWItZDdhNTk5ZTdiMWFlXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+    "imdbRating": "8.7",
+    "imdbID": "tt0099685"
+  },
+  {
+    "name": "The Matrix",
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "runtime": 136,
+    "rated": "R",
+    "released": "31 Mar 1999",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.7",
+    "imdbID": "tt0133093"
+  },
+  {
+    "name": "Seven Samurai",
+    "genre": [
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      "Toshirô Mifune",
+      "Takashi Shimura",
+      "Keiko Tsushima",
+      "Yukiko Shimazaki"
+    ],
+    "director": "Akira Kurosawa",
+    "description": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+    "runtime": 207,
+    "rated": "NOT RATED",
+    "released": "19 Nov 1956",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTc5MDY1MjU5MF5BMl5BanBnXkFtZTgwNDM2OTE4MzE@._V1_SX300.jpg",
+    "imdbRating": "8.7",
+    "imdbID": "tt0047478"
+  },
+  {
+    "name": "Star Wars: Episode IV - A New Hope",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Peter Cushing"
+    ],
+    "director": "George Lucas",
+    "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station while also attempting to rescue Princess Leia from the evil Darth Vader.",
+    "runtime": 121,
+    "rated": "PG",
+    "released": "25 May 1977",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt0076759"
+  },
+  {
+    "name": "City of God",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino",
+      "Phellipe Haagensen",
+      "Douglas Silva"
+    ],
+    "director": "Fernando Meirelles, Kátia Lund(co-director)",
+    "description": "Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.",
+    "runtime": 130,
+    "rated": "R",
+    "released": "13 Feb 2004",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTM4MjZjNWEtMmQxMi00YzY5LTg4ZTAtODJlMDVkZWZmNTVhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt0317248"
+  },
+  {
+    "name": "Se7en",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Morgan Freeman",
+      "Andrew Kevin Walker",
+      "Kevin Spacey",
+      "Daniel Zacapa"
+    ],
+    "director": "David Fincher",
+    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "runtime": 127,
+    "rated": "R",
+    "released": "22 Sep 1995",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt0114369"
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Jodie Foster",
+      "Lawrence A. Bonney",
+      "Kasi Lemmons",
+      "Lawrence T. Wrentz"
+    ],
+    "director": "Jonathan Demme",
+    "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "runtime": 118,
+    "rated": "R",
+    "released": "14 Feb 1991",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt0102926"
+  },
+  {
+    "name": "It's a Wonderful Life",
+    "genre": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      "James Stewart",
+      "Donna Reed",
+      "Lionel Barrymore",
+      "Thomas Mitchell"
+    ],
+    "director": "Frank Capra",
+    "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "runtime": 130,
+    "rated": "PG",
+    "released": "07 Jan 1947",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt0038650"
+  },
+  {
+    "name": "Life Is Beautiful",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini",
+      "Giustino Durano"
+    ],
+    "director": "Roberto Benigni",
+    "description": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+    "runtime": 116,
+    "rated": "PG-13",
+    "released": "12 Feb 1999",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt0118799"
+  },
+  {
+    "name": "The Usual Suspects",
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Stephen Baldwin",
+      "Gabriel Byrne",
+      "Benicio Del Toro",
+      "Kevin Pollak"
+    ],
+    "director": "Bryan Singer",
+    "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+    "runtime": 106,
+    "rated": "R",
+    "released": "15 Sep 1995",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt0114814"
+  },
+  {
+    "name": "Spirited Away",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "actors": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naitô"
+    ],
+    "director": "Hayao Miyazaki, Kirk Wise",
+    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    "runtime": 125,
+    "rated": "PG",
+    "released": "28 Mar 2003",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BOGJjNzZmMmUtMjljNC00ZjU5LWJiODQtZmEzZTU0MjBlNzgxL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt0245429"
+  },
+  {
+    "name": "Léon: The Professional",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Jean Reno",
+      "Gary Oldman",
+      "Natalie Portman",
+      "Danny Aiello"
+    ],
+    "director": "Luc Besson",
+    "description": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. Léon and Mathilda form an unusual relationship, as she becomes his protégée and learns the assassin's trade.",
+    "runtime": 110,
+    "rated": "R",
+    "released": "18 Nov 1994",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDAwYTlhMDEtNTg0OS00NDY2LWJjOWItNWY3YTZkM2UxYzUzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt0110413"
+  },
+  {
+    "name": "Saving Private Ryan",
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Tom Sizemore",
+      "Edward Burns",
+      "Barry Pepper"
+    ],
+    "director": "Steven Spielberg",
+    "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "runtime": 169,
+    "rated": "R",
+    "released": "24 Jul 1998",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt0120815"
+  },
+  {
+    "name": "Interstellar",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Ellen Burstyn",
+      "Matthew McConaughey",
+      "Mackenzie Foy",
+      "John Lithgow"
+    ],
+    "director": "Christopher Nolan",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "runtime": 169,
+    "rated": "PG-13",
+    "released": "07 Nov 2014",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt0816692"
+  },
+  {
+    "name": "The Green Mile",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "David Morse",
+      "Michael Clarke Duncan",
+      "Bonnie Hunt"
+    ],
+    "director": "Frank Darabont",
+    "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+    "runtime": 189,
+    "rated": "R",
+    "released": "10 Dec 1999",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0120689"
+  },
+  {
+    "name": "American History X",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Edward Norton",
+      "Edward Furlong",
+      "Beverly D'Angelo",
+      "Jennifer Lien"
+    ],
+    "director": "Tony Kaye",
+    "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+    "runtime": 119,
+    "rated": "R",
+    "released": "20 Nov 1998",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0120586"
+  },
+  {
+    "name": "Psycho",
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Anthony Perkins",
+      "Vera Miles",
+      "John Gavin",
+      "Janet Leigh"
+    ],
+    "director": "Alfred Hitchcock",
+    "description": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+    "runtime": 109,
+    "rated": "R",
+    "released": "08 Sep 1960",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWQ0MjRmZmUtY2Q2Yi00ODcxLWE4NGMtMTNjMDY1YmUzMjVkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0054215"
+  },
+  {
+    "name": "Once Upon a Time in the West",
+    "genre": [
+      "Western"
+    ],
+    "actors": [
+      "Claudia Cardinale",
+      "Henry Fonda",
+      "Jason Robards",
+      "Charles Bronson"
+    ],
+    "director": "Sergio Leone",
+    "description": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+    "runtime": 164,
+    "rated": "PG-13",
+    "released": "04 Jul 1969",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxOTEwOTU0MV5BMl5BanBnXkFtZTgwNDc4NjQ3MTI@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0064116"
+  },
+  {
+    "name": "City Lights",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Virginia Cherrill",
+      "Florence Lee",
+      "Harry Myers",
+      "Al Ernest Garcia"
+    ],
+    "director": "Charles Chaplin",
+    "description": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+    "runtime": 87,
+    "rated": "G",
+    "released": "07 Mar 1931",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZDRjMmI3ZjgtMGE3Mi00NjY5LTg0NWMtMmU3YzgyMjhmMjIzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt0021749"
+  },
+  {
+    "name": "Casablanca",
+    "genre": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "actors": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid",
+      "Claude Rains"
+    ],
+    "director": "Michael Curtiz",
+    "description": "A cynical nightclub owner protects an old flame and her husband from Nazis in Morocco.",
+    "runtime": 102,
+    "rated": "PG",
+    "released": "23 Jan 1943",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0034583"
+  },
+  {
+    "name": "The Intouchables",
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "François Cluzet",
+      "Omar Sy",
+      "Anne Le Ny",
+      "Audrey Fleurot"
+    ],
+    "director": "Olivier Nakache, Éric Toledano",
+    "description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+    "runtime": 112,
+    "rated": "R",
+    "released": "02 Nov 2011",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt1675434"
+  },
+  {
+    "name": "Modern Times",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      "Charles Chaplin",
+      "Paulette Goddard",
+      "Henry Bergman",
+      "Tiny Sandford"
+    ],
+    "director": "Charles Chaplin",
+    "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+    "runtime": 87,
+    "rated": "G",
+    "released": "25 Feb 1936",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0027977"
+  },
+  {
+    "name": "The Pianist",
+    "genre": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      "Adrien Brody",
+      "Emilia Fox",
+      "Michal Zebrowski",
+      "Ed Stoppard"
+    ],
+    "director": "Roman Polanski",
+    "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+    "runtime": 150,
+    "rated": "R",
+    "released": "28 Mar 2003",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0253474"
+  },
+  {
+    "name": "The Departed",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson",
+      "Mark Wahlberg"
+    ],
+    "director": "Martin Scorsese",
+    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "runtime": 151,
+    "rated": "R",
+    "released": "06 Oct 2006",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0407887"
+  },
+  {
+    "name": "Raiders of the Lost Ark",
+    "genre": [
+      "Action",
+      "Adventure"
+    ],
+    "actors": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman",
+      "Ronald Lacey"
+    ],
+    "director": "Steven Spielberg",
+    "description": "Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.",
+    "runtime": 115,
+    "rated": "PG",
+    "released": "12 Jun 1981",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0082971"
+  },
+  {
+    "name": "Terminator 2",
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong",
+      "Robert Patrick"
+    ],
+    "director": "James Cameron",
+    "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son, John Connor, from a more advanced cyborg.",
+    "runtime": 137,
+    "rated": "R",
+    "released": "03 Jul 1991",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0103064"
+  },
+  {
+    "name": "Rear Window",
+    "genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "James Stewart",
+      "Grace Kelly",
+      "Wendell Corey",
+      "Thelma Ritter"
+    ],
+    "director": "Alfred Hitchcock",
+    "description": "A wheelchair-bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.",
+    "runtime": 112,
+    "rated": "PG",
+    "released": "01 Sep 1954",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0047396"
+  },
+  {
+    "name": "Back to the Future",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Crispin Glover"
+    ],
+    "director": "Robert Zemeckis",
+    "description": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+    "runtime": 116,
+    "rated": "PG",
+    "released": "03 Jul 1985",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0088763"
+  },
+  {
+    "name": "Whiplash",
+    "genre": [
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "director": "Damien Chazelle",
+    "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "runtime": 107,
+    "rated": "R",
+    "released": "15 Oct 2014",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTVhMWQ5MDktMGE3OS00MjVlLWExZWYtMzY2MTg4ZGFiZDQ5L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt2582802"
+  },
+  {
+    "name": "Gladiator",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Oliver Reed"
+    ],
+    "director": "Ridley Scott",
+    "description": "When a Roman General is betrayed, and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.",
+    "runtime": 155,
+    "rated": "R",
+    "released": "05 May 2000",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0172495"
+  },
+  {
+    "name": "The Lion King",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      "Rowan Atkinson",
+      "Matthew Broderick",
+      "Niketa Calame",
+      "Jim Cummings"
+    ],
+    "director": "Roger Allers, Rob Minkoff",
+    "description": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.",
+    "runtime": 88,
+    "rated": "G",
+    "released": "24 Jun 1994",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0110357"
+  },
+  {
+    "name": "The Prestige",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Hugh Jackman",
+      "Christian Bale",
+      "Michael Caine",
+      "Piper Perabo"
+    ],
+    "director": "Christopher Nolan",
+    "description": "After a tragic accident two stage magicians engage in a battle to create the ultimate illusion whilst sacrificing everything they have to outwit the other.",
+    "runtime": 130,
+    "rated": "PG-13",
+    "released": "20 Oct 2006",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0482571"
+  },
+  {
+    "name": "Memento",
+    "genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano",
+      "Mark Boone Junior"
+    ],
+    "director": "Christopher Nolan",
+    "description": "A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.",
+    "runtime": 113,
+    "rated": "R",
+    "released": "25 May 2001",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0209144"
+  },
+  {
+    "name": "Apocalypse Now",
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Marlon Brando",
+      "Martin Sheen",
+      "Robert Duvall",
+      "Frederic Forrest"
+    ],
+    "director": "Francis Ford Coppola",
+    "description": "During the Vietnam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade Colonel who has set himself up as a god among a local tribe.",
+    "runtime": 147,
+    "rated": "R",
+    "released": "15 Aug 1979",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDg1MDgzMmQtNDhlYS00MzZiLTllZGItNzliZTE1ODBiZDQwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0078788"
+  },
+  {
+    "name": "Alien",
+    "genre": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Tom Skerritt",
+      "Sigourney Weaver",
+      "Veronica Cartwright",
+      "Harry Dean Stanton"
+    ],
+    "director": "Ridley Scott",
+    "description": "After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.",
+    "runtime": 116,
+    "rated": "R",
+    "released": "22 Jun 1979",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDNhN2IxZWItNGEwYS00ZDNhLThiM2UtODU3NWJlZjBkYjQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0078748"
+  },
+  {
+    "name": "The Great Dictator",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Charles Chaplin",
+      "Jack Oakie",
+      "Reginald Gardiner",
+      "Henry Daniell"
+    ],
+    "director": "Charles Chaplin",
+    "description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    "runtime": 125,
+    "rated": "G",
+    "released": "07 Mar 1941",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0032553"
+  },
+  {
+    "name": "Cinema Paradiso",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Antonella Attili",
+      "Enzo Cannavale",
+      "Isa Danieli",
+      "Leo Gullotta"
+    ],
+    "director": "Giuseppe Tornatore",
+    "description": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+    "runtime": 155,
+    "rated": "R",
+    "released": "23 Feb 1990",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0095765"
+  },
+  {
+    "name": "Sunset Boulevard",
+    "genre": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      "William Holden",
+      "Gloria Swanson",
+      "Erich von Stroheim",
+      "Nancy Olson"
+    ],
+    "director": "Billy Wilder",
+    "description": "A screenwriter is hired to rework a faded silent film star's script, only to find himself developing a dangerous relationship.",
+    "runtime": 110,
+    "rated": "NOT RATED",
+    "released": "29 Sep 1950",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0043014"
+  },
+  {
+    "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "genre": [
+      "Comedy",
+      "War"
+    ],
+    "actors": [
+      "Peter Sellers",
+      "George C. Scott",
+      "Sterling Hayden",
+      "Keenan Wynn"
+    ],
+    "director": "Stanley Kubrick",
+    "description": "An insane general triggers a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+    "runtime": 95,
+    "rated": "PG",
+    "released": "29 Jan 1964",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNTkxYjUxNDYtZGY0My00NTc2LThiZmYtNmNmNmU0NGVkZWYwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0057012"
+  },
+  {
+    "name": "Grave of the Fireflies",
+    "genre": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Yoshiko Shinohara",
+      "Akemi Yamaguchi"
+    ],
+    "director": "Isao Takahata",
+    "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+    "runtime": 89,
+    "rated": "NOT RATED",
+    "released": "16 Apr 1988",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjEwNDVhZjMtYzA1MS00ZWUxLThjOGUtZTliNGZiNGYyMjA3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0095327"
+  },
+  {
+    "name": "The Lives of Others",
+    "genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Martina Gedeck",
+      "Ulrich Mühe",
+      "Sebastian Koch",
+      "Ulrich Tukur"
+    ],
+    "director": "Florian Henckel von Donnersmarck",
+    "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+    "runtime": 137,
+    "rated": "R",
+    "released": "30 Mar 2007",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNDUzNjYwNDYyNl5BMl5BanBnXkFtZTcwNjU3ODQ0MQ@@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0405094"
+  },
+  {
+    "name": "Coco",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt",
+      "Alanna Ubach"
+    ],
+    "director": "Lee Unkrich, Adrian Molina(co-director)",
+    "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "runtime": 105,
+    "rated": "PG",
+    "released": "21 Nov 2017",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt2380307"
+  },
+  {
+    "name": "Paths of Glory",
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Kirk Douglas",
+      "Ralph Meeker",
+      "Adolphe Menjou",
+      "George Macready"
+    ],
+    "director": "Stanley Kubrick",
+    "description": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+    "runtime": 88,
+    "rated": "NOT RATED",
+    "released": "01 Nov 1957",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0050825"
+  },
+  {
+    "name": "The Shining",
+    "genre": [
+      "Drama",
+      "Horror"
+    ],
+    "actors": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd",
+      "Scatman Crothers"
+    ],
+    "director": "Stanley Kubrick",
+    "description": "A family heads to an isolated hotel for the winter where an evil spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.",
+    "runtime": 146,
+    "rated": "R",
+    "released": "13 Jun 1980",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0081505"
+  },
+  {
+    "name": "Django Unchained",
+    "genre": [
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio",
+      "Kerry Washington"
+    ],
+    "director": "Quentin Tarantino",
+    "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "runtime": 165,
+    "rated": "R",
+    "released": "25 Dec 2012",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt1853728"
+  },
+  {
+    "name": "WALL·E",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "actors": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard"
+    ],
+    "director": "Andrew Stanton",
+    "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+    "runtime": 98,
+    "rated": "G",
+    "released": "27 Jun 2008",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0910970"
+  },
+  {
+    "name": "Princess Mononoke",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      "Billy Crudup",
+      "Billy Bob Thornton",
+      "Minnie Driver",
+      "John DiMaggio"
+    ],
+    "director": "Hayao Miyazaki",
+    "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+    "runtime": 134,
+    "rated": "PG-13",
+    "released": "12 Jul 1997",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTVlNWM4NTAtNDQxYi00YWU5LWIwM2MtZmVjYWFmODZiODE5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0119698"
+  },
+  {
+    "name": "American Beauty",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Thora Birch",
+      "Wes Bentley"
+    ],
+    "director": "Sam Mendes",
+    "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+    "runtime": 122,
+    "rated": "R",
+    "released": "01 Oct 1999",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0169547"
+  },
+  {
+    "name": "The Dark Knight Rises",
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "actors": [
+      "Christian Bale",
+      "Gary Oldman",
+      "Tom Hardy",
+      "Joseph Gordon-Levitt"
+    ],
+    "director": "Christopher Nolan",
+    "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.",
+    "runtime": 164,
+    "rated": "PG-13",
+    "released": "20 Jul 2012",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt1345836"
+  },
+  {
+    "name": "Witness for the Prosecution",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Tyrone Power",
+      "Marlene Dietrich",
+      "Charles Laughton",
+      "Elsa Lanchester"
+    ],
+    "director": "Billy Wilder",
+    "description": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+    "runtime": 116,
+    "rated": "NOT RATED",
+    "released": "06 Feb 1958",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MjgyNTUyNF5BMl5BanBnXkFtZTcwNDQzMDg0Nw@@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0051201"
+  },
+  {
+    "name": "Oldboy",
+    "genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Min-sik Choi",
+      "Ji-tae Yu",
+      "Hye-jeong Kang",
+      "Dae-han Ji"
+    ],
+    "director": "Chan-wook Park",
+    "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+    "runtime": 120,
+    "rated": "R",
+    "released": "21 Nov 2003",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0364569"
+  },
+  {
+    "name": "Aliens",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Sigourney Weaver",
+      "Carrie Henn",
+      "Michael Biehn",
+      "Paul Reiser"
+    ],
+    "director": "James Cameron",
+    "description": "Ellen Ripley is rescued by a deep salvage team after being hypersleep for 57 years. The moon that the Nostromo visited has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?",
+    "runtime": 137,
+    "rated": "R",
+    "released": "18 Jul 1986",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYzVlMWViZGEtYjEyYy00YWZmLThmZGEtYmM4MDZlN2Q5MmRmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0090605"
+  },
+  {
+    "name": "Once Upon a Time in America",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "James Woods",
+      "Elizabeth McGovern",
+      "Treat Williams"
+    ],
+    "director": "Sergio Leone",
+    "description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+    "runtime": 229,
+    "rated": "R",
+    "released": "01 Jun 1984",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0087843"
+  },
+  {
+    "name": "Das Boot",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Jürgen Prochnow",
+      "Herbert Grönemeyer",
+      "Klaus Wennemann",
+      "Hubertus Bengsch"
+    ],
+    "director": "Wolfgang Petersen",
+    "description": "The claustrophobic world of a WWII German U-boat; boredom, filth, and sheer terror.",
+    "runtime": 149,
+    "rated": "R",
+    "released": "10 Feb 1982",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNGRmOWY0MGUtNTVhMy00NzRlLTljNDAtNTBiNTRlODgxNmY2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0082096"
+  },
+  {
+    "name": "Citizen Kane",
+    "genre": [
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Joseph Cotten",
+      "Dorothy Comingore",
+      "Agnes Moorehead",
+      "Ruth Warrick"
+    ],
+    "director": "Orson Welles",
+    "description": "Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.",
+    "runtime": 119,
+    "rated": "PG",
+    "released": "05 Sep 1941",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0033467"
+  },
+  {
+    "name": "North by Northwest",
+    "genre": [
+      "Adventure",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Cary Grant",
+      "Eva Marie Saint",
+      "James Mason",
+      "Jessie Royce Landis"
+    ],
+    "director": "Alfred Hitchcock",
+    "description": "A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive.",
+    "runtime": 136,
+    "rated": "NOT RATED",
+    "released": "26 Sep 1959",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0053125"
+  },
+  {
+    "name": "Vertigo",
+    "genre": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "actors": [
+      "James Stewart",
+      "Kim Novak",
+      "Barbara Bel Geddes",
+      "Tom Helmore"
+    ],
+    "director": "Alfred Hitchcock",
+    "description": "A San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+    "runtime": 128,
+    "rated": "PG",
+    "released": "21 Jul 1958",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0052357"
+  },
+  {
+    "name": "Braveheart",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "James Robinson",
+      "Sean Lawlor",
+      "Sandy Nelson",
+      "James Cosmo"
+    ],
+    "director": "Mel Gibson",
+    "description": "When his secret bride is executed for assaulting an English soldier who tried to rape her, Sir William Wallace begins a revolt against King Edward I of England.",
+    "runtime": 178,
+    "rated": "R",
+    "released": "24 May 1995",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0112573"
+  },
+  {
+    "name": "Reservoir Dogs",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Michael Madsen",
+      "Chris Penn"
+    ],
+    "director": "Quentin Tarantino",
+    "description": "After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+    "runtime": 99,
+    "rated": "R",
+    "released": "02 Sep 1992",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0105236"
+  },
+  {
+    "name": "Star Wars: Episode VI - Return of the Jedi",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams"
+    ],
+    "director": "Richard Marquand",
+    "description": "After a daring mission to rescue Han Solo from Jabba the Hutt, the rebels dispatch to Endor to destroy a more powerful Death Star. Meanwhile, Luke struggles to help Vader back from the dark side without falling into the Emperor's trap.",
+    "runtime": 131,
+    "rated": "PG",
+    "released": "25 May 1983",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0086190"
+  },
+  {
+    "name": "Dangal",
+    "genre": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      "Aamir Khan",
+      "Sakshi Tanwar",
+      "Fatima Sana Shaikh",
+      "Sanya Malhotra"
+    ],
+    "director": "Nitesh Tiwari",
+    "description": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+    "runtime": 161,
+    "rated": "NOT RATED",
+    "released": "21 Dec 2016",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SX300.jpg",
+    "imdbRating": "8.6",
+    "imdbID": "tt5074352"
+  },
+  {
+    "name": "M",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Peter Lorre",
+      "Ellen Widmann",
+      "Inge Landgut",
+      "Otto Wernicke"
+    ],
+    "director": "Fritz Lang",
+    "description": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+    "runtime": 99,
+    "rated": "NOT RATED",
+    "released": "31 Aug 1931",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjIwMTM0ZDEtMTdiMy00NmQ0LWJmYmMtNGJmNmMzZmJlZjVkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0022100"
+  },
+  {
+    "name": "Your Name",
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      "Ryûnosuke Kamiki",
+      "Mone Kamishiraishi",
+      "Ryô Narita",
+      "Aoi Yûki"
+    ],
+    "director": "Makoto Shinkai",
+    "description": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+    "runtime": 106,
+    "rated": "PG",
+    "released": "07 Apr 2017",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt5311514"
+  },
+  {
+    "name": "Requiem for a Dream",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Ellen Burstyn",
+      "Jared Leto",
+      "Jennifer Connelly",
+      "Marlon Wayans"
+    ],
+    "director": "Darren Aronofsky",
+    "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+    "runtime": 102,
+    "rated": "R",
+    "released": "15 Dec 2000",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0180093"
+  },
+  {
+    "name": "Like Stars on Earth",
+    "genre": [
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      "Darsheel Safary",
+      "Aamir Khan",
+      "Tanay Chheda",
+      "Sachet Engineer"
+    ],
+    "director": "Aamir Khan, Amole Gupte",
+    "description": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+    "runtime": 165,
+    "rated": "PG",
+    "released": "21 Dec 2007",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTVmYTk2NjAtYzY3MS00YjFjLTlkYzktYzg3YzMyZDQyOWRiXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0986264"
+  },
+  {
+    "name": "Amadeus",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "F. Murray Abraham",
+      "Tom Hulce",
+      "Elizabeth Berridge",
+      "Roy Dotrice"
+    ],
+    "director": "Milos Forman",
+    "description": "The incredible story of Wolfgang Amadeus Mozart, told by his peer and secret rival Antonio Salieri - now confined to an insane asylum.",
+    "runtime": 160,
+    "rated": "R",
+    "released": "19 Sep 1984",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTg5NDkwMTk5N15BMl5BanBnXkFtZTYwODg3MDk2._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0086879"
+  },
+  {
+    "name": "Amélie",
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      "Audrey Tautou",
+      "Mathieu Kassovitz",
+      "Rufus",
+      "Lorella Cravotta"
+    ],
+    "director": "Jean-Pierre Jeunet",
+    "description": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+    "runtime": 122,
+    "rated": "R",
+    "released": "08 Feb 2002",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0211915"
+  },
+  {
+    "name": "A Clockwork Orange",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Malcolm McDowell",
+      "Patrick Magee",
+      "Michael Bates",
+      "Warren Clarke"
+    ],
+    "director": "Stanley Kubrick",
+    "description": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+    "runtime": 136,
+    "rated": "R",
+    "released": "02 Feb 1972",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0066921"
+  },
+  {
+    "name": "Lawrence of Arabia",
+    "genre": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      "Peter O'Toole",
+      "Alec Guinness",
+      "Anthony Quinn",
+      "Jack Hawkins"
+    ],
+    "director": "David Lean",
+    "description": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+    "runtime": 216,
+    "rated": "PG",
+    "released": "11 Dec 1962",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0056172"
+  },
+  {
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "genre": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Gerry Robert Byrne",
+      "Elijah Wood"
+    ],
+    "director": "Michel Gondry",
+    "description": "When their relationship turns sour, a young couple undergoes a medical procedure to have each other erased from their memories.",
+    "runtime": 108,
+    "rated": "R",
+    "released": "19 Mar 2004",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0338013"
+  },
+  {
+    "name": "Double Indemnity",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      "Fred MacMurray",
+      "Barbara Stanwyck",
+      "Edward G. Robinson",
+      "Porter Hall"
+    ],
+    "director": "Billy Wilder",
+    "description": "An insurance representative lets himself be talked into a murder/insurance fraud scheme that arouses an insurance investigator's suspicions.",
+    "runtime": 107,
+    "rated": "NOT RATED",
+    "released": "06 Jul 1944",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmRmYmZkZTktZDc5ZC00ZjZmLTg4NWMtYjM3MjcyNTVjNGQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0036775"
+  },
+  {
+    "name": "Taxi Driver",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Diahnne Abbott",
+      "Frank Adu",
+      "Victor Argo",
+      "Gino Ardito"
+    ],
+    "director": "Martin Scorsese",
+    "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action, while attempting to liberate a twelve-year-old prostitute.",
+    "runtime": 114,
+    "rated": "R",
+    "released": "08 Feb 1976",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxNDgzZWQtZTNjNi00M2RkLWExZmEtNmE1NjEyZDEwMzA5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0075314"
+  },
+  {
+    "name": "Singin' in the Rain",
+    "genre": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      "Gene Kelly",
+      "Donald O'Connor",
+      "Debbie Reynolds",
+      "Jean Hagen"
+    ],
+    "director": "Stanley Donen, Gene Kelly",
+    "description": "A silent film production company and cast make a difficult transition to sound.",
+    "runtime": 103,
+    "rated": "G",
+    "released": "11 Apr 1952",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0045152"
+  },
+  {
+    "name": "2001: A Space Odyssey",
+    "genre": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "William Sylvester",
+      "Daniel Richter"
+    ],
+    "director": "Stanley Kubrick",
+    "description": "Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.",
+    "runtime": 149,
+    "rated": "G",
+    "released": "12 May 1968",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0062622"
+  },
+  {
+    "name": "3 Idiots",
+    "genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Aamir Khan",
+      "Madhavan",
+      "Sharman Joshi",
+      "Kareena Kapoor Khan"
+    ],
+    "director": "Rajkumar Hirani",
+    "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+    "runtime": 170,
+    "rated": "PG-13",
+    "released": "25 Dec 2009",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZWRlNDdkNzItMzhlZC00YTdmLWIwNjktYjY5NjQ1ZmQ3N2FkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt1187043"
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Gregory Peck",
+      "John Megna",
+      "Frank Overton",
+      "Rosemary Murphy"
+    ],
+    "director": "Robert Mulligan",
+    "description": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.",
+    "runtime": 129,
+    "rated": "NOT RATED",
+    "released": "16 Mar 1963",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2YxZDUxYzMtYzQxNy00NTRjLThmZjQtY2Q4Njg2MTUyOTkzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0056592"
+  },
+  {
+    "name": "Toy Story",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney"
+    ],
+    "director": "John Lasseter",
+    "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+    "runtime": 81,
+    "rated": "G",
+    "released": "22 Nov 1995",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0114709"
+  },
+  {
+    "name": "Full Metal Jacket",
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Matthew Modine",
+      "Adam Baldwin",
+      "Vincent D'Onofrio",
+      "R. Lee Ermey"
+    ],
+    "director": "Stanley Kubrick",
+    "description": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+    "runtime": 116,
+    "rated": "R",
+    "released": "10 Jul 1987",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNzc2ZThkOGItZGY5YS00MDYwLTkyOTAtNDRmZWIwMGRhYTc0L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0093058"
+  },
+  {
+    "name": "Inglourious Basterds",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Brad Pitt",
+      "Mélanie Laurent",
+      "Christoph Waltz",
+      "Eli Roth"
+    ],
+    "director": "Quentin Tarantino, Eli Roth",
+    "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "runtime": 153,
+    "rated": "R",
+    "released": "21 Aug 2009",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0361748"
+  },
+  {
+    "name": "The Sting",
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Paul Newman",
+      "Robert Redford",
+      "Robert Shaw",
+      "Charles Durning"
+    ],
+    "director": "George Roy Hill",
+    "description": "Two grifters team up to pull off the ultimate con.",
+    "runtime": 129,
+    "rated": "PG",
+    "released": "25 Dec 1973",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZWNmODRmOTAtYTJhYi00NjllLTg3MTktNTBmZDZiNjJjZWVjXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0070735"
+  },
+  {
+    "name": "Bicycle Thieves",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Lamberto Maggiorani",
+      "Enzo Staiola",
+      "Lianella Carell",
+      "Elena Altieri"
+    ],
+    "director": "Vittorio De Sica",
+    "description": "In post-war Italy, a working-class man's bicycle is stolen. He and his son set out to find it.",
+    "runtime": 89,
+    "rated": "NOT RATED",
+    "released": "13 Dec 1949",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI3NTcwNzEtNDA1MS00ZjE0LThkNDEtMmU4MjVmNTQ1ZDBmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0040522"
+  },
+  {
+    "name": "The Kid",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      "Carl Miller",
+      "Edna Purviance",
+      "Jackie Coogan",
+      "Charles Chaplin"
+    ],
+    "director": "Charles Chaplin",
+    "description": "The Tramp cares for an abandoned child, but events put that relationship in jeopardy.",
+    "runtime": 68,
+    "rated": "NOT RATED",
+    "released": "06 Feb 1921",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0012349"
+  },
+  {
+    "name": "Toy Story 3",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Ned Beatty"
+    ],
+    "director": "Lee Unkrich",
+    "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+    "runtime": 103,
+    "rated": "G",
+    "released": "18 Jun 2010",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0435761"
+  },
+  {
+    "name": "Snatch",
+    "genre": [
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      "Benicio Del Toro",
+      "Dennis Farina",
+      "Vinnie Jones",
+      "Brad Pitt"
+    ],
+    "director": "Guy Ritchie",
+    "description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+    "runtime": 102,
+    "rated": "R",
+    "released": "19 Jan 2001",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0208092"
+  },
+  {
+    "name": "Good Will Hunting",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Matt Damon",
+      "Ben Affleck",
+      "Stellan Skarsgård",
+      "John Mighton"
+    ],
+    "director": "Gus Van Sant",
+    "description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+    "runtime": 126,
+    "rated": "R",
+    "released": "09 Jan 1998",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0119217"
+  },
+  {
+    "name": "The Hunt",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Mads Mikkelsen",
+      "Thomas Bo Larsen",
+      "Annika Wedderkopp",
+      "Lasse Fogelstrøm"
+    ],
+    "director": "Thomas Vinterberg",
+    "description": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+    "runtime": 115,
+    "rated": "R",
+    "released": "10 Jan 2013",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNDM2MzMwMzcxNF5BMl5BanBnXkFtZTcwNTczMDk3OA@@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt2106476"
+  },
+  {
+    "name": "Monty Python and the Holy Grail",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "actors": [
+      "Graham Chapman",
+      "John Cleese",
+      "Eric Idle",
+      "Terry Gilliam"
+    ],
+    "director": "Terry Gilliam, Terry Jones",
+    "description": "King Arthur and his knights embark on a low-budget search for the Grail, encountering many, very silly obstacles.",
+    "runtime": 91,
+    "rated": "PG",
+    "released": "25 May 1975",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0071853"
+  },
+  {
+    "name": "For a Few Dollars More",
+    "genre": [
+      "Western"
+    ],
+    "actors": [
+      "Clint Eastwood",
+      "Lee Van Cleef",
+      "Gian Maria Volontè",
+      "Mario Brega"
+    ],
+    "director": "Sergio Leone",
+    "description": "Two bounty hunters with the same intentions team up to track down a Western outlaw.",
+    "runtime": 132,
+    "rated": "R",
+    "released": "10 May 1967",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0059578"
+  },
+  {
+    "name": "Scarface",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Al Pacino",
+      "Steven Bauer",
+      "Michelle Pfeiffer",
+      "Mary Elizabeth Mastrantonio"
+    ],
+    "director": "Brian De Palma",
+    "description": "In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+    "runtime": 170,
+    "rated": "R",
+    "released": "09 Dec 1983",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0086250"
+  },
+  {
+    "name": "L.A. Confidential",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Kevin Spacey",
+      "Russell Crowe",
+      "Guy Pearce",
+      "James Cromwell"
+    ],
+    "director": "Curtis Hanson",
+    "description": "As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+    "runtime": 138,
+    "rated": "R",
+    "released": "19 Sep 1997",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0119488"
+  },
+  {
+    "name": "The Apartment",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Jack Lemmon",
+      "Shirley MacLaine",
+      "Fred MacMurray",
+      "Ray Walston"
+    ],
+    "director": "Billy Wilder",
+    "description": "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+    "runtime": 125,
+    "rated": "NOT RATED",
+    "released": "16 Sep 1960",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BN2YxYmUyZGItZWEzYy00NTA3LThhM2UtZThhNDM5NWYxZGQ1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0053604"
+  },
+  {
+    "name": "Metropolis",
+    "genre": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Alfred Abel",
+      "Gustav Fröhlich",
+      "Rudolf Klein-Rogge",
+      "Fritz Rasp"
+    ],
+    "director": "Fritz Lang",
+    "description": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.",
+    "runtime": 153,
+    "rated": "NOT RATED",
+    "released": "13 Mar 1927",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0017136"
+  },
+  {
+    "name": "A Separation",
+    "genre": [
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Payman Maadi",
+      "Leila Hatami",
+      "Sareh Bayat",
+      "Shahab Hosseini"
+    ],
+    "director": "Asghar Farhadi",
+    "description": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+    "runtime": 123,
+    "rated": "PG-13",
+    "released": "16 Mar 2011",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzMzU4NDUwOF5BMl5BanBnXkFtZTcwMTM5MjA5Ng@@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt1832382"
+  },
+  {
+    "name": "Rashomon",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Toshirô Mifune",
+      "Machiko Kyô",
+      "Masayuki Mori",
+      "Takashi Shimura"
+    ],
+    "director": "Akira Kurosawa",
+    "description": "A heinous crime and its aftermath are recalled from differing points of view.",
+    "runtime": 88,
+    "rated": "NOT RATED",
+    "released": "26 Dec 1951",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1MDU5MjQ5NF5BMl5BanBnXkFtZTgwMDM2OTE4MzE@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0042876"
+  },
+  {
+    "name": "Indiana Jones and the Last Crusade",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      "Harrison Ford",
+      "Sean Connery",
+      "Denholm Elliott",
+      "Alison Doody"
+    ],
+    "director": "Steven Spielberg",
+    "description": "When Dr. Henry Jones, Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Dr. Henry \"Indiana\" Jones, Jr. must follow in his father's footsteps to stop the Nazis from getting their hands on the Holy Grail first.",
+    "runtime": 127,
+    "rated": "PG-13",
+    "released": "24 May 1989",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0097576"
+  },
+  {
+    "name": "Up",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Edward Asner",
+      "Christopher Plummer",
+      "Jordan Nagai",
+      "Bob Peterson"
+    ],
+    "director": "Pete Docter, Bob Peterson(co-director)",
+    "description": "Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.",
+    "runtime": 96,
+    "rated": "PG",
+    "released": "29 May 2009",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt1049413"
+  },
+  {
+    "name": "Yojimbo",
+    "genre": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Toshirô Mifune",
+      "Tatsuya Nakadai",
+      "Yôko Tsukasa",
+      "Isuzu Yamada"
+    ],
+    "director": "Akira Kurosawa",
+    "description": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+    "runtime": 110,
+    "rated": "NOT RATED",
+    "released": "13 Sep 1961",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0055630"
+  },
+  {
+    "name": "All About Eve",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Bette Davis",
+      "Anne Baxter",
+      "George Sanders",
+      "Celeste Holm"
+    ],
+    "director": "Joseph L. Mankiewicz",
+    "description": "An ingenue insinuates herself into the company of an established but aging stage actress and her circle of theater friends.",
+    "runtime": 138,
+    "rated": "NOT RATED",
+    "released": "27 Oct 1950",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0042192"
+  },
+  {
+    "name": "Batman Begins",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "actors": [
+      "Christian Bale",
+      "Michael Caine",
+      "Liam Neeson",
+      "Katie Holmes"
+    ],
+    "director": "Christopher Nolan",
+    "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.",
+    "runtime": 140,
+    "rated": "PG-13",
+    "released": "15 Jun 2005",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzc4ODgyZmYtMGFkZC00NGQyLWJiMDItMmFmNjJiZjcxYzVmXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0372784"
+  },
+  {
+    "name": "Some Like It Hot",
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      "Marilyn Monroe",
+      "Tony Curtis",
+      "Jack Lemmon",
+      "George Raft"
+    ],
+    "director": "Billy Wilder",
+    "description": "When two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+    "runtime": 121,
+    "rated": "NOT RATED",
+    "released": "14 Apr 1959",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0053291"
+  },
+  {
+    "name": "Unforgiven",
+    "genre": [
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      "Clint Eastwood",
+      "Gene Hackman",
+      "Morgan Freeman",
+      "Richard Harris"
+    ],
+    "director": "Clint Eastwood",
+    "description": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner and a young man.",
+    "runtime": 130,
+    "rated": "R",
+    "released": "07 Aug 1992",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0105695"
+  },
+  {
+    "name": "The Treasure of the Sierra Madre",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      "Humphrey Bogart",
+      "Walter Huston",
+      "Tim Holt",
+      "Bruce Bennett"
+    ],
+    "director": "John Huston",
+    "description": "Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+    "runtime": 126,
+    "rated": "NOT RATED",
+    "released": "24 Jan 1948",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNjgxNjFhYTItMjliNS00OTQzLWFiZDgtODgyZmQ3MTdlMmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0040897"
+  },
+  {
+    "name": "My Father and My Son",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Resit Kurt",
+      "Fikret Kuskan",
+      "Çetin Tekindor",
+      "Furkan Turan"
+    ],
+    "director": "Çagan Irmak",
+    "description": "The family of a left-wing journalist is torn apart after a military coup in 1980's Turkey.",
+    "runtime": 108,
+    "rated": "N/A",
+    "released": "18 Nov 2005",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.5",
+    "imdbID": "tt0476735"
+  },
+  {
+    "name": "Downfall",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Bruno Ganz",
+      "Alexandra Maria Lara",
+      "Corinna Harfouch",
+      "Ulrich Matthes"
+    ],
+    "director": "Oliver Hirschbiegel",
+    "description": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+    "runtime": 156,
+    "rated": "R",
+    "released": "08 Apr 2005",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMGU0MDlmYjYtNWI3Yy00OWJiLTljZTItNjBlMjMwMWFkZDllXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0363163"
+  },
+  {
+    "name": "Die Hard",
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "actors": [
+      "Bruce Willis",
+      "Bonnie Bedelia",
+      "Reginald VelJohnson",
+      "Paul Gleason"
+    ],
+    "director": "John McTiernan",
+    "description": "John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+    "runtime": 132,
+    "rated": "R",
+    "released": "20 Jul 1988",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0095016"
+  },
+  {
+    "name": "Heat",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Val Kilmer",
+      "Jon Voight"
+    ],
+    "director": "Michael Mann",
+    "description": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist, while both sides attempt to find balance between their personal and professional lives.",
+    "runtime": 170,
+    "rated": "R",
+    "released": "15 Dec 1995",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNDc0YTQ5NGEtM2NkYS00MWRhLThiNzAtNmY3NWU3YzNkMjIyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0113277"
+  },
+  {
+    "name": "Raging Bull",
+    "genre": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Cathy Moriarty",
+      "Joe Pesci",
+      "Frank Vincent"
+    ],
+    "director": "Martin Scorsese",
+    "description": "Emotionally self-destructive boxer, Jake La Motta's journey through life, as the violence and temper that leads him to the top in the ring destroys his life outside it.",
+    "runtime": 129,
+    "rated": "R",
+    "released": "19 Dec 1980",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0081398"
+  },
+  {
+    "name": "Three Billboards Outside Ebbing, Missouri",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Frances McDormand",
+      "Caleb Landry Jones",
+      "Kerry Condon",
+      "Sam Rockwell"
+    ],
+    "director": "Martin McDonagh",
+    "description": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+    "runtime": 115,
+    "rated": "R",
+    "released": "01 Dec 2017",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjMxNzgwMDUyMl5BMl5BanBnXkFtZTgwMTQ0NTIyNDM@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt5027774"
+  },
+  {
+    "name": "Ikiru",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Takashi Shimura",
+      "Shin'ichi Himori",
+      "Haruo Tanaka",
+      "Minoru Chiaki"
+    ],
+    "director": "Akira Kurosawa",
+    "description": "A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.",
+    "runtime": 143,
+    "rated": "NOT RATED",
+    "released": "25 Mar 1956",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWU4NmM5OTgtODk1MC00NThiLThkNjMtOWM5MGIzYjEyNmY5XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0044741"
+  },
+  {
+    "name": "The Great Escape",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Steve McQueen",
+      "James Garner",
+      "Richard Attenborough",
+      "James Donald"
+    ],
+    "director": "John Sturges",
+    "description": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+    "runtime": 172,
+    "rated": "APPROVED",
+    "released": "04 Jul 1963",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0057115"
+  },
+  {
+    "name": "The Third Man",
+    "genre": [
+      "Film-Noir",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Joseph Cotten",
+      "Alida Valli",
+      "Orson Welles",
+      "Trevor Howard"
+    ],
+    "director": "Carol Reed",
+    "description": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+    "runtime": 93,
+    "rated": "NOT RATED",
+    "released": "12 Oct 1949",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0041959"
+  },
+  {
+    "name": "Children of Heaven",
+    "genre": [
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      "Mohammad Amir Naji",
+      "Amir Farrokh Hashemian",
+      "Bahare Seddiqi",
+      "Nafise Jafar-Mohammadi"
+    ],
+    "director": "Majid Majidi",
+    "description": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+    "runtime": 89,
+    "rated": "PG",
+    "released": "22 Jan 1999",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZmI0Njc5MzAtNDc1NS00M2Y2LTlkNTItYWI3YjJmNTU1Y2UyXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0118849"
+  },
+  {
+    "name": "Chinatown",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Jack Nicholson",
+      "Faye Dunaway",
+      "John Huston",
+      "Perry Lopez"
+    ],
+    "director": "Roman Polanski",
+    "description": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder.",
+    "runtime": 130,
+    "rated": "R",
+    "released": "20 Jun 1974",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYWRkNGJhMmEtMWM3Ni00MDc3LThhMTQtMWI2OTMxYmE5MTZhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0071315"
+  },
+  {
+    "name": "Pan's Labyrinth",
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "War"
+    ],
+    "actors": [
+      "Ivana Baquero",
+      "Sergi López",
+      "Maribel Verdú",
+      "Doug Jones"
+    ],
+    "director": "Guillermo del Toro",
+    "description": "In the falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+    "runtime": 118,
+    "rated": "R",
+    "released": "19 Jan 2007",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3ODg2NjQ5NF5BMl5BanBnXkFtZTcwMDEwODgzMQ@@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0457430"
+  },
+  {
+    "name": "Incendies",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "actors": [
+      "Mustafa Kamel",
+      "Hussein Sami",
+      "Rémy Girard",
+      "Mélissa Désormeaux-Poulin"
+    ],
+    "director": "Denis Villeneuve",
+    "description": "Twins journey to the Middle East to discover their family history, and fulfill their mother's last wishes.",
+    "runtime": 131,
+    "rated": "R",
+    "released": "12 Jan 2011",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNTA3Njk4M15BMl5BanBnXkFtZTcwMzkzMzY3Mw@@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt1255953"
+  },
+  {
+    "name": "My Neighbor Totoro",
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      "Noriko Hidaka",
+      "Chika Sakamoto",
+      "Shigesato Itoi",
+      "Sumi Shimamoto"
+    ],
+    "director": "Hayao Miyazaki",
+    "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+    "runtime": 86,
+    "rated": "G",
+    "released": "16 Apr 1988",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTdiOTQ0YmUtOGE3YS00NDg5LWI3YTEtNDAxZmE0MzRmZWM5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0096283"
+  },
+  {
+    "name": "Ran",
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "actors": [
+      "Tatsuya Nakadai",
+      "Akira Terao",
+      "Jinpachi Nezu",
+      "Daisuke Ryû"
+    ],
+    "director": "Akira Kurosawa",
+    "description": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+    "runtime": 162,
+    "rated": "R",
+    "released": "01 Jun 1985",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZDBjZTM4ZmEtOTA5ZC00NTQzLTkyNzYtMmUxNGU2YjI5YjU5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0089881"
+  },
+  {
+    "name": "Judgment at Nuremberg",
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Spencer Tracy",
+      "Burt Lancaster",
+      "Richard Widmark",
+      "Marlene Dietrich"
+    ],
+    "director": "Stanley Kramer",
+    "description": "In 1948, an American court in occupied Germany tries four Nazi judges for war crimes.",
+    "runtime": 186,
+    "rated": "NOT RATED",
+    "released": "18 Dec 1961",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BOGYwMjIzZmMtMzkwNi00NTg1LTk3MTEtODc5Mjc2OTZkMjg0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0055031"
+  },
+  {
+    "name": "The Secret in Their Eyes",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "actors": [
+      "Soledad Villamil",
+      "Ricardo Darín",
+      "Carla Quevedo",
+      "Pablo Rago"
+    ],
+    "director": "Juan José Campanella",
+    "description": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+    "runtime": 129,
+    "rated": "R",
+    "released": "21 May 2010",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt1305806"
+  },
+  {
+    "name": "The Gold Rush",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Charles Chaplin",
+      "Mack Swain",
+      "Tom Murray",
+      "Henry Bergman"
+    ],
+    "director": "Charles Chaplin",
+    "description": "A prospector goes to the Klondike in search of gold and finds it and more.",
+    "runtime": 95,
+    "rated": "NOT RATED",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0015864"
+  },
+  {
+    "name": "Howl's Moving Castle",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "actors": [
+      "Chieko Baishô",
+      "Takuya Kimura",
+      "Akihiro Miwa",
+      "Tatsuya Gashûin"
+    ],
+    "director": "Hayao Miyazaki",
+    "description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+    "runtime": 119,
+    "rated": "PG",
+    "released": "17 Jun 2005",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTRhY2QwM2UtNWRlNy00ZWQwLTg3MjktZThmNjQ3NTdjN2IxXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0347149"
+  },
+  {
+    "name": "The Bridge on the River Kwai",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "William Holden",
+      "Alec Guinness",
+      "Jack Hawkins",
+      "Sessue Hayakawa"
+    ],
+    "director": "David Lean",
+    "description": "After settling his differences with a Japanese PoW camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors - while oblivious to a plan by the Allies to destroy it.",
+    "runtime": 161,
+    "rated": "PG",
+    "released": "14 Dec 1957",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2M2NGI0MDktMWVmNy00YWViLWJhMWYtOWRlOWY4YzVlMzZhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0050212"
+  },
+  {
+    "name": "On the Waterfront",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Marlon Brando",
+      "Karl Malden",
+      "Lee J. Cobb",
+      "Rod Steiger"
+    ],
+    "director": "Elia Kazan",
+    "description": "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.",
+    "runtime": 108,
+    "rated": "NOT RATED",
+    "released": "22 Jun 1954",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0047296"
+  },
+  {
+    "name": "Inside Out",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Amy Poehler",
+      "Phyllis Smith",
+      "Richard Kind",
+      "Bill Hader"
+    ],
+    "director": "Pete Docter, Ronnie Del Carmen(co-director)",
+    "description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+    "runtime": 95,
+    "rated": "PG",
+    "released": "19 Jun 2015",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt2096673"
+  },
+  {
+    "name": "The Seventh Seal",
+    "genre": [
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      "Gunnar Björnstrand",
+      "Bengt Ekerot",
+      "Nils Poppe",
+      "Max von Sydow"
+    ],
+    "director": "Ingmar Bergman",
+    "description": "A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+    "runtime": 96,
+    "rated": "NOT RATED",
+    "released": "13 Oct 1958",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYWRiNDU4ODUtZDRlOS00YzRhLTk3M2ItNWQ4MGQwYWFlNTllXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0050976"
+  },
+  {
+    "name": "Lock, Stock and Two Smoking Barrels",
+    "genre": [
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      "Jason Flemyng",
+      "Dexter Fletcher",
+      "Nick Moran",
+      "Jason Statham"
+    ],
+    "director": "Guy Ritchie",
+    "description": "A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.",
+    "runtime": 107,
+    "rated": "R",
+    "released": "28 Aug 1998",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0120735"
+  },
+  {
+    "name": "A Beautiful Mind",
+    "genre": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      "Russell Crowe",
+      "Ed Harris",
+      "Jennifer Connelly",
+      "Christopher Plummer"
+    ],
+    "director": "Ron Howard",
+    "description": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+    "runtime": 135,
+    "rated": "PG-13",
+    "released": "04 Jan 2002",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0268978"
+  },
+  {
+    "name": "Casino",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Sharon Stone",
+      "Joe Pesci",
+      "James Woods"
+    ],
+    "director": "Martin Scorsese",
+    "description": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive, compete against each other over a gambling empire, and over a fast living and fast loving socialite.",
+    "runtime": 178,
+    "rated": "R",
+    "released": "22 Nov 1995",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0112641"
+  },
+  {
+    "name": "Room",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Brie Larson",
+      "Jacob Tremblay",
+      "Sean Bridgers",
+      "Wendy Crewson"
+    ],
+    "director": "Lenny Abrahamson",
+    "description": "A young boy is raised within the confines of a small shed.",
+    "runtime": 118,
+    "rated": "R",
+    "released": "22 Jan 2016",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt3170832"
+  },
+  {
+    "name": "Mr. Smith Goes to Washington",
+    "genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Jean Arthur",
+      "James Stewart",
+      "Claude Rains",
+      "Edward Arnold"
+    ],
+    "director": "Frank Capra",
+    "description": "A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
+    "runtime": 129,
+    "rated": "NOT RATED",
+    "released": "19 Oct 1939",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0031679"
+  },
+  {
+    "name": "The Elephant Man",
+    "genre": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      "Anthony Hopkins",
+      "John Hurt",
+      "Anne Bancroft",
+      "John Gielgud"
+    ],
+    "director": "David Lynch",
+    "description": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous facade, there is revealed a person of intelligence and sensitivity.",
+    "runtime": 124,
+    "rated": "PG",
+    "released": "10 Oct 1980",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0080678"
+  },
+  {
+    "name": "Sherlock Jr.",
+    "genre": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      "Buster Keaton",
+      "Kathryn McGuire",
+      "Joe Keaton",
+      "Erwin Connelly"
+    ],
+    "director": "Buster Keaton",
+    "description": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+    "runtime": 45,
+    "rated": "NOT RATED",
+    "released": "11 May 1924",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3ODM2MzcwMl5BMl5BanBnXkFtZTgwODQ0OTU2MzE@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0015324"
+  },
+  {
+    "name": "The Wolf of Wall Street",
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie",
+      "Matthew McConaughey"
+    ],
+    "director": "Martin Scorsese",
+    "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "runtime": 180,
+    "rated": "R",
+    "released": "25 Dec 2013",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0993846"
+  },
+  {
+    "name": "V for Vendetta",
+    "genre": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Natalie Portman",
+      "Hugo Weaving",
+      "Stephen Rea",
+      "Stephen Fry"
+    ],
+    "director": "James McTeigue",
+    "description": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow it with the help of a young woman.",
+    "runtime": 132,
+    "rated": "R",
+    "released": "17 Mar 2006",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzllMjJkODAtYjMwMi00YmNhLWFhYzAtZjZjODg5YzEwOGUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0434409"
+  },
+  {
+    "name": "Blade Runner",
+    "genre": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young",
+      "Edward James Olmos"
+    ],
+    "director": "Ridley Scott",
+    "description": "A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+    "runtime": 117,
+    "rated": "R",
+    "released": "25 Jun 1982",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0083658"
+  },
+  {
+    "name": "Wild Strawberries",
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Victor Sjöström",
+      "Bibi Andersson",
+      "Ingrid Thulin",
+      "Gunnar Björnstrand"
+    ],
+    "director": "Ingmar Bergman",
+    "description": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+    "runtime": 91,
+    "rated": "NOT RATED",
+    "released": "22 Jun 1959",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjgwNjI3NTM1MF5BMl5BanBnXkFtZTgwNzY3MTUyMjE@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0050986"
+  },
+  {
+    "name": "The General",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Buster Keaton",
+      "Marion Mack",
+      "Glen Cavender",
+      "Jim Farley"
+    ],
+    "director": "Clyde Bruckman, Buster Keaton",
+    "description": "When Union spies steal an engineer's beloved locomotive, he pursues it single-handedly and straight through enemy lines.",
+    "runtime": 67,
+    "rated": "NOT RATED",
+    "released": "24 Feb 1927",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0017925"
+  },
+  {
+    "name": "Warrior",
+    "genre": [
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      "Joel Edgerton",
+      "Tom Hardy",
+      "Nick Nolte",
+      "Jennifer Morrison"
+    ],
+    "director": "Gavin O'Connor",
+    "description": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+    "runtime": 140,
+    "rated": "PG-13",
+    "released": "09 Sep 2011",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt1291584"
+  },
+  {
+    "name": "Dial M for Murder",
+    "genre": [
+      "Crime",
+      "Film-Noir",
+      "Thriller"
+    ],
+    "actors": [
+      "Ray Milland",
+      "Grace Kelly",
+      "Robert Cummings",
+      "John Williams"
+    ],
+    "director": "Alfred Hitchcock",
+    "description": "An ex-tennis pro carries out a plot to murder his wife. When things go wrong, he improvises a brilliant plan B.",
+    "runtime": 105,
+    "rated": "PG",
+    "released": "29 May 1954",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0046912"
+  },
+  {
+    "name": "Trainspotting",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Ewan McGregor",
+      "Ewen Bremner",
+      "Jonny Lee Miller",
+      "Kevin McKidd"
+    ],
+    "director": "Danny Boyle",
+    "description": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+    "runtime": 94,
+    "rated": "R",
+    "released": "09 Aug 1996",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0117951"
+  },
+  {
+    "name": "Gone with the Wind",
+    "genre": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "actors": [
+      "Thomas Mitchell",
+      "Barbara O'Neil",
+      "Vivien Leigh",
+      "Evelyn Keyes"
+    ],
+    "director": "Victor Fleming, George Cukor, Sam Wood",
+    "description": "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",
+    "runtime": 238,
+    "rated": "G",
+    "released": "17 Jan 1940",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYWQwOWVkMGItMDU2Yy00YjIzLWJkMjEtNmVkZjE3MjMwYzEzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0031381"
+  },
+  {
+    "name": "Gran Torino",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Clint Eastwood",
+      "Christopher Carley",
+      "Bee Vang",
+      "Ahney Her"
+    ],
+    "director": "Clint Eastwood",
+    "description": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+    "runtime": 116,
+    "rated": "R",
+    "released": "09 Jan 2009",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt1205489"
+  },
+  {
+    "name": "No Country for Old Men",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Tommy Lee Jones",
+      "Javier Bardem",
+      "Josh Brolin",
+      "Woody Harrelson"
+    ],
+    "director": "Ethan Coen, Joel Coen",
+    "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+    "runtime": 122,
+    "rated": "R",
+    "released": "21 Nov 2007",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0477348"
+  },
+  {
+    "name": "The Sixth Sense",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette",
+      "Olivia Williams"
+    ],
+    "director": "M. Night Shyamalan",
+    "description": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+    "runtime": 107,
+    "rated": "PG-13",
+    "released": "06 Aug 1999",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0167404"
+  },
+  {
+    "name": "Fargo",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "William H. Macy",
+      "Steve Buscemi",
+      "Peter Stormare",
+      "Kristin Rudrüd"
+    ],
+    "director": "Joel Coen, Ethan Coen",
+    "description": "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+    "runtime": 98,
+    "rated": "R",
+    "released": "05 Apr 1996",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0116282"
+  },
+  {
+    "name": "The Deer Hunter",
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "John Cazale",
+      "John Savage",
+      "Christopher Walken"
+    ],
+    "director": "Michael Cimino",
+    "description": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
+    "runtime": 183,
+    "rated": "R",
+    "released": "23 Feb 1979",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0077416"
+  },
+  {
+    "name": "There Will Be Blood",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Daniel Day-Lewis",
+      "Martin Stringer",
+      "Matthew Braden Stringer",
+      "Jacob Stringer"
+    ],
+    "director": "Paul Thomas Anderson",
+    "description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+    "runtime": 158,
+    "rated": "R",
+    "released": "25 Jan 2008",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0469494"
+  },
+  {
+    "name": "The Thing",
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "T.K. Carter",
+      "David Clennon"
+    ],
+    "director": "John Carpenter",
+    "description": "A crew in Antarctica finds a neighboring camp destroyed and its crew dead. Whatever killed them is nowhere to be found, unless it's hidden in plain sight.",
+    "runtime": 109,
+    "rated": "R",
+    "released": "25 Jun 1982",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNDcyZmFjY2YtN2I1OC00MzU3LWIzZGEtZDA5N2VlNDJjYWI3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0084787"
+  },
+  {
+    "name": "Finding Nemo",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould",
+      "Willem Dafoe"
+    ],
+    "director": "Andrew Stanton, Lee Unkrich(co-director)",
+    "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+    "runtime": 100,
+    "rated": "G",
+    "released": "30 May 2003",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjMxYzBiNjUtZDliNC00MDAyLTg3N2QtOWNjNmNhZGQzNDg5XkEyXkFqcGdeQXVyNjE2MjQwNjc@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0266543"
+  },
+  {
+    "name": "The Big Lebowski",
+    "genre": [
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Julianne Moore",
+      "Steve Buscemi"
+    ],
+    "director": "Joel Coen, Ethan Coen",
+    "description": "\"The Dude\" Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+    "runtime": 117,
+    "rated": "R",
+    "released": "06 Mar 1998",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZTFjMjBiYzItNzU5YS00MjdiLWJkOTktNDQ3MTE3ZjY2YTY5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0118715"
+  },
+  {
+    "name": "Come and See",
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Aleksey Kravchenko",
+      "Olga Mironova",
+      "Liubomiras Laucevicius",
+      "Vladas Bagdonas"
+    ],
+    "director": "Elem Klimov",
+    "description": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+    "runtime": 142,
+    "rated": "NOT RATED",
+    "released": "17 Oct 1985",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BOWY0ODU3ZWMtZmRhMy00OTZjLWIwYmUtN2Q0OTFmMWY4OTFiXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0091251"
+  },
+  {
+    "name": "Sunrise",
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "George O'Brien",
+      "Janet Gaynor",
+      "Margaret Livingston",
+      "Bodil Rosing"
+    ],
+    "director": "F.W. Murnau",
+    "description": "An allegorical tale about a man fighting the good and evil within him. Both sides are made flesh - one a sophisticated woman he is attracted to and the other his wife.",
+    "runtime": 94,
+    "rated": "NOT RATED",
+    "released": "04 Nov 1927",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNDVkYmYwM2ItNzRiMy00NWQ4LTlhMjMtNDI1ZDYyOGVmMzJjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0018455"
+  },
+  {
+    "name": "Cool Hand Luke",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Paul Newman",
+      "George Kennedy",
+      "J.D. Cannon",
+      "Lou Antonio"
+    ],
+    "director": "Stuart Rosenberg",
+    "description": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+    "runtime": 126,
+    "rated": "GP",
+    "released": "01 Nov 1967",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0061512"
+  },
+  {
+    "name": "Tokyo Story",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Chishû Ryû",
+      "Chieko Higashiyama",
+      "Setsuko Hara",
+      "Haruko Sugimura"
+    ],
+    "director": "Yasujirô Ozu",
+    "description": "An old couple visit their children and grandchildren in the city; but the children have little time for them.",
+    "runtime": 136,
+    "rated": "NOT RATED",
+    "released": "13 Mar 1972",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZjVlNGJmMmQtN2Q1NC00Zjk3LWI0NDctZWFjMWM0NTc4MmI0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0046438"
+  },
+  {
+    "name": "Kill Bill: Vol. 1",
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      "Uma Thurman",
+      "Lucy Liu",
+      "Vivica A. Fox",
+      "Daryl Hannah"
+    ],
+    "director": "Quentin Tarantino",
+    "description": "The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of.",
+    "runtime": 111,
+    "rated": "R",
+    "released": "10 Oct 2003",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYTczMGFiOWItMjA3Mi00YTU5LWIwMDgtYTEzNjRkNDkwMTE2XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0266697"
+  },
+  {
+    "name": "Rebecca",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "actors": [
+      "Laurence Olivier",
+      "Joan Fontaine",
+      "George Sanders",
+      "Judith Anderson"
+    ],
+    "director": "Alfred Hitchcock",
+    "description": "A self-conscious bride is tormented by the memory of her husband's dead first wife.",
+    "runtime": 130,
+    "rated": "NOT RATED",
+    "released": "12 Apr 1940",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0032976"
+  },
+  {
+    "name": "The Bandit",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Sener Sen",
+      "Ugur Yücel",
+      "Sermin Hürmeriç",
+      "Yesim Salkim"
+    ],
+    "director": "Yavuz Turgul",
+    "description": "The epic adventures of the legendary Baran the Bandit following his release from prison. After serving 35 years, it is no surprise that the world has changed dramatically. Still, Baran ...",
+    "runtime": 128,
+    "rated": "N/A",
+    "released": "29 Nov 1996",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGQ4ZjFmYjktOGNkNS00OWYyLWIyZjgtMGJjM2U1ZTA0ZTlhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "imdbRating": "8.4",
+    "imdbID": "tt0116231"
+  },
+  {
+    "name": "Andrei Rublev",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Anatoliy Solonitsyn",
+      "Ivan Lapikov",
+      "Nikolay Grinko",
+      "Nikolay Sergeev"
+    ],
+    "director": "Andrei Tarkovsky",
+    "description": "The life, times and afflictions of the fifteenth-century Russian iconographer.",
+    "runtime": 205,
+    "rated": "NOT RATED",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjhkN2Q3MzctNzJiOC00OTc5LWIwOWYtNWRiYWUyMDk0MGZiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0060107"
+  },
+  {
+    "name": "Blade Runner 2049",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Ryan Gosling",
+      "Dave Bautista",
+      "Robin Wright",
+      "Mark Arnold"
+    ],
+    "director": "Denis Villeneuve",
+    "description": "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.",
+    "runtime": 164,
+    "rated": "R",
+    "released": "06 Oct 2017",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt1856101"
+  },
+  {
+    "name": "Shutter Island",
+    "genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley",
+      "Max von Sydow"
+    ],
+    "director": "Martin Scorsese",
+    "description": "In 1954, a U.S. Marshal investigates the disappearance of a murderer, who escaped from a hospital for the criminally insane.",
+    "runtime": 138,
+    "rated": "R",
+    "released": "19 Feb 2010",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BY2NkNTcxNjAtODhjMS00Mjg2LWI1OGItMjRhMGJlODBkZTVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzAxMjE1NDg@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt1130884"
+  },
+  {
+    "name": "Hacksaw Ridge",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Andrew Garfield",
+      "Richard Pyros",
+      "Jacob Warner",
+      "Milo Gibson"
+    ],
+    "director": "Mel Gibson",
+    "description": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+    "runtime": 139,
+    "rated": "R",
+    "released": "04 Nov 2016",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt2119532"
+  },
+  {
+    "name": "How to Train Your Dragon",
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "actors": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Craig Ferguson",
+      "America Ferrera"
+    ],
+    "director": "Dean DeBlois, Chris Sanders",
+    "description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+    "runtime": 98,
+    "rated": "PG",
+    "released": "26 Mar 2010",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0892769"
+  },
+  {
+    "name": "Mary and Max",
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Toni Collette",
+      "Philip Seymour Hoffman",
+      "Barry Humphries",
+      "Eric Bana"
+    ],
+    "director": "Adam Elliot",
+    "description": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+    "runtime": 92,
+    "rated": "NOT RATED",
+    "released": "09 Apr 2009",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0978762"
+  },
+  {
+    "name": "Gone Girl",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Ben Affleck",
+      "Rosamund Pike",
+      "Neil Patrick Harris",
+      "Tyler Perry"
+    ],
+    "director": "David Fincher",
+    "description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "runtime": 149,
+    "rated": "R",
+    "released": "03 Oct 2014",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYjgwY2E1N2QtNDJkMi00YzE4LThiYTItYWI5YmE4NWMzMGFhXkEyXkFqcGdeQXVyMjU3OTA4NzQ@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt2267998"
+  },
+  {
+    "name": "Into the Wild",
+    "genre": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      "Emile Hirsch",
+      "Marcia Gay Harden",
+      "William Hurt",
+      "Jena Malone"
+    ],
+    "director": "Sean Penn",
+    "description": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.",
+    "runtime": 148,
+    "rated": "R",
+    "released": "19 Oct 2007",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0758758"
+  },
+  {
+    "name": "Life of Brian",
+    "genre": [
+      "Comedy"
+    ],
+    "actors": [
+      "Graham Chapman",
+      "John Cleese",
+      "Terry Gilliam",
+      "Eric Idle"
+    ],
+    "director": "Terry Jones",
+    "description": "Brian is born on the original Christmas, in the stable next door. He spends his life being mistaken for a messiah.",
+    "runtime": 94,
+    "rated": "R",
+    "released": "17 Aug 1979",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0079470"
+  },
+  {
+    "name": "Wild Tales",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Darío Grandinetti",
+      "María Marull",
+      "Mónica Villa",
+      "Rita Cortese"
+    ],
+    "director": "Damián Szifron",
+    "description": "Six short stories that explore the extremities of human behavior involving people in distress.",
+    "runtime": 122,
+    "rated": "R",
+    "released": "21 Aug 2014",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzAzMjA1ODAxOV5BMl5BanBnXkFtZTgwODg4NTQzNDE@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt3011894"
+  },
+  {
+    "name": "Rang De Basanti",
+    "genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Aamir Khan",
+      "Siddharth",
+      "Sharman Joshi",
+      "Kunal Kapoor"
+    ],
+    "director": "Rakeysh Omprakash Mehra",
+    "description": "The story of six young Indians who assist an English Woman to film a documentary on the extremist freedom fighters from their past, and the events that lead them to relive the long forgotten saga of freedom.",
+    "runtime": 157,
+    "rated": "NOT RATED",
+    "released": "26 Jan 2006",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwNzA5MjAwN15BMl5BanBnXkFtZTcwMzY5MzIzMQ@@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt0405508"
+  },
+  {
+    "name": "It Happened One Night",
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      "Clark Gable",
+      "Claudette Colbert",
+      "Walter Connolly",
+      "Roscoe Karns"
+    ],
+    "director": "Frank Capra",
+    "description": "A spoiled heiress running away from her family is helped by a man who is actually a reporter in need of a story.",
+    "runtime": 105,
+    "rated": "NOT RATED",
+    "released": "22 Feb 1934",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZmViYmM5OTYtNGQ4Ny00YjQyLThiNjEtYTE4MGZhZTNmZjcyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0025316"
+  },
+  {
+    "name": "The Passion of Joan of Arc",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Maria Falconetti",
+      "Eugene Silvain",
+      "André Berley",
+      "Maurice Schutz"
+    ],
+    "director": "Carl Theodor Dreyer",
+    "description": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+    "runtime": 114,
+    "rated": "NOT RATED",
+    "released": "25 Oct 1928",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDM0NzdhMGItM2Y2Yy00MzM4LTgwY2YtYzQwYWQ5YzRiZDdhXkEyXkFqcGdeQXVyMTg2NTc4MzA@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0019254"
+  },
+  {
+    "name": "Platoon",
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Tom Berenger",
+      "Keith David",
+      "Willem Dafoe",
+      "Forest Whitaker"
+    ],
+    "director": "Oliver Stone",
+    "description": "A young soldier in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.",
+    "runtime": 120,
+    "rated": "R",
+    "released": "06 Feb 1987",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjgzMjZmODItNTM4ZS00ZjUzLTlmZjYtOTVjYmQ5ZGY2NzY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0091763"
+  },
+  {
+    "name": "In the Name of the Father",
+    "genre": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      "Alison Crosbie",
+      "Daniel Day-Lewis",
+      "Philip King",
+      "Emma Thompson"
+    ],
+    "director": "Jim Sheridan",
+    "description": "A man's coerced confession to an IRA bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",
+    "runtime": 133,
+    "rated": "R",
+    "released": "25 Feb 1994",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjhhYTk3ZjEtZmFmNS00OTEwLWE3YWEtODJjYTg5YTA3Mzc5XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0107207"
+  },
+  {
+    "name": "Network",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Faye Dunaway",
+      "William Holden",
+      "Peter Finch",
+      "Robert Duvall"
+    ],
+    "director": "Sidney Lumet",
+    "description": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit.",
+    "runtime": 121,
+    "rated": "R",
+    "released": "27 Nov 1976",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTc3NjcyYmYtMTI4OC00OGViLTkwYzQtZWU2MGMwMTI5ZTU4XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0074958"
+  },
+  {
+    "name": "Hotel Rwanda",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Don Cheadle",
+      "Xolani Mali",
+      "Desmond Dube",
+      "Hakeem Kae-Kazim"
+    ],
+    "director": "Terry George",
+    "description": "Paul Rusesabagina was a hotel manager who housed over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.",
+    "runtime": 121,
+    "rated": "PG-13",
+    "released": "04 Feb 2005",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0395169"
+  },
+  {
+    "name": "Stand by Me",
+    "genre": [
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      "Wil Wheaton",
+      "River Phoenix",
+      "Corey Feldman",
+      "Jerry O'Connell"
+    ],
+    "director": "Rob Reiner",
+    "description": "After the death of a friend, a writer recounts a boyhood journey to find the body of a missing boy.",
+    "runtime": 89,
+    "rated": "R",
+    "released": "22 Aug 1986",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxODliZDYtMGMyYy00ZDQzLTgzOTMtMWY5YWEyNTBhNzk5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0092005"
+  },
+  {
+    "name": "The Grand Budapest Hotel",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Ralph Fiennes",
+      "F. Murray Abraham",
+      "Mathieu Amalric",
+      "Adrien Brody"
+    ],
+    "director": "Wes Anderson",
+    "description": "The adventures of Gustave H, a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.",
+    "runtime": 99,
+    "rated": "R",
+    "released": "28 Mar 2014",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt2278388"
+  },
+  {
+    "name": "The Wages of Fear",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Yves Montand",
+      "Charles Vanel",
+      "Folco Lulli",
+      "Peter van Eyck"
+    ],
+    "director": "Henri-Georges Clouzot",
+    "description": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+    "runtime": 131,
+    "rated": "NOT RATED",
+    "released": "16 Feb 1955",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0046268"
+  },
+  {
+    "name": "Stalker",
+    "genre": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Alisa Freyndlikh",
+      "Aleksandr Kaydanovskiy",
+      "Anatoliy Solonitsyn",
+      "Nikolay Grinko"
+    ],
+    "director": "Andrei Tarkovsky",
+    "description": "A guide leads two men through an area known as the Zone to find a room that grants wishes.",
+    "runtime": 162,
+    "rated": "NOT RATED",
+    "released": "17 Apr 1980",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGM4NjBhMmEtZmI1NS00ODIwLWFjNzAtYjIzYzQ5MDJjMTFjXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0079944"
+  },
+  {
+    "name": "Ben-Hur",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Charlton Heston",
+      "Jack Hawkins",
+      "Haya Harareet",
+      "Stephen Boyd"
+    ],
+    "director": "William Wyler",
+    "description": "When a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.",
+    "runtime": 212,
+    "rated": "G",
+    "released": "29 Jan 1960",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0052618"
+  },
+  {
+    "name": "Rush",
+    "genre": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      "Chris Hemsworth",
+      "Daniel Brühl",
+      "Olivia Wilde",
+      "Alexandra Maria Lara"
+    ],
+    "director": "Ron Howard",
+    "description": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+    "runtime": 123,
+    "rated": "R",
+    "released": "27 Sep 2013",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt1979320"
+  },
+  {
+    "name": "Jurassic Park",
+    "genre": [
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum",
+      "Richard Attenborough"
+    ],
+    "director": "Steven Spielberg",
+    "description": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+    "runtime": 127,
+    "rated": "PG-13",
+    "released": "11 Jun 1993",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0107290"
+  },
+  {
+    "name": "Persona",
+    "genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Bibi Andersson",
+      "Liv Ullmann",
+      "Margaretha Krook",
+      "Gunnar Björnstrand"
+    ],
+    "director": "Ingmar Bergman",
+    "description": "A nurse is put in charge of a mute actress and finds that their personas are melding together.",
+    "runtime": 83,
+    "rated": "NOT RATED",
+    "released": "16 Mar 1967",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGQ5NDBkMzMtYjI5Mi00NjUxLTgyMTgtYTc0OGIwZjc0ZmRlXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0060827"
+  },
+  {
+    "name": "12 Years a Slave",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Chiwetel Ejiofor",
+      "Dwight Henry",
+      "Dickie Gravois",
+      "Bryan Batt"
+    ],
+    "director": "Steve McQueen",
+    "description": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+    "runtime": 134,
+    "rated": "R",
+    "released": "08 Nov 2013",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZjFkOGNjZjAtMzZjNS00ZjI2LTkwNjEtOWQ3NzQzOTBlMDA5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt2024544"
+  },
+  {
+    "name": "Memories of Murder",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Kang-ho Song",
+      "Sang-kyung Kim",
+      "Roe-ha Kim",
+      "Jae-ho Song"
+    ],
+    "director": "Joon-ho Bong",
+    "description": "In a small Korean province in 1986, three detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+    "runtime": 132,
+    "rated": "NOT RATED",
+    "released": "02 May 2003",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZWYyYTk5ODQtNjFjZi00ZDFlLWEwNGEtNGQwZTdmYWRhNmU3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0353969"
+  },
+  {
+    "name": "Million Dollar Baby",
+    "genre": [
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      "Clint Eastwood",
+      "Hilary Swank",
+      "Morgan Freeman",
+      "Jay Baruchel"
+    ],
+    "director": "Clint Eastwood",
+    "description": "A determined woman works with a hardened boxing trainer to become a professional.",
+    "runtime": 132,
+    "rated": "PG-13",
+    "released": "28 Jan 2005",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0405159"
+  },
+  {
+    "name": "The Truman Show",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Jim Carrey",
+      "Laura Linney",
+      "Noah Emmerich",
+      "Natascha McElhone"
+    ],
+    "director": "Peter Weir",
+    "description": "An insurance salesman/adjuster discovers his entire life is actually a television show.",
+    "runtime": 103,
+    "rated": "PG",
+    "released": "05 Jun 1998",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0120382"
+  },
+  {
+    "name": "The 400 Blows",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Jean-Pierre Léaud",
+      "Claire Maurier",
+      "Albert Rémy",
+      "Guy Decomble"
+    ],
+    "director": "François Truffaut",
+    "description": "Moving story of a young boy who, left without attention, delves into a life of petty crime.",
+    "runtime": 99,
+    "rated": "NOT RATED",
+    "released": "16 Nov 1959",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0053198"
+  },
+  {
+    "name": "Mad Max: Fury Road",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult",
+      "Hugh Keays-Byrne"
+    ],
+    "director": "George Miller",
+    "description": "A woman rebels against a tyrannical ruler in postapocalyptic Australia in search for her home-land with the help of a group of female prisoners, a psychotic worshipper, and a drifter named Max.",
+    "runtime": 120,
+    "rated": "R",
+    "released": "15 May 2015",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTY2MTlhMTItZGFiOS00ZGM5LTlhYjUtZWU4NmZmOWJmNzc0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt1392190"
+  },
+  {
+    "name": "Spotlight",
+    "genre": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Mark Ruffalo",
+      "Michael Keaton",
+      "Rachel McAdams",
+      "Liev Schreiber"
+    ],
+    "director": "Tom McCarthy",
+    "description": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+    "runtime": 128,
+    "rated": "R",
+    "released": "20 Nov 2015",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt1895587"
+  },
+  {
+    "name": "Logan",
+    "genre": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Hugh Jackman",
+      "Patrick Stewart",
+      "Dafne Keen",
+      "Boyd Holbrook"
+    ],
+    "director": "James Mangold",
+    "description": "In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.",
+    "runtime": 137,
+    "rated": "R",
+    "released": "03 Mar 2017",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwODQwNTg4OV5BMl5BanBnXkFtZTgwMTk4MTAzMjI@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt3315342"
+  },
+  {
+    "name": "Amores Perros",
+    "genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Emilio Echevarría",
+      "Gael García Bernal",
+      "Goya Toledo",
+      "Álvaro Guerrero"
+    ],
+    "director": "Alejandro G. Iñárritu",
+    "description": "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+    "runtime": 154,
+    "rated": "R",
+    "released": "13 Apr 2001",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWJhOTg5MWQtYTJjMi00YmFkLTg4ODgtYmU2YWVhODQ4ZDM3XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0245712"
+  },
+  {
+    "name": "Before Sunrise",
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Andrea Eckert",
+      "Hanno Pöschl"
+    ],
+    "director": "Richard Linklater",
+    "description": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+    "runtime": 101,
+    "rated": "R",
+    "released": "27 Jan 1995",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0112471"
+  },
+  {
+    "name": "Hachi: A Dog's Tale",
+    "genre": [
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      "Richard Gere",
+      "Joan Allen",
+      "Cary-Hiroyuki Tagawa",
+      "Sarah Roemer"
+    ],
+    "director": "Lasse Hallström",
+    "description": "A college professor's bond with the abandoned dog he takes into his home.",
+    "runtime": 93,
+    "rated": "G",
+    "released": "12 Mar 2010",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BYTNhZDFkN2ItMmZjNy00ODUwLTk1Y2MtMDZhYTA2N2MyNDU5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt1028532"
+  },
+  {
+    "name": "Butch Cassidy and the Sundance Kid",
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Paul Newman",
+      "Robert Redford",
+      "Katharine Ross",
+      "Strother Martin"
+    ],
+    "director": "George Roy Hill",
+    "description": "Two Western bank and train robbers flee to Bolivia when the law gets too close.",
+    "runtime": 110,
+    "rated": "PG",
+    "released": "24 Oct 1969",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0064115"
+  },
+  {
+    "name": "La La Land",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "Amiée Conn",
+      "Terry Walters"
+    ],
+    "director": "Damien Chazelle",
+    "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "runtime": 128,
+    "rated": "PG-13",
+    "released": "25 Dec 2016",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt3783958"
+  },
+  {
+    "name": "Nausicaä of the Valley of the Wind",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      "Sumi Shimamoto",
+      "Mahito Tsujimura",
+      "Hisako Kyôda",
+      "Gorô Naya"
+    ],
+    "director": "Hayao Miyazaki",
+    "description": "Warrior/pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
+    "runtime": 117,
+    "rated": "PG",
+    "released": "11 Mar 1984",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODJiNmUzYmQtZTNhNS00NjY0LThmYjMtOTliOTM1NTdkYzY1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0087544"
+  },
+  {
+    "name": "The Princess Bride",
+    "genre": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      "Cary Elwes",
+      "Mandy Patinkin",
+      "Chris Sarandon",
+      "Christopher Guest"
+    ],
+    "director": "Rob Reiner",
+    "description": "While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.",
+    "runtime": 98,
+    "rated": "PG",
+    "released": "09 Oct 1987",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0093779"
+  },
+  {
+    "name": "Prisoners",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "Viola Davis",
+      "Maria Bello"
+    ],
+    "director": "Denis Villeneuve",
+    "description": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+    "runtime": 153,
+    "rated": "R",
+    "released": "20 Sep 2013",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt1392214"
+  },
+  {
+    "name": "A Wednesday",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Anupam Kher",
+      "Naseeruddin Shah",
+      "Jimmy Shergill",
+      "Deepal Shaw"
+    ],
+    "director": "Neeraj Pandey",
+    "description": "A retiring police officer reminisces about the most astounding day of his career. About a case that was never filed but continues to haunt him in his memories - the case of a man and a Wednesday.",
+    "runtime": 104,
+    "rated": "NOT RATED",
+    "released": "05 Sep 2008",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAzODEzMjE1MTJeQTJeQWpwZ15BbWU3MDE3NjQ5Mzk@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt1280558"
+  },
+  {
+    "name": "The Maltese Falcon",
+    "genre": [
+      "Film-Noir",
+      "Mystery"
+    ],
+    "actors": [
+      "Humphrey Bogart",
+      "Mary Astor",
+      "Gladys George",
+      "Peter Lorre"
+    ],
+    "director": "John Huston",
+    "description": "A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.",
+    "runtime": 100,
+    "rated": "NOT RATED",
+    "released": "18 Oct 1941",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTc4MDEzOTMwMl5BMl5BanBnXkFtZTgwMTc2NjgyMjE@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0033870"
+  },
+  {
+    "name": "Catch Me If You Can",
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Tom Hanks",
+      "Christopher Walken",
+      "Martin Sheen"
+    ],
+    "director": "Steven Spielberg",
+    "description": "The story of Frank Abagnale Jr., before his 19th birthday, successfully forged millions of dollars' worth of checks while posing as a Pan Am pilot, a doctor, and legal prosecutor as a seasoned and dedicated FBI agent pursues him.",
+    "runtime": 141,
+    "rated": "PG-13",
+    "released": "25 Dec 2002",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0264464"
+  },
+  {
+    "name": "Harry Potter and the Deathly Hallows: Part 2",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      "Ralph Fiennes",
+      "Michael Gambon",
+      "Alan Rickman",
+      "Daniel Radcliffe"
+    ],
+    "director": "David Yates",
+    "description": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+    "runtime": 130,
+    "rated": "PG-13",
+    "released": "15 Jul 2011",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt1201607"
+  },
+  {
+    "name": "The Nights of Cabiria",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Giulietta Masina",
+      "François Périer",
+      "Franca Marzi",
+      "Dorian Gray"
+    ],
+    "director": "Federico Fellini",
+    "description": "A waifish prostitute wanders the streets of Rome looking for true love but finds only heartbreak.",
+    "runtime": 110,
+    "rated": "NOT RATED",
+    "released": "16 Oct 1957",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZjllMDcyY2YtZDc5Zi00NDRlLThkZmItMTJhOWZmYjM0NmQyXkEyXkFqcGdeQXVyNTc1NDM0NDU@._V1_SX300.jpg",
+    "imdbRating": "8.2",
+    "imdbID": "tt0050783"
+  },
+  {
+    "name": "Rocky",
+    "genre": [
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      "Sylvester Stallone",
+      "Talia Shire",
+      "Burt Young",
+      "Carl Weathers"
+    ],
+    "director": "John G. Avildsen",
+    "description": "Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight heavy-weight champion Apollo Creed in a bout in which he strives to go the distance for his self-respect.",
+    "runtime": 120,
+    "rated": "PG",
+    "released": "03 Dec 1976",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0075148"
+  },
+  {
+    "name": "The Grapes of Wrath",
+    "genre": [
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Henry Fonda",
+      "Jane Darwell",
+      "John Carradine",
+      "Charley Grapewin"
+    ],
+    "director": "John Ford",
+    "description": "A poor Midwest family is forced off their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.",
+    "runtime": 129,
+    "rated": "PASSED",
+    "released": "15 Mar 1940",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0032551"
+  },
+  {
+    "name": "Monsters, Inc.",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "John Goodman",
+      "Billy Crystal",
+      "Mary Gibbs",
+      "Steve Buscemi"
+    ],
+    "director": "Pete Docter, David Silverman(co-director), Lee Unkrich(co-director)",
+    "description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.",
+    "runtime": 92,
+    "rated": "G",
+    "released": "02 Nov 2001",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0198781"
+  },
+  {
+    "name": "Donnie Darko",
+    "genre": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      "Jake Gyllenhaal",
+      "Holmes Osborne",
+      "Maggie Gyllenhaal",
+      "Daveigh Chase"
+    ],
+    "director": "Richard Kelly",
+    "description": "A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.",
+    "runtime": 113,
+    "rated": "R",
+    "released": "26 Oct 2001",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjZlZDlkYTktMmU1My00ZDBiLWFlNjEtYTBhNjVhOTM4ZjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0246578"
+  },
+  {
+    "name": "Diabolique",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "actors": [
+      "Simone Signoret",
+      "Véra Clouzot",
+      "Paul Meurisse",
+      "Charles Vanel"
+    ],
+    "director": "Henri-Georges Clouzot",
+    "description": "The wife and mistress of a cruel headmaster conspire to kill him; after the murder is committed, his corpse disappears, and strange events begin to plague the two women.",
+    "runtime": 117,
+    "rated": "NOT RATED",
+    "released": "21 Nov 1955",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMGJmNmU5OTAtOTQyYy00MmM3LTk4MzUtMGFiZDYzODdmMmU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0046911"
+  },
+  {
+    "name": "Barry Lyndon",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Ryan O'Neal",
+      "Marisa Berenson",
+      "Patrick Magee",
+      "Hardy Krüger"
+    ],
+    "director": "Stanley Kubrick",
+    "description": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+    "runtime": 185,
+    "rated": "PG",
+    "released": "18 Dec 1975",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0072684"
+  },
+  {
+    "name": "Gandhi",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Ben Kingsley",
+      "Candice Bergen",
+      "Edward Fox",
+      "John Gielgud"
+    ],
+    "director": "Richard Attenborough",
+    "description": "Gandhi's character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.",
+    "runtime": 191,
+    "rated": "PG",
+    "released": "25 Feb 1983",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMzJiZDRmOWUtYjE2MS00Mjc1LTg1ZDYtNTQxYWJkZTg1OTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0083987"
+  },
+  {
+    "name": "Paper Moon",
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Ryan O'Neal",
+      "Tatum O'Neal",
+      "Madeline Kahn",
+      "John Hillerman"
+    ],
+    "director": "Peter Bogdanovich",
+    "description": "During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.",
+    "runtime": 102,
+    "rated": "PG",
+    "released": "09 May 1973",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BOWVmYzQwY2MtOTBjNi00MDNhLWI5OGMtN2RiMDYxODI3MjU5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0070510"
+  },
+  {
+    "name": "Touch of Evil",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      "Charlton Heston",
+      "Janet Leigh",
+      "Orson Welles",
+      "Joseph Calleia"
+    ],
+    "director": "Orson Welles",
+    "description": "A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town.",
+    "runtime": 95,
+    "rated": "PG-13",
+    "released": "01 Feb 1958",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BOTA1MjA3M2EtMmJjZS00OWViLTkwMTEtM2E5ZDk0NTAyNGJiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0052311"
+  },
+  {
+    "name": "The Terminator",
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Michael Biehn",
+      "Linda Hamilton",
+      "Paul Winfield"
+    ],
+    "director": "James Cameron",
+    "description": "A seemingly indestructible humanoid cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.",
+    "runtime": 107,
+    "rated": "R",
+    "released": "26 Oct 1984",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BODE1MDczNTUxOV5BMl5BanBnXkFtZTcwMTA0NDQyNA@@._V1_SX300.jpg",
+    "imdbRating": "8.0",
+    "imdbID": "tt0088247"
+  },
+  {
+    "name": "La Haine",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Vincent Cassel",
+      "Hubert Koundé",
+      "Saïd Taghmaoui",
+      "Abdel Ahmed Ghili"
+    ],
+    "director": "Mathieu Kassovitz",
+    "description": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+    "runtime": 98,
+    "rated": "NOT RATED",
+    "released": "23 Feb 1996",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0113247"
+  },
+  {
+    "name": "Groundhog Day",
+    "genre": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "actors": [
+      "Bill Murray",
+      "Andie MacDowell",
+      "Chris Elliott",
+      "Stephen Tobolowsky"
+    ],
+    "director": "Harold Ramis",
+    "description": "A weatherman finds himself inexplicably living the same day over and over again.",
+    "runtime": 101,
+    "rated": "PG",
+    "released": "12 Feb 1993",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.0",
+    "imdbID": "tt0107048"
+  },
+  {
+    "name": "The Wizard of Oz",
+    "genre": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      "Judy Garland",
+      "Frank Morgan",
+      "Ray Bolger",
+      "Bert Lahr"
+    ],
+    "director": "Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog, King Vidor",
+    "description": "Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.",
+    "runtime": 102,
+    "rated": "PG",
+    "released": "25 Aug 1939",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0032138"
+  },
+  {
+    "name": "The Bourne Ultimatum",
+    "genre": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Matt Damon",
+      "Julia Stiles",
+      "David Strathairn",
+      "Scott Glenn"
+    ],
+    "director": "Paul Greengrass",
+    "description": "Jason Bourne dodges a ruthless CIA official and his agents from a new assassination program while searching for the origins of his life as a trained killer.",
+    "runtime": 115,
+    "rated": "PG-13",
+    "released": "03 Aug 2007",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNGNiNmU2YTMtZmU4OS00MjM0LTlmYWUtMjVlYjAzYjE2N2RjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "imdbRating": "8.0",
+    "imdbID": "tt0440963"
+  },
+  {
+    "name": "Annie Hall",
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      "Woody Allen",
+      "Diane Keaton",
+      "Tony Roberts",
+      "Carol Kane"
+    ],
+    "director": "Woody Allen",
+    "description": "Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.",
+    "runtime": 93,
+    "rated": "PG",
+    "released": "20 Apr 1977",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDg1OGQ4YzgtM2Y2NS00NjA3LWFjYTctMDRlMDI3NWE1OTUyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0075686"
+  },
+  {
+    "name": "8½",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Marcello Mastroianni",
+      "Claudia Cardinale",
+      "Anouk Aimée",
+      "Sandra Milo"
+    ],
+    "director": "Federico Fellini",
+    "description": "A harried movie director retreats into his memories and fantasies.",
+    "runtime": 138,
+    "rated": "NOT RATED",
+    "released": "25 Jun 1963",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MTA0NjEzMF5BMl5BanBnXkFtZTgwMDg4NDYxMzE@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0056801"
+  },
+  {
+    "name": "Dead Poets Society",
+    "genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Robin Williams",
+      "Robert Sean Leonard",
+      "Ethan Hawke",
+      "Josh Charles"
+    ],
+    "director": "Peter Weir",
+    "description": "English teacher John Keating inspires his students to look at poetry with a different perspective of authentic knowledge and feelings.",
+    "runtime": 128,
+    "rated": "PG",
+    "released": "09 Jun 1989",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0097165"
+  },
+  {
+    "name": "Jaws",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss",
+      "Lorraine Gary"
+    ],
+    "director": "Steven Spielberg",
+    "description": "A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wrecking havoc in a beach resort.",
+    "runtime": 124,
+    "rated": "PG",
+    "released": "20 Jun 1975",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbRating": "8.0",
+    "imdbID": "tt0073195"
+  },
+  {
+    "name": "The Help",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Emma Stone",
+      "Viola Davis",
+      "Bryce Dallas Howard",
+      "Octavia Spencer"
+    ],
+    "director": "Tate Taylor",
+    "description": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
+    "runtime": 146,
+    "rated": "PG-13",
+    "released": "10 Aug 2011",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt1454029"
+  },
+  {
+    "name": "The Best Years of Our Lives",
+    "genre": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "actors": [
+      "Myrna Loy",
+      "Fredric March",
+      "Dana Andrews",
+      "Teresa Wright"
+    ],
+    "director": "William Wyler",
+    "description": "Three World War II veterans return home to small-town America to discover that they and their families have been irreparably changed.",
+    "runtime": 170,
+    "rated": "NOT RATED",
+    "released": "17 Jun 1947",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0036868"
+  },
+  {
+    "name": "In the Mood for Love",
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Maggie Cheung",
+      "Tony Chiu-Wai Leung",
+      "Ping Lam Siu",
+      "Tung Cho 'Joe' Cheung"
+    ],
+    "director": "Kar-Wai Wong",
+    "description": "Two neighbors, a woman and a man, form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.",
+    "runtime": 98,
+    "rated": "PG",
+    "released": "09 Mar 2001",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjVhMTE3YzEtOGEwYS00NjFmLWFjYzAtMGVjNjY3YWY4OTJhL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0118694"
+  },
+  {
+    "name": "Paris, Texas",
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Harry Dean Stanton",
+      "Nastassja Kinski",
+      "Dean Stockwell",
+      "Aurore Clément"
+    ],
+    "director": "Wim Wenders",
+    "description": "Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.",
+    "runtime": 145,
+    "rated": "R",
+    "released": "23 Aug 1984",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5YzgtNTVkODdhOWM3NGZhXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0087884"
+  },
+  {
+    "name": "Infernal Affairs",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Andy Lau",
+      "Tony Chiu-Wai Leung",
+      "Anthony Chau-Sang Wong",
+      "Eric Tsang"
+    ],
+    "director": "Wai-Keung Lau, Alan Mak",
+    "description": "A story between a mole in the police department and an undercover cop. Their objectives are the same: to find out who is the mole, and who is the cop.",
+    "runtime": 101,
+    "rated": "R",
+    "released": "12 Dec 2002",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMWJmNzNmYjctMGM5OS00NGIwLTkxOTktNGI4MTdlNTk4MjgwXkEyXkFqcGdeQXVyMjQ1NjEyNzE@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0338564"
+  },
+  {
+    "name": "Twelve Monkeys",
+    "genre": [
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      "Joseph Melito",
+      "Bruce Willis",
+      "Jon Seda",
+      "Michael Chance"
+    ],
+    "director": "Terry Gilliam",
+    "description": "In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.",
+    "runtime": 129,
+    "rated": "R",
+    "released": "05 Jan 1996",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BN2Y2OWU4MWMtNmIyMy00YzMyLWI0Y2ItMTcyZDc3MTdmZDU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.0",
+    "imdbID": "tt0114746"
+  },
+  {
+    "name": "Tangerines",
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Lembit Ulfsak",
+      "Giorgi Nakashidze",
+      "Elmo Nüganen",
+      "Misha Meskhi"
+    ],
+    "director": "Zaza Urushadze",
+    "description": "War in Georgia, Apkhazeti region in 1990. An Estonian man Ivo has stayed behind to harvest his crops of tangerines. In a bloody conflict at his door, a wounded man is left behind, and Ivo is forced to take him in.",
+    "runtime": 87,
+    "rated": "NOT RATED",
+    "released": "17 Apr 2015",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNzA3MDQzOV5BMl5BanBnXkFtZTgwNTE5MDE5NDE@._V1_SX300.jpg",
+    "imdbRating": "8.3",
+    "imdbID": "tt2991224"
+  },
+  {
+    "name": "Beauty and the Beast",
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      "Robby Benson",
+      "Jesse Corti",
+      "Rex Everhart",
+      "Angela Lansbury"
+    ],
+    "director": "Gary Trousdale, Kirk Wise",
+    "description": "A young woman whose father has been imprisoned by a terrifying beast offers herself in his place, unaware that her captor is actually a prince, physically altered by a magic spell.",
+    "runtime": 84,
+    "rated": "G",
+    "released": "22 Nov 1991",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMzE5MDM1NDktY2I0OC00YWI5LTk2NzUtYjczNDczOWQxYjM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.0",
+    "imdbID": "tt0101414"
+  },
+  {
+    "name": "Three Colors: Red",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "actors": [
+      "Irène Jacob",
+      "Jean-Louis Trintignant",
+      "Frédérique Feder",
+      "Jean-Pierre Lorit"
+    ],
+    "director": "Krzysztof Kieslowski",
+    "description": "A model discovers her neighbor is keen on invading people's privacy.",
+    "runtime": 99,
+    "rated": "R",
+    "released": "23 Nov 1994",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTg1MmNiMjItMmY4Yy00ZDQ3LThjMzYtZGQ0ZTQzNTdkMGQ1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0111495"
+  },
+  {
+    "name": "Before Sunset",
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Vernon Dobtcheff",
+      "Louise Lemoine Torrès"
+    ],
+    "director": "Richard Linklater",
+    "description": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+    "runtime": 80,
+    "rated": "R",
+    "released": "30 Jul 2004",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0381681"
+  },
+  {
+    "name": "Castle in the Sky",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "actors": [
+      "Anna Paquin",
+      "James Van Der Beek",
+      "Cloris Leachman",
+      "Mark Hamill"
+    ],
+    "director": "Hayao Miyazaki",
+    "description": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+    "runtime": 125,
+    "rated": "PG",
+    "released": "02 Aug 1986",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNTg0NmI1ZGQtZTUxNC00NTgxLThjMDUtZmRlYmEzM2MwOWYwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg",
+    "imdbRating": "8.1",
+    "imdbID": "tt0092067"
+  },
+  {
+    "name": "Dog Day Afternoon",
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Penelope Allen",
+      "Sully Boyar",
+      "John Cazale",
+      "Beulah Garrick"
+    ],
+    "director": "Sidney Lumet",
+    "description": "A man robs a bank to pay for his lover's operation; it turns into a hostage situation and a media circus.",
+    "runtime": 125,
+    "rated": "R",
+    "released": "25 Dec 1975",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BODExZmE2ZWItYTIzOC00MzI1LTgyNTktMDBhNmFhY2Y4OTQ3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "8.0",
+    "imdbID": "tt0072890"
+  },
+  {
+    "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      "Johnny Depp",
+      "Geoffrey Rush",
+      "Orlando Bloom",
+      "Keira Knightley"
+    ],
+    "director": "Gore Verbinski",
+    "description": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+    "runtime": 143,
+    "rated": "PG-13",
+    "released": "09 Jul 2003",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbRating": "8.0",
+    "imdbID": "tt0325980"
+  }
+]

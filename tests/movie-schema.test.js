@@ -14,12 +14,16 @@ afterAll(async () => {
 
 const sampleMovie = {
   name: 'testMovie',
-  genre: [1,2,3],
+  genre: ['Action', 'Drama'],
+  actors: ['sam', 'lion', 'bobo'],
+  director: "superman",
   description: 'test entry',
   runtime: 180,
-  rated: 12,
+  rated: "R",
   released: '2000-01-01',
-  poster: 'url-to-some-poster.jpg'
+  poster: 'url-to-some-poster.jpg',
+  imdbRating: "1.0",
+  imdbID: "123456789"
 }
 
 describe('Test Movieschema', function() {

@@ -7,7 +7,7 @@ exports.createMovie = async (req, res) => {
 }
 
 exports.getMovies = async (req, res) => {
-  const movies = await Movie.find().limit(12);
+  const movies = await Movie.find().sort({imdbRating: -1}).limit(12);
   res.render('movies', {movies});
 }
 
@@ -15,3 +15,7 @@ exports.addMovie = (req, res) => {
   res.render('add-movie');
 }
 
+exports.getMovie = async (req, res) => {
+  const movie = await Movie.findOne({name: req.params.movie});
+  res.render('movie', {movie});
+}

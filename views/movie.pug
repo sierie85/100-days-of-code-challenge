@@ -1,0 +1,33 @@
+extends layout
+
+block content
+  div
+    h1=movie.name
+    img(src=`${movie.poster}` alt=`${movie.name}`)
+    p
+      span(class='font-weight-bold') Description:&nbsp;
+      span=movie.description
+    p
+      span(class='font-weight-bold') Actors:&nbsp;
+      -const actors = movie.actors.join(', ');
+      span=actors
+    p
+      span(class='font-weight-bold') Genre:&nbsp;
+      -const genres = movie.genre.join(', ');
+      span=genres
+    p
+      span(class='font-weight-bold') Director:&nbsp;
+      span=movie.director
+    p
+      span(class='font-weight-bold') Runtime:&nbsp;
+      span=movie.runtime
+    p
+      span(class='font-weight-bold') Rated:&nbsp;
+      span=movie.rated
+    p
+      span(class='font-weight-bold') Released:&nbsp;
+      span=movie.released
+    p
+      span(class='font-weight-bold') ImdbRating:&nbsp;
+      span=movie.imdbRating
+

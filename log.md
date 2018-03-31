@@ -7,3 +7,7 @@
 ## Day 1: 30-03-2018
 
 **Today's Progress**: include bootstrap. Add views and routes for movies and login. Add mongoose, create Movie Schema, write tests for MovieSchema. Add movie controller for get movies and post movie.
+
+## Day 2: 31-03-2018
+
+**Today's Progress**: update movie schema. add sample data. rewrite test for Movie Schema. add single page for movie. renew header. modified index page. add view and route for register.

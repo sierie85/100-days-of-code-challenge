@@ -2,6 +2,12 @@ extends layout
 include mixins/movie-card
 
 block content
-  div(class='card-group')
-    each movie in movies
-      +movieCard(movie)
+  div(class='row mt-5')
+    h2 Newest Movies
+    div(class='card-group')
+      each movie in newestMovies
+        +movieCard(movie)
+    h2 Top rated Movies
+    div(class='card-group')
+      each movie in bestRatedMovies
+        +movieCard(movie)

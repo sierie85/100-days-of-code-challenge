@@ -11,8 +11,15 @@ const movieSchema = new mongoose.Schema(
     },
     genre: {
 			type: Array,
-			trim: true,
 			required: 'You must enter a genre'
+		},
+		actors: {
+			type: Array,
+			required: 'You must enter a actor'
+		},
+		director: {
+			type: String,
+			trim: true
     },
 		description: {
 			type: String,
@@ -25,19 +32,23 @@ const movieSchema = new mongoose.Schema(
 			required: 'You must enter a runtime'
     },
 		rated: {
-			type: Number,
+			type: String,
 			trim: true,
 			required: 'You must enter rated'
     },
     released: {
-			type: Date,
-			trim: true,
-			required: 'You must enter a release date'
+			type: Date
     },
     poster: {
 			type: String,
 			trim: true,
-    }
+		},
+		imdbRating: {
+			type: String,
+		},
+		imdbID: {
+			type: String,
+		}
   }
 );
 
