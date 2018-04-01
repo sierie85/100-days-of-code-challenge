@@ -1,2 +1,3 @@
 NODE_ENV=development
 DATABASE=mongodb://<user>:<pass>@<server>:<port>/<database>
+SESSION_SECRET=YOURSECRECT

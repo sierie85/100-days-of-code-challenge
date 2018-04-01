@@ -5,22 +5,42 @@ html
     link(rel='stylesheet', href='/css/bootstrap.min.css')
     meta(name="viewport" content="width=device-width, initial-scale=1")
   body
-    div(class='container-fluid')
-      header(class='row')
-        div(class='col')
-          nav(class='navbar navbar-expand-lg navbar-dark bg-dark')
-            a(class='navbar-brand' href='/') MDBO
-            button(class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarSupportedContent' aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation')
-              span(class='navbar-toggler-icon')
-            div(class='collapse navbar-collapse' id='navbarSupportedContent')
-              ul(class='navbar-nav mr-auto')
-                li(class='nav-item')
-                  a(class='nav-link' href='/movies') Movies
-                li(class='nav-item')
-                  a(class='nav-link' href='/login') Login
-                li(class='nav-item')
-                  a(class='nav-link' href='/register') Register
-              form(class='form-inline my-2 my-lg-0')
-                input(class='form-control mr-sm-2' type='search' placeholder='Search' aria-label='Search')
+
+    div(class='container-fluid mb-5')
+      block header
+        header(class='row')
+          div(class='col')
+            nav(class='navbar navbar-expand-lg navbar-dark bg-dark')
+              a(class='navbar-brand' href='/') MDBO
+              button(class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarSupportedContent' aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation')
+                span(class='navbar-toggler-icon')
+              div(class='collapse navbar-collapse' id='navbarSupportedContent')
+
+                ul(class='navbar-nav mr-auto')
+                  li(class='nav-item')
+                    a(class='nav-link' href='/movies') Movies
+
+                form(class='form-inline my-2 my-lg-0')
+                  input(class='form-control mr-sm-2' type='search' placeholder='Search' aria-label='Search')
+
+                ul(class='navbar-nav')
+                  if user
+                    li(class='nav-item')
+                      a(class='nav-link' href=`/logout`) Logout
+                  else
+                    li(class='nav-item')
+                      a(class='nav-link' href='/login') Login
+
+    block messages
+      if locals.flashes
+        - const categories = Object.keys(locals.flashes)
+        each category in categories
+          each message in flashes[category]
+            div(class=`flash-msg alert alert-${category}` role='alert')= message
+
     div(class='container')
       block content
+
+    div(class='container-fluid fixed-bottom')
+      footer(class='bg-primary text-white')
+        a(class='d-block text-center text-white' href='https://github.com/sierie85/100-days-of-code-challenge' target='_blank') visit project on GitHub

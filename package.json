@@ -20,10 +20,16 @@
   "homepage": "https://github.com/sierie85/100-days-of-code-challenge#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^2.0.1",
     "dotenv": "^5.0.1",
     "express": "^4.16.3",
+    "express-session": "^1.15.6",
     "helmet": "^3.12.0",
     "mongoose": "^5.0.12",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^5.0.0",
     "pug": "^2.0.3"
   },
   "devDependencies": {

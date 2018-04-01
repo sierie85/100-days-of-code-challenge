@@ -2,31 +2,31 @@ const mongoose = require('mongoose');
 require('dotenv').config({ path: '.env' });
 const Movie = require('../models/Movie');
 
-beforeAll(async () => {
-  mongoose.connect(process.env.DATABASE);
-  mongoose.Promise = global.Promise;
-  mongoose.connection.on('error', err => { console.error('Error connecting to database', err);});
-});
-
-afterAll(async () => {
-  mongoose.disconnect();
-});
-
-const sampleMovie = {
-  name: 'testMovie',
-  genre: ['Action', 'Drama'],
-  actors: ['sam', 'lion', 'bobo'],
-  director: "superman",
-  description: 'test entry',
-  runtime: 180,
-  rated: "R",
-  released: '2000-01-01',
-  poster: 'url-to-some-poster.jpg',
-  imdbRating: "1.0",
-  imdbID: "123456789"
-}
-
 describe('Test Movieschema', function() {
+
+  beforeAll(async () => {
+    mongoose.connect(process.env.DATABASE);
+    mongoose.Promise = global.Promise;
+    mongoose.connection.on('error', err => { console.error('Error connecting to database', err);});
+  });
+
+  afterAll(async () => {
+    mongoose.disconnect();
+  });
+
+  const sampleMovie = {
+    name: 'testMovie',
+    genre: ['Action', 'Drama'],
+    actors: ['sam', 'lion', 'bobo'],
+    director: "superman",
+    description: 'test entry',
+    runtime: 180,
+    rated: "R",
+    released: '2000-01-01',
+    poster: 'url-to-some-poster.jpg',
+    imdbRating: "1.0",
+    imdbID: "123456789"
+  }
 
   it('should create a sample movie', async () => {
     const m = new Movie(sampleMovie);

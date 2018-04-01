@@ -1,14 +1,18 @@
 extends layout
 
 block content
-
-  h1 Login
-  form(action="POST")
-    div(class='form-group')
-      label(for='email') Email
-      input(type='text' class='form-control' id='email' name='email')
-    div(class='form-group')
-      label(for='password') Password
-      input(type='password' class='form-control' id='password' name='password')
-    div(class='form-group')
-      input(type='submit' class='form-control' value='LOGIN')
+  h1(class='text-center') Login
+  div(class='row')
+    div(class='col-6 m-auto')
+      form(method='POST' action='login')
+        div(class='form-group')
+          label(for='username') Username
+          input(type='text' class='form-control' id='username' name='username')
+        div(class='form-group')
+          label(for='password') Password
+          input(type='password' class='form-control' id='password' name='password')
+        div(class='form-group')
+          input(type='submit' class='form-control btn btn-info' value='LOGIN')
+  div(class='row')
+    div(class='col-6 m-auto')
+      a(class='d-block text-center' href='/register') or register
