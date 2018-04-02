@@ -2,11 +2,11 @@ doctype html
 html
   head
     title MDBO
-    link(rel='stylesheet', href='/css/bootstrap.min.css')
+    link(rel='stylesheet', href='/dist/style.css')
     meta(name="viewport" content="width=device-width, initial-scale=1")
   body
 
-    div(class='container-fluid mb-5')
+    div(class='container-fluid')
       block header
         header(class='row')
           div(class='col')
@@ -25,8 +25,12 @@ html
 
                 ul(class='navbar-nav')
                   if user
-                    li(class='nav-item')
-                      a(class='nav-link' href=`/logout`) Logout
+                    li(class="nav-item dropdown")
+                      a(class="nav-link dropdown-toggle" href="#")= user.name ? user.name : user.email
+                      div(class="dropdown-menu")
+                        a(class="dropdown-item" href="/settings") Settings
+                        div(class="dropdown-divider")
+                        a(class='dropdown-item' href=`/logout`) Logout
                   else
                     li(class='nav-item')
                       a(class='nav-link' href='/login') Login
@@ -38,7 +42,7 @@ html
           each message in flashes[category]
             div(class=`flash-msg alert alert-${category}` role='alert')= message
 
-    div(class='container')
+    div(class='container mt-5')
       block content
 
     div(class='container-fluid fixed-bottom')

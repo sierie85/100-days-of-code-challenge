@@ -15,3 +15,7 @@
 ## Day 3: 01-04-2018
 
 **Today's Progress**: add passport(strategy local, with mongoose), create User Schema, write tests for Userschema. add user controller for registration, login. adjust some layout style.
+
+## Day 4: 02-04-2018
+
+**Today's Progress**: add validation to registration. add user settings page. setup webpack for sass. adjust some layout style / output.

@@ -23,6 +23,8 @@ router.get('/register', (req, res) => {
 });
 router.post('/register', userController.registerNewUser);
 router.get('/logout', userController.logout);
+router.get('/settings', userController.logedin, userController.settings);
+router.post('/settings', userController.logedin, userController.updateProfil);
 
 // Movie routes
 router.get('/movies', movieController.getMovies);
