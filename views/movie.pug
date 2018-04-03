@@ -3,6 +3,9 @@ extends layout
 block content
   div
     h1=movie.name
+    form(method='POST' action='/watchlist')
+      input(type='hidden' name='movieid' value=`${movie._id}`)
+      input(type='submit' value='ADD To Watchlist')
     img(src=`${movie.poster}` alt=`${movie.name}`)
     p
       span(class='font-weight-bold') Description:&nbsp;

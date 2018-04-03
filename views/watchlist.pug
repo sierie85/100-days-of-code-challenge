@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1 Watchlist
+  div
+    each item in watchlist
+      ul
+      each movie in item.movie
+        li
+          a(href=`/movies/${movie.name}`)=movie.name

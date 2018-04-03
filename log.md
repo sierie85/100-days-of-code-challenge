@@ -19,3 +19,7 @@
 ## Day 4: 02-04-2018
 
 **Today's Progress**: add validation to registration. add user settings page. setup webpack for sass. adjust some layout style / output.
+
+## Day 5: 03-04-2018
+
+**Today's Progress**: add watchlist schema. add watchlist view for user. add button "add to watchlist" on singlemovie view.
