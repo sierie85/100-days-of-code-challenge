@@ -4,7 +4,7 @@ const Watchlist = require("../models/Watchlist");
 exports.getWatchlist = async (req, res) => {
   const watchlist = await Watchlist.find({ userid: req.user._id }).populate(
     "movie",
-    "name"
+    ["name", "imdbRating"]
   );
   res.render("watchlist", { watchlist });
 };
@@ -15,7 +15,7 @@ exports.setToWatchlist = async (req, res) => {
   if (watchlist) {
     await Watchlist.findOneAndUpdate(
       { userid: req.user._id },
-      { $push: { movie: req.body.movieid } },
+      { $addToSet: { movie: req.body.movieid } },
       { new: true, upsert: true }
     );
   } else {
@@ -25,5 +25,15 @@ exports.setToWatchlist = async (req, res) => {
     }).save();
   }
 
+  res.redirect("/watchlist");
+};
+
+exports.deleteFromWatchlist = async (req, res) => {
+  const watchlist = await Watchlist.findOne({ userid: req.user._id });
+  await Watchlist.findOneAndUpdate(
+    { userid: req.user._id },
+    { $pull: { movie: req.body.movieid } },
+    { new: true, upsert: true }
+  );
   res.redirect("/watchlist");
 };

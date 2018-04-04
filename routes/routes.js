@@ -43,6 +43,11 @@ router.post(
   userController.logedin,
   watchlistController.setToWatchlist
 );
+router.post(
+  "/delete-from-watchlist",
+  userController.logedin,
+  watchlistController.deleteFromWatchlist
+);
 
 // Movie routes
 router.get("/movies", movieController.getMovies);

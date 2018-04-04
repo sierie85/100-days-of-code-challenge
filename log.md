@@ -23,3 +23,7 @@
 ## Day 5: 03-04-2018
 
 **Today's Progress**: add watchlist schema. add watchlist view for user. add button "add to watchlist" on singlemovie view.
+
+## Day 6: 04-04-2018
+
+**Today's Progress**: add delete from watchlist. add some styling to watchlist. validate if movie is already in watchlist.
