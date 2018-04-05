@@ -2,9 +2,8 @@ extends layout
 include mixins/movie-card
 
 block content
-  h1 Movies
   div(class='row')
-    a(class='btn btn-success' href='/add-movie') Add Movie
-  div(class='row')
+    h1 Movies
+  div(class='row mt-5 mb-5')
     each movie in movies
       +movieCard(movie)

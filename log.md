@@ -27,3 +27,7 @@
 ## Day 6: 04-04-2018
 
 **Today's Progress**: add delete from watchlist. add some styling to watchlist. validate if movie is already in watchlist.
+
+## Day 7: 05-04-2018
+
+**Today's Progress**: add roles(user, admin) to user schema. "add movie only for admin". add stats routes. add stats for avg_runtime, most_playing_actors.

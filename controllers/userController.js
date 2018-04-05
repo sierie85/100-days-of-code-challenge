@@ -6,6 +6,7 @@ exports.registerNewUser = async (req, res) => {
   if (req.body.password.length < 9) {
     req.flash("danger", "Password should have a minimum length of 8!");
     res.redirect("/register");
+    return;
   }
 
   const user = new User({ email: req.body.email });

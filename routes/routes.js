@@ -54,5 +54,6 @@ router.get("/movies", movieController.getMovies);
 router.get("/add-movie", movieController.addMovie);
 router.post("/add-movie", movieController.createMovie);
 router.get("/movies/:movie", movieController.getMovie);
+router.get("/movie-stats", movieController.getMovieStats);
 
 module.exports = router;

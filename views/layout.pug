@@ -19,6 +19,8 @@ html
                 ul(class='navbar-nav mr-auto')
                   li(class='nav-item')
                     a(class='nav-link' href='/movies') Movies
+                  li(class='nav-item')
+                    a(class='nav-link' href='/movie-stats') Movie-stats
 
                 form(class='form-inline my-2 my-lg-0')
                   input(class='form-control mr-sm-2' type='search' placeholder='Search' aria-label='Search')
@@ -28,6 +30,10 @@ html
                     li(class="nav-item dropdown")
                       a(class="nav-link dropdown-toggle" href="#")= user.name ? user.name : user.email
                       div(class="dropdown-menu")
+                        - const userRole = user.role;
+                        if(userRole === 'admin')
+                          a(class='dropdown-item text-primary' href='/add-movie') Add Movie
+                          div(class="dropdown-divider")
                         a(class="dropdown-item" href="/settings") Settings
                         div(class="dropdown-divider")
                         a(class="dropdown-item" href="/watchlist") Watchlist
