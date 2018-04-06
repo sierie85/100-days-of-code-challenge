@@ -31,3 +31,7 @@
 ## Day 7: 05-04-2018
 
 **Today's Progress**: add roles(user, admin) to user schema. "add movie only for admin". add stats routes. add stats for avg_runtime, most_playing_actors.
+
+## Day 8: 06-04-2018
+
+**Today's Progress**: edit flash-msgs autoclose, closebtn. add top_genre to stats. edit stats view. add search (route, fetch on frontend, added layout view for search results)

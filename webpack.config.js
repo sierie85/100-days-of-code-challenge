@@ -1,18 +1,27 @@
-const path = require('path');
-const webpack = require('webpack');
+const path = require("path");
+const webpack = require("webpack");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 const config = {
   entry: {
-    entry: './public/js/entry.js'
+    entry: "./public/js/entry.js"
   },
-  devtool: 'source-map',
+  devtool: "source-map",
   output: {
-    path: path.resolve(__dirname, 'public', 'dist'),
-    filename: 'app.bundle.js'
+    path: path.resolve(__dirname, "public", "dist"),
+    filename: "app.bundle.js"
   },
   module: {
     rules: [
+      {
+        test: /\.(js)$/,
+        use: [
+          {
+            loader: "babel-loader",
+            options: { presets: ["env"] }
+          }
+        ]
+      },
       {
         test: /\.(scss)$/,
         use: [
@@ -21,9 +30,9 @@ const config = {
             loader: "css-loader"
           },
           {
-            loader: "sass-loader",
+            loader: "sass-loader"
           }
-        ],
+        ]
       }
     ]
   },

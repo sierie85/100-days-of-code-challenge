@@ -50,8 +50,34 @@ exports.getMovieStats = async (req, res) => {
     .sort((a, b) => {
       return movieActors[b] - movieActors[a];
     })
-    .slice(0, 9);
+    .slice(0, 3);
   stats["most_playing_actors"] = topMovieActors;
 
+  const movieGenres = movies
+    .reduce((a, movie) => a.concat([...movie.genre]), [])
+    .reduce((a, genre) => {
+      if (genre in a) {
+        a[genre]++;
+      } else {
+        a[genre] = 0;
+      }
+      return a;
+    }, {});
+
+  const topGenre = Object.keys(movieGenres)
+    .sort((a, b) => {
+      return movieGenres[b] - movieGenres[a];
+    })
+    .slice(0, 3);
+  stats["top_genre"] = topGenre;
+
   res.render("movie-stats", { stats });
+};
+
+exports.searchMovie = async (req, res) => {
+  const query = new RegExp(`^${req.body.query}`, "i");
+  const movies = await Movie.find({ name: query })
+    .select("name")
+    .limit(5);
+  res.json(movies);
 };

@@ -1,0 +1,19 @@
+.search-box {
+  position: relative;
+}
+
+.search-results {
+  position: absolute;
+  background: #343a40;
+  top: 2.4em;
+  width: 100%;
+  color: #fff;
+  ul {
+    list-style-type: none;
+    padding-left: 0.75em;
+    margin: 0;
+    li {
+      padding: 0.375em;
+    }
+  }
+}

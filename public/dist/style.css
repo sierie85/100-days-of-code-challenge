@@ -6669,5 +6669,21 @@ a.text-dark:focus, a.text-dark:hover {
   border-radius: 0;
   margin: 0; }
 
+.search-box {
+  position: relative; }
+
+.search-results {
+  position: absolute;
+  background: #343a40;
+  top: 2.4em;
+  width: 100%;
+  color: #fff; }
+  .search-results ul {
+    list-style-type: none;
+    padding-left: 0.75em;
+    margin: 0; }
+    .search-results ul li {
+      padding: 0.375em; }
+
 
 /*# sourceMappingURL=style.css.map*/

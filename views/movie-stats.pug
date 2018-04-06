@@ -1,6 +1,25 @@
 extends layout
 
 block content
-  h1 Stats
+  h1 Movie Statistics
   div(class='row')
-    p= JSON.stringify(stats)
+    div(class="card-deck")
+      div(class="card")
+        div(class="card-body")
+          h5(class="card-title") Average Runtime
+          p(class="card-text")= Math.ceil(stats.avg_runtime) + 'min'
+      div(class="card")
+        div(class="card-body")
+          h5(class="card-title") Most Playing Actors
+          p(class="card-text")
+            ul
+              each actor in stats.most_playing_actors
+                li=actor
+      div(class="card-deck")
+        div(class="card")
+          div(class="card-body")
+            h5(class="card-title") Top Genre
+            p(class="card-text")
+              ul
+                each genre in stats.top_genre
+                  li=genre

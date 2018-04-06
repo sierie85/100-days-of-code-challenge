@@ -22,8 +22,10 @@ html
                   li(class='nav-item')
                     a(class='nav-link' href='/movie-stats') Movie-stats
 
-                form(class='form-inline my-2 my-lg-0')
-                  input(class='form-control mr-sm-2' type='search' placeholder='Search' aria-label='Search')
+                form(class='search-box form-inline my-2 my-lg-0')
+                  input(class='search form-control mr-sm-2' type='search' placeholder='Search' aria-label='Search')
+                  div(class='search-results')
+                    ul
 
                 ul(class='navbar-nav')
                   if user
@@ -43,12 +45,17 @@ html
                     li(class='nav-item')
                       a(class='nav-link' href='/login') Login
 
-    block messages
-      if locals.flashes
-        - const categories = Object.keys(locals.flashes)
-        each category in categories
-          each message in flashes[category]
-            div(class=`flash-msg alert alert-${category}` role='alert')= message
+    div(class='container-fluid')
+      div(class='row')
+        div(class='col')
+          block messages
+            if locals.flashes
+              - const categories = Object.keys(locals.flashes)
+              each category in categories
+                each message in flashes[category]
+                  div(class=`d-flex flex-row align-items-center flash-msg active alert alert-${category}` role='alert')
+                    span(class='d-block mr-auto')= message
+                    button(class='btn btn-dark' onClick="this.parentElement.remove()") Close
 
     div(class='container mt-5')
       block content
@@ -56,3 +63,6 @@ html
     div(class='container-fluid fixed-bottom')
       footer(class='bg-primary text-white')
         a(class='d-block text-center text-white' href='https://github.com/sierie85/100-days-of-code-challenge' target='_blank') visit project on GitHub
+
+    block scripts
+      script(src="/dist/app.bundle.js")
