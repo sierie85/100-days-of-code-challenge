@@ -3,6 +3,8 @@ const router = express.Router();
 const movieController = require("../controllers/movieController");
 const userController = require("../controllers/userController");
 const watchlistController = require("../controllers/watchlistController");
+const statsController = require("../controllers/statsController");
+const searchController = require("../controllers/searchController");
 const mongoose = require("mongoose");
 const Movie = require("../models/Movie");
 const User = require("../models/User");
@@ -39,14 +41,14 @@ router.get(
   watchlistController.getWatchlist
 );
 router.post(
-  "/watchlist",
-  userController.logedin,
-  watchlistController.setToWatchlist
-);
-router.post(
   "/delete-from-watchlist",
   userController.logedin,
   watchlistController.deleteFromWatchlist
+);
+router.post(
+  "/update-watchlist",
+  userController.logedin,
+  watchlistController.updateWatchlist
 );
 
 // Movie routes
@@ -54,8 +56,9 @@ router.get("/movies", movieController.getMovies);
 router.get("/add-movie", movieController.addMovie);
 router.post("/add-movie", movieController.createMovie);
 router.get("/movies/:movie", movieController.getMovie);
-router.get("/movie-stats", movieController.getMovieStats);
 
-router.post("/search", movieController.searchMovie);
+router.get("/stats", statsController.getMovieStats);
+
+router.post("/search", searchController.searchMovie);
 
 module.exports = router;

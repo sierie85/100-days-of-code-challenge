@@ -35,3 +35,7 @@
 ## Day 8: 06-04-2018
 
 **Today's Progress**: edit flash-msgs autoclose, closebtn. add top_genre to stats. edit stats view. add search (route, fetch on frontend, added layout view for search results)
+
+## Day 9: 07-04-2018
+
+**Today's Progress**: Add Controller for stats, outsource from MovieController, refactor. add Controller for search, outsource from MovieController. frontend add to ajax via ajax, update view, add updateWatchlist fn to Controller.

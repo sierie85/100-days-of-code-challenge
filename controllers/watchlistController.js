@@ -9,25 +9,6 @@ exports.getWatchlist = async (req, res) => {
   res.render("watchlist", { watchlist });
 };
 
-exports.setToWatchlist = async (req, res) => {
-  const watchlist = await Watchlist.findOne({ userid: req.user._id });
-
-  if (watchlist) {
-    await Watchlist.findOneAndUpdate(
-      { userid: req.user._id },
-      { $addToSet: { movie: req.body.movieid } },
-      { new: true, upsert: true }
-    );
-  } else {
-    await new Watchlist({
-      userid: req.user._id,
-      movie: [req.body.movieid]
-    }).save();
-  }
-
-  res.redirect("/watchlist");
-};
-
 exports.deleteFromWatchlist = async (req, res) => {
   const watchlist = await Watchlist.findOne({ userid: req.user._id });
   await Watchlist.findOneAndUpdate(
@@ -36,4 +17,33 @@ exports.deleteFromWatchlist = async (req, res) => {
     { new: true, upsert: true }
   );
   res.redirect("/watchlist");
+};
+
+exports.updateWatchlist = async (req, res) => {
+  const watchlist = await Watchlist.findOne({ userid: req.user._id });
+  let state = "off";
+  if (watchlist) {
+    if (watchlist.movie.indexOf(req.body.movieid) !== -1) {
+      await Watchlist.findOneAndUpdate(
+        { userid: req.user._id },
+        { $pull: { movie: req.body.movieid } },
+        { new: true, upsert: true }
+      );
+      state = "off";
+    } else {
+      await Watchlist.findOneAndUpdate(
+        { userid: req.user._id },
+        { $addToSet: { movie: req.body.movieid } },
+        { new: true, upsert: true }
+      );
+      state = "on";
+    }
+  } else {
+    await new Watchlist({
+      userid: req.user._id,
+      movie: [req.body.movieid]
+    }).save();
+    state = "on";
+  }
+  res.json({ state });
 };
