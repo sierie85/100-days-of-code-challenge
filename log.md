@@ -39,3 +39,7 @@
 ## Day 9: 07-04-2018
 
 **Today's Progress**: Add Controller for stats, outsource from MovieController, refactor. add Controller for search, outsource from MovieController. frontend add to ajax via ajax, update view, add updateWatchlist fn to Controller.
+
+## Day 10: 08-04-2018
+
+**Today's Progress**: add pagination to movies view. small fix on search. edit getMovie route to find/filter movies by actor, director and genre. single view movie add links on actors, director and genres.

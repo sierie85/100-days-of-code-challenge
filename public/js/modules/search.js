@@ -3,7 +3,10 @@ function search(e) {
   const val = this.value;
   const searchResults = document.querySelector(".search-results ul");
 
-  if (val.length === 0) return;
+  if (val.length === 0) {
+    searchResults.innerHTML = "";
+    return;
+  }
 
   const search = fetch("http://localhost:8000/search", {
     headers: {

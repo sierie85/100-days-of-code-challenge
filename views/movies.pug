@@ -3,7 +3,21 @@ include mixins/movie-card
 
 block content
   div(class='row')
-    h1 Movies
+    div(class='col')
+      h1 Movies
+        if(query)
+          each value, index in query
+            small(class="text-muted ml-5")
+              span(class="text-uppercase")= `${index}: `
+              span= value
   div(class='row mt-5 mb-5')
     each movie in movies
       +movieCard(movie)
+  div(class='row mb-5')
+    nav(class='col')
+      ul(class="pagination justify-content-center")
+        li(class=`page-item ${page > 1 ? '' : 'disabled'}`)
+          a(class="page-link" href=`/movies/page/${page - 1}`) Previous
+        li(class=`page-item ${page < pages ? '' : 'disabled'}`)
+          a(class="page-link" href=`/movies/page/${parseFloat(page) + 1}`) Next
+  div(class='mb-5')

@@ -13,10 +13,20 @@ exports.createMovie = async (req, res) => {
 };
 
 exports.getMovies = async (req, res) => {
-  const movies = await Movie.find()
+  const page = req.params.page || 1;
+  const limit = 24;
+  const skip = page * limit - limit;
+
+  const movies = await Movie.find(req.query)
     .sort({ imdbRating: -1 })
-    .limit(24);
-  res.render("movies", { movies });
+    .skip(skip)
+    .limit(limit);
+
+  const max = await Movie.find(req.query).count();
+  const pages = Math.ceil(max / limit);
+  const query = req.query;
+
+  res.render("movies", { movies, page, pages, query });
 };
 
 exports.addMovie = (req, res) => {

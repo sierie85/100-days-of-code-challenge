@@ -53,6 +53,7 @@ router.post(
 
 // Movie routes
 router.get("/movies", movieController.getMovies);
+router.get("/movies/page/:page", movieController.getMovies);
 router.get("/add-movie", movieController.addMovie);
 router.post("/add-movie", movieController.createMovie);
 router.get("/movies/:movie", movieController.getMovie);

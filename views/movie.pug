@@ -4,28 +4,41 @@ block content
   if(user)
     div(class='row')
       div(class='col d-flex justify-content-end')
+        button(id='add-to-watched' class=`btn btn-default mr-3` data-movieid=`${movie._id}`)
+          i(class="far fa-check-circle")
+          span &nbsp;Watched
+        button(id='add-to-favorite' class=`btn btn-default mr-3` data-movieid=`${movie._id}`)
+          i(class="far fa-star")
+          span &nbsp;Favorite
         button(id='add-to-watchlist' class=`btn ${onWatchlist === true ? 'btn-success' : 'btn-default'}` data-movieid=`${movie._id}`)
           i(class="far fa-bookmark")
           span &nbsp;Watchlist
 
-  div(class='row')
-    div(class='col')
-      h1=movie.name
+  div(class='row d-flex align-items-center')
+    div(class='col-4')
       img(src=`${movie.poster}` alt=`${movie.name}`)
+    div(class='col')
+      h2(class='mb-3')= movie.name
       p
         span(class='font-weight-bold') Description:&nbsp;
         span=movie.description
       p
         span(class='font-weight-bold') Actors:&nbsp;
-        -const actors = movie.actors.join(', ');
-        span=actors
+        -const maxActors = movie.actors.length - 1;
+        each actor, index in movie.actors
+          span
+            a(href=`/movies/?actors=${actor}`)= actor
+            span= `${index < maxActors ? ', ' : ''}`
       p
         span(class='font-weight-bold') Genre:&nbsp;
-        -const genres = movie.genre.join(', ');
-        span=genres
+        -const maxGenre = movie.genre.length - 1;
+        each genre, index in movie.genre
+          span
+            a(href=`/movies/?genre=${genre}`)= genre
+            span= `${index < maxGenre ? ', ' : ''}`
       p
         span(class='font-weight-bold') Director:&nbsp;
-        span=movie.director
+        a(href=`/movies/?director=${movie.director}`)= movie.director
       p
         span(class='font-weight-bold') Runtime:&nbsp;
         span=movie.runtime

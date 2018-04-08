@@ -2,7 +2,7 @@ mixin movieCard(movie = {})
 
   div(class='col-3')
     div(class='card')
-      a(class='text-dark' href=`movies/${movie.name}`)
+      a(class='text-dark' href=`/movies/${movie.name}`)
         img(class='card-img-top' src=`${movie.poster}` alt=`${movie.name}`)
         div(class='card-footer')
           p=movie.name
