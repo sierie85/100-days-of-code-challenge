@@ -43,3 +43,7 @@
 ## Day 10: 08-04-2018
 
 **Today's Progress**: add pagination to movies view. small fix on search. edit getMovie route to find/filter movies by actor, director and genre. single view movie add links on actors, director and genres.
+
+## Day 11: 09-04-2018
+
+**Today's Progress**: add watched schema. begin to add controller for user list for generic way of add and show movie to a certain list e.g. watched, watchList, favorite etc.

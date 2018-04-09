@@ -2,13 +2,12 @@ const express = require("express");
 const router = express.Router();
 const movieController = require("../controllers/movieController");
 const userController = require("../controllers/userController");
-const watchlistController = require("../controllers/watchlistController");
 const statsController = require("../controllers/statsController");
 const searchController = require("../controllers/searchController");
+const userListsController = require("../controllers/userListsController");
 const mongoose = require("mongoose");
 const Movie = require("../models/Movie");
 const User = require("../models/User");
-const Watchlist = require("../models/Watchlist");
 
 // Index route
 router.get("/", async (req, res) => {
@@ -34,21 +33,16 @@ router.get("/logout", userController.logout);
 router.get("/settings", userController.logedin, userController.settings);
 router.post("/settings", userController.logedin, userController.updateProfil);
 
-// Watchlist routes
+// Userlists routes
 router.get(
-  "/watchlist",
+  "/list/:schema",
   userController.logedin,
-  watchlistController.getWatchlist
+  userListsController.getlist
 );
 router.post(
-  "/delete-from-watchlist",
+  "/updatelist",
   userController.logedin,
-  watchlistController.deleteFromWatchlist
-);
-router.post(
-  "/update-watchlist",
-  userController.logedin,
-  watchlistController.updateWatchlist
+  userListsController.updateUserList
 );
 
 // Movie routes
@@ -58,8 +52,10 @@ router.get("/add-movie", movieController.addMovie);
 router.post("/add-movie", movieController.createMovie);
 router.get("/movies/:movie", movieController.getMovie);
 
+// Stats routes
 router.get("/stats", statsController.getMovieStats);
 
+// Search routes
 router.post("/search", searchController.searchMovie);
 
 module.exports = router;

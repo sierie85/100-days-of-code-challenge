@@ -1,15 +1,16 @@
-function updateWatchlist(e) {
+function updateUserList() {
   const movieid = this.dataset.movieid;
-  console.log("switched", movieid);
+  const schema = this.dataset.schema;
+  console.log("switched", movieid, schema);
 
-  const update = fetch("http://localhost:8000/update-watchlist", {
+  const update = fetch("http://localhost:8000/updatelist", {
     headers: {
       Accept: "application/json",
       "Content-Type": "application/json"
     },
     method: "POST",
     credentials: "include",
-    body: JSON.stringify({ movieid })
+    body: JSON.stringify({ movieid, schema })
   })
     .then(res => res.json())
     .then(data => {
@@ -23,4 +24,4 @@ function updateWatchlist(e) {
     });
 }
 
-export { updateWatchlist };
+export { updateUserList };

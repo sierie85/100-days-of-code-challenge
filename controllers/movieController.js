@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 const Movie = require("../models/Movie");
 const Watchlist = require("../models/Watchlist");
+const Watched = require("../models/Watched");
 const moment = require("moment");
 
 exports.createMovie = async (req, res) => {
@@ -43,5 +44,12 @@ exports.getMovie = async (req, res) => {
       onWatchlist = true;
     }
   }
-  res.render("movie", { movie, onWatchlist });
+  let onWatchedList = false;
+  if (req.user) {
+    const watchedList = await Watched.findOne({ userid: req.user._id });
+    if (watchedList && watchedList.movie.indexOf(movie._id) !== -1) {
+      onWatchedList = true;
+    }
+  }
+  res.render("movie", { movie, onWatchlist, onWatchedList });
 };

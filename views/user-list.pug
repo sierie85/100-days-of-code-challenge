@@ -11,13 +11,12 @@ block content
             th(scope='col') Rating
             th(scope='col')
         tbody
-          each item in watchlist
+          each item in list
             each movie in item.movie
               tr
                 td
                   a(href=`/movies/${movie.name}`)=movie.name
                 td=movie.imdbRating
                 td
-                  form(method='POST' action='/delete-from-watchlist')
-                    input(type='hidden' name='movieid' value=`${movie._id}`)
-                    input(type='submit' value='X')
+                  p= JSON.stringify(schema)
+                  p= JSON.stringify(movie._id)
