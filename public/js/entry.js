@@ -19,3 +19,22 @@ const watchedBtn = document.querySelector("#add-to-watched");
 if (typeof watchedBtn !== "undefined" && watchedBtn !== null) {
   watchedBtn.addEventListener("click", updateUserList);
 }
+
+const favoriteBtn = document.querySelector("#add-to-favorite");
+if (typeof favoriteBtn !== "undefined" && favoriteBtn !== null) {
+  favoriteBtn.addEventListener("click", updateUserList);
+}
+
+const removeFromListBtn = document.querySelectorAll(".remove-from-list");
+if (typeof removeFromListBtn !== "undefined" && removeFromListBtn !== null) {
+  const removeItem = function() {
+    updateUserList.call(this);
+    removeDomElement.call(this);
+  };
+  const removeDomElement = function() {
+    this.parentElement.parentElement.remove();
+  };
+  Array.from(removeFromListBtn).forEach(function(ele) {
+    ele.addEventListener("click", removeItem);
+  });
+}

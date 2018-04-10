@@ -7,7 +7,7 @@ block content
         button(id='add-to-watched' class=`btn ${onWatchedList === true ? 'btn-success' : 'btn-default'} mr-3` data-movieid=`${movie._id}` data-schema='watched')
           i(class="far fa-check-circle")
           span &nbsp;Watched
-        button(id='add-to-favorite' class=`btn btn-default mr-3` data-movieid=`${movie._id}` data-schema='favorite')
+        button(id='add-to-favorite' class=`btn ${onFavoritelist === true ? 'btn-success' : 'btn-default'} mr-3` data-movieid=`${movie._id}` data-schema='favorite')
           i(class="far fa-star")
           span &nbsp;Favorite
         button(id='add-to-watchlist' class=`btn ${onWatchlist === true ? 'btn-success' : 'btn-default'}` data-movieid=`${movie._id}` data-schema='watchlist')

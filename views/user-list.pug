@@ -1,7 +1,7 @@
 extends layout
 
 block content
-  h1 Watchlist
+  h1(class="text-uppercase")= `${schema}`
   div(class='row')
     div(class='col-8')
       table(class='table table-sm')
@@ -18,5 +18,5 @@ block content
                   a(href=`/movies/${movie.name}`)=movie.name
                 td=movie.imdbRating
                 td
-                  p= JSON.stringify(schema)
-                  p= JSON.stringify(movie._id)
+                  button(class="remove-from-list btn btn-danger" data-movieid=`${movie._id}` data-schema=`${schema}`) X
+

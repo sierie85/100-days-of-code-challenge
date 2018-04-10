@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 const Watchlist = require("../models/Watchlist");
 const Watched = require("../models/Watched");
+const Favorite = require("../models/Favorite");
 
 const getSchema = schema => {
   switch (schema) {
@@ -10,6 +11,8 @@ const getSchema = schema => {
     case "watchlist":
       return Watchlist;
       break;
+    case "favorite":
+      return Favorite;
     default:
       return false;
       break;
