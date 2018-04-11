@@ -51,3 +51,7 @@
 ## Day 12: 10-04-2018
 
 **Today's Progress**: finsih controller for user list for generic way of add and show movie to a certain list e.g. watched, watchList, favorite etc.
+
+## Day 13: 11-04-2018
+
+**Today's Progress**: begin with user reviews.

@@ -1,0 +1,14 @@
+mixin addReview(id)
+
+  form(id="add-review" method="POST")
+    input(type="hidden" name="id" value=`${id}`)
+    div(class="form-group")
+      label(for="review") Review
+      textarea(class="form-control" name="review" id="review" rows="3")
+    div(class='form-group')
+      each num in [5,4,3,2,1]
+        input(type="radio" id=num name="rating" value=num)
+        label(for=num)=num
+    div(class='form-group')
+      input(type='submit' class='form-control btn btn-info' value="Add Review")
+

@@ -4,6 +4,7 @@ import "./modules/fontawesome.min";
 import { removeFlashMsg } from "./modules/flash-messages";
 import { search } from "./modules/search";
 import { updateUserList } from "./modules/update-user-lists";
+import { addReview } from "./modules/add-review";
 
 removeFlashMsg();
 
@@ -37,4 +38,9 @@ if (typeof removeFromListBtn !== "undefined" && removeFromListBtn !== null) {
   Array.from(removeFromListBtn).forEach(function(ele) {
     ele.addEventListener("click", removeItem);
   });
+}
+
+const addReviewForm = document.querySelector("#add-review");
+if (typeof removeFromListBtn !== "undefined" && removeFromListBtn !== null) {
+  addReviewForm.addEventListener("submit", addReview);
 }

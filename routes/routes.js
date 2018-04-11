@@ -32,6 +32,9 @@ router.post("/register", userController.registerNewUser);
 router.get("/logout", userController.logout);
 router.get("/settings", userController.logedin, userController.settings);
 router.post("/settings", userController.logedin, userController.updateProfil);
+router.get("/achivments", userController.logedin, (req, res) => {
+  res.render("user-achivments");
+});
 
 // Userlists routes
 router.get(
@@ -51,6 +54,10 @@ router.get("/movies/page/:page", movieController.getMovies);
 router.get("/add-movie", movieController.addMovie);
 router.post("/add-movie", movieController.createMovie);
 router.get("/movies/:movie", movieController.getMovie);
+
+router.post("/add-review", userController.logedin, (req, res) =>
+  res.json(req.body)
+);
 
 // Stats routes
 router.get("/stats", statsController.getMovieStats);
