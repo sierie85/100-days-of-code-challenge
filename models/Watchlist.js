@@ -9,7 +9,8 @@ const watchlistSchema = new mongoose.Schema({
   movie: [
     {
       type: mongoose.Schema.Types.ObjectId,
-      ref: "Movie"
+      ref: "Movie",
+      required: true
     }
   ]
 });

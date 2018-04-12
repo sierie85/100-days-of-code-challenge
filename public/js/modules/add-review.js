@@ -1,8 +1,5 @@
 const addReview = function(e) {
   e.preventDefault();
-  const formData = new FormData(e.target);
-
-  console.log(formData);
 
   const rev = fetch("http://localhost:8000/add-review", {
     headers: {
@@ -12,9 +9,9 @@ const addReview = function(e) {
     method: "POST",
     credentials: "include",
     body: JSON.stringify({
-      id: formData.id,
-      review: formData.review,
-      rating: formData.rating
+      movieid: this.querySelector('input[name="movieid"').value,
+      review: this.querySelector('textarea[name="review"').value,
+      rating: this.querySelector('input[name="rating"').value
     })
   })
     .then(res => res.json())

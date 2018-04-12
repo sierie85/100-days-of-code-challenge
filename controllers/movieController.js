@@ -3,6 +3,7 @@ const Movie = require("../models/Movie");
 const Watchlist = require("../models/Watchlist");
 const Watched = require("../models/Watched");
 const Favorite = require("../models/Favorite");
+const Review = require("../models/Review");
 const moment = require("moment");
 
 exports.createMovie = async (req, res) => {
@@ -59,5 +60,12 @@ exports.getMovie = async (req, res) => {
       onFavoritelist = true;
     }
   }
+
+  const reviews = await Review.find({ movie: movie._id })
+    .populate("user", ["name", "email"])
+    .sort({ created: -1 });
+
+  console.log(reviews);
+
   res.render("movie", { movie, onWatchlist, onWatchedList, onFavoritelist });
 };

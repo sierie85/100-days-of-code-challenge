@@ -52,7 +52,7 @@ block content
       p
         span(class='font-weight-bold') ImdbRating:&nbsp;
         span=movie.imdbRating
-
-  div(class="row mb-5 mt-5")
-    div(class="col-7")
-      +addReview(movie._id)
+  if(user)
+    div(class="row mb-5 mt-5")
+      div(class="col-7")
+        +addReview(movie._id)

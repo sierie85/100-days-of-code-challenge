@@ -1,7 +1,7 @@
 mixin addReview(id)
 
   form(id="add-review" method="POST")
-    input(type="hidden" name="id" value=`${id}`)
+    input(type="hidden" name="movieid" value=`${id}`)
     div(class="form-group")
       label(for="review") Review
       textarea(class="form-control" name="review" id="review" rows="3")

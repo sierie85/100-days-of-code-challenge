@@ -5,6 +5,7 @@ const userController = require("../controllers/userController");
 const statsController = require("../controllers/statsController");
 const searchController = require("../controllers/searchController");
 const userListsController = require("../controllers/userListsController");
+const reviewController = require("../controllers/reviewController");
 const mongoose = require("mongoose");
 const Movie = require("../models/Movie");
 const User = require("../models/User");
@@ -55,9 +56,7 @@ router.get("/add-movie", movieController.addMovie);
 router.post("/add-movie", movieController.createMovie);
 router.get("/movies/:movie", movieController.getMovie);
 
-router.post("/add-review", userController.logedin, (req, res) =>
-  res.json(req.body)
-);
+router.post("/add-review", userController.logedin, reviewController.postReview);
 
 // Stats routes
 router.get("/stats", statsController.getMovieStats);
