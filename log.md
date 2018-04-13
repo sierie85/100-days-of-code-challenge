@@ -59,3 +59,7 @@
 ## Day 14: 12-04-2018
 
 **Today's Progress**: ongoing with user reviews. save reviews.
+
+## Day 15: 13-04-2018
+
+**Today's Progress**: ongoing with user reviews. display reviews on movie. check if user posted already an review on this movie. only show post review if user hasnt reviewed this movie.

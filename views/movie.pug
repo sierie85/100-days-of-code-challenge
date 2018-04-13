@@ -1,4 +1,5 @@
 extends layout
+include mixins/review
 include mixins/add-review
 
 block content
@@ -52,7 +53,17 @@ block content
       p
         span(class='font-weight-bold') ImdbRating:&nbsp;
         span=movie.imdbRating
-  if(user)
-    div(class="row mb-5 mt-5")
-      div(class="col-7")
-        +addReview(movie._id)
+
+  div(class='mt-5')
+    if(user && !userReview)
+      h2 Add Review
+      div(class="row mb-5 mt-5")
+        div(class="col-7")
+          +addReview(movie._id)
+
+  h2(class='mt-5 mb-5') Reviews
+  div(class='reviews')
+    if(reviews)
+      each review in reviews
+        +review(review)
+

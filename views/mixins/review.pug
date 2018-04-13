@@ -1,0 +1,12 @@
+mixin review(review = {})
+
+  div(class='col mb-3')
+    div(class='card')
+      div(class='card-header d-flex flex-row')
+        span(class='mr-auto')= `Rating: ${review.rating}`
+        span= review.user.name ? review.user.name : review.user.email
+      div(class='card-body')
+        p= review.review
+      div(class='card-footer')
+        p= review.created
+

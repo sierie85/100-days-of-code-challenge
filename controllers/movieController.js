@@ -61,11 +61,19 @@ exports.getMovie = async (req, res) => {
     }
   }
 
+  const review = await Review.findOne({ user: req.user._id, movie: movie._id });
+  const userReview = review ? true : false;
+
   const reviews = await Review.find({ movie: movie._id })
     .populate("user", ["name", "email"])
     .sort({ created: -1 });
 
-  console.log(reviews);
-
-  res.render("movie", { movie, onWatchlist, onWatchedList, onFavoritelist });
+  res.render("movie", {
+    movie,
+    onWatchlist,
+    onWatchedList,
+    onFavoritelist,
+    userReview,
+    reviews
+  });
 };
