@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 backlog.md
+
+public/dist/app.bundle.js
+public/dist/app.bundle.js.map
+public/dist/style.css
+public/dist/style.css.map
