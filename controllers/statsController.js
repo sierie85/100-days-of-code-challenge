@@ -31,7 +31,7 @@ const averageFromProp = (modelResults, prop) => {
 exports.getMovieStats = async (req, res) => {
   const stats = {};
   const movies = await Movie.find();
-  const watched = await Watched.find();
+  const watched = await Watched.find().populate("movie", ["name"]);
 
   stats["avg_runtime"] = averageFromProp(movies, "runtime");
   stats["most_playing_actors"] = averageFromPropArray(movies, "actors").slice(
@@ -39,8 +39,7 @@ exports.getMovieStats = async (req, res) => {
     5
   );
   stats["top_genre"] = averageFromPropArray(movies, "genre").slice(0, 3);
-
   stats["most_watched"] = averageFromPropArray(watched, "movie").slice(0, 3);
 
-  res.render("movie-stats", { stats });
+  res.render("movies/movie-stats", { stats });
 };

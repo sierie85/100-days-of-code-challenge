@@ -1,0 +1,8 @@
+mixin movieCard(movie = {})
+
+  div(class='col-3')
+    div(class='movie-card')
+      a(href=`/movies/${movie.name}`)
+        img(class='card-img-top' src=`${movie.poster}` alt=`${movie.name}`)
+        div(class='icons text-white')
+          i(class="far fa-bookmark")

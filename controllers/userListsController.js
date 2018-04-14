@@ -25,7 +25,7 @@ exports.getlist = async (req, res) => {
     .find({ userid: req.user._id })
     .populate("movie", ["name", "imdbRating", "poster"]);
 
-  res.render("user-list", { list, schema: req.params.schema });
+  res.render("users/user-list", { list, schema: req.params.schema });
 };
 
 exports.updateUserList = async (req, res) => {

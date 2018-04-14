@@ -1,0 +1,77 @@
+extends ../layout
+include ../_mixins/review
+include ../_mixins/add-review
+
+block content
+
+  div(class='movie-single bg-dark text-white p-3')
+    div(class='row')
+      div(class='col-8')
+        h2=movie.name
+          if(avgRating[0])
+            span(class='pl-3 small')
+              span= avgRating[0].average
+              i(class="far fa-star")
+      div(class='col-4')
+       if(user)
+        div(class='row')
+          div(class='col d-flex justify-content-end')
+            button(id='add-to-watched' class=`btn ${onWatchedlist === true ? 'btn-success' : 'btn-default'} mr-3` data-movieid=`${movie._id}` data-schema='watched')
+              i(class="far fa-check-circle")
+              span &nbsp;Watched
+            button(id='add-to-favorite' class=`btn ${onFavoritelist === true ? 'btn-success' : 'btn-default'} mr-3` data-movieid=`${movie._id}` data-schema='favorite')
+              i(class="far fa-star")
+              span &nbsp;Favorite
+            button(id='add-to-watchlist' class=`btn ${onWatchlist === true ? 'btn-success' : 'btn-default'}` data-movieid=`${movie._id}` data-schema='watchlist')
+              i(class="far fa-bookmark")
+              span &nbsp;Watchlist
+    div(class='row d-flex align-items-center')
+      div(class='col-4')
+        img(src=`${movie.poster}` alt=`${movie.name}`)
+      div(class='col')
+        p
+          span(class='font-weight-bold') Description:&nbsp;
+          span=movie.description
+        p
+          span(class='font-weight-bold') Actors:&nbsp;
+          -const maxActors = movie.actors.length - 1;
+          each actor, index in movie.actors
+            span
+              a(href=`/movies/?actors=${actor}`)= actor
+              span= `${index < maxActors ? ', ' : ''}`
+        p
+          span(class='font-weight-bold') Genre:&nbsp;
+          -const maxGenre = movie.genre.length - 1;
+          each genre, index in movie.genre
+            span
+              a(href=`/movies/?genre=${genre}`)= genre
+              span= `${index < maxGenre ? ', ' : ''}`
+        p
+          span(class='font-weight-bold') Director:&nbsp;
+          a(href=`/movies/?director=${movie.director}`)= movie.director
+        p
+          span(class='font-weight-bold') Runtime:&nbsp;
+          span= `${movie.runtime} min.`
+        p
+          span(class='font-weight-bold') Rated:&nbsp;
+          span= movie.rated
+        p
+          span(class='font-weight-bold') Released:&nbsp;
+          span= movie.released
+        p
+          span(class='font-weight-bold') ImdbRating:&nbsp;
+          span= `${movie.imdbRating} / 10`
+
+  div(class='mt-5')
+    if(user && !userReview)
+      h2 Add Review
+      div(class="row mb-5 mt-5")
+        div(class="col-7")
+          +addReview(movie._id)
+
+  h2(class='mt-5 mb-5') Reviews
+  div(class='reviews')
+    if(reviews)
+      each review in reviews
+        +review(review)
+

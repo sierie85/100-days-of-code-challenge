@@ -23,18 +23,18 @@ router.get("/", async (req, res) => {
 
 // User routes
 router.get("/login", (req, res) => {
-  res.render("login");
+  res.render("users/user-login");
 });
 router.post("/login", userController.login);
 router.get("/register", (req, res) => {
-  res.render("register");
+  res.render("users/user-register");
 });
 router.post("/register", userController.registerNewUser);
 router.get("/logout", userController.logout);
 router.get("/settings", userController.logedin, userController.settings);
 router.post("/settings", userController.logedin, userController.updateProfil);
 router.get("/achivments", userController.logedin, (req, res) => {
-  res.render("user-achivments");
+  res.render("users/user-achivments");
 });
 
 // Userlists routes

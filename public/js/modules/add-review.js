@@ -7,9 +7,9 @@ const addReview = function() {
     method: "POST",
     credentials: "include",
     body: JSON.stringify({
-      movieid: this.querySelector('input[name="movieid"').value,
-      review: this.querySelector('textarea[name="review"').value,
-      rating: this.querySelector('input[name="rating"').value
+      movieid: this.querySelector('input[name="movieid"]').value,
+      review: this.querySelector('textarea[name="review"]').value,
+      rating: this.querySelector('input[name="rating"]:checked').value
     })
   })
     .then(res => res.json())

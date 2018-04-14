@@ -1,0 +1,24 @@
+.movie-card {
+  overflow: hidden;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.2);
+  margin-bottom: 2em;
+  height: 360px;
+  position: relative;
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    &:hover {
+      opacity: 0.35;
+    }
+  }
+  .icons {
+    position: absolute;
+    z-index: 99;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    font-size: 1em;
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+}

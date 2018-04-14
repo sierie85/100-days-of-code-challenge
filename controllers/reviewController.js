@@ -7,6 +7,8 @@ exports.postReview = async (req, res) => {
     movie: req.body.movieid
   });
   if (!review) {
+    console.log(req.body.rating);
+
     const review = await new Review({
       user: req.user._id,
       movie: req.body.movieid,

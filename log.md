@@ -63,3 +63,7 @@
 ## Day 15: 13-04-2018
 
 **Today's Progress**: ongoing with user reviews. display reviews on movie. check if user posted already an review on this movie. only show post review if user hasnt reviewed this movie.
+
+## Day 16: 14-04-2018
+
+**Today's Progress**: refactoring. cleaning up. restructor. some styling. add avg rating by review.

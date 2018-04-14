@@ -43,7 +43,7 @@ exports.logedin = (req, res, next) => {
 };
 
 exports.settings = (req, res) => {
-  res.render("settings");
+  res.render("users/user-settings");
 };
 
 exports.updateProfil = async (req, res) => {

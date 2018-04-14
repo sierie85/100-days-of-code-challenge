@@ -41,7 +41,7 @@ if (typeof removeFromListBtn !== "undefined" && removeFromListBtn !== null) {
 }
 
 const addReviewForm = document.querySelector("#add-review");
-if (typeof removeFromListBtn !== "undefined" && removeFromListBtn !== null) {
+if (typeof addReviewForm !== "undefined" && addReviewForm !== null) {
   addReviewForm.addEventListener("submit", e => e.preventDefault());
   addReviewForm.addEventListener("submit", addReview);
 }

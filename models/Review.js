@@ -27,4 +27,11 @@ const reviewSchema = new mongoose.Schema({
   }
 });
 
+reviewSchema.statics.getAvgRating = function(id) {
+  return this.aggregate([
+    { $match: { movie: id } },
+    { $group: { _id: id, average: { $avg: "$rating" } } }
+  ]);
+};
+
 module.exports = mongoose.model("Review", reviewSchema);
