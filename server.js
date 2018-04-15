@@ -20,6 +20,21 @@ const flash = require("connect-flash");
 const routes = require("./routes/routes");
 // Express init
 const app = express();
+const server = require("http").createServer(app);
+// chat
+const io = require("socket.io")(server);
+
+io.on("connection", function(socket) {
+  socket.on("error", error => {
+    console.log(error);
+  });
+  socket.on("chat message", msgObj => {
+    io.emit("chat message", msgObj);
+  });
+  socket.on("disconnect", reason => {
+    io.emit("user left");
+  });
+});
 
 // View Engine
 app.set("views", path.join(__dirname, "views"));
@@ -62,6 +77,6 @@ app.use((req, res, next) => {
 app.use("/", routes);
 
 // Start express server on 8000
-app.listen(8000, () => {
+server.listen(8000, () => {
   "app started";
 });

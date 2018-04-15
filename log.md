@@ -67,3 +67,7 @@
 ## Day 16: 14-04-2018
 
 **Today's Progress**: refactoring. cleaning up. restructor. some styling. add avg rating by review.
+
+## Day 17: 15-04-2018
+
+**Today's Progress**: reload modified movie sample data. some styling. begin of adding global chat.

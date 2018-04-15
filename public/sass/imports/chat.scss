@@ -1,0 +1,10 @@
+.chat-messages {
+  height: 65vh;
+  max-height: 65vh;
+  overflow: scroll;
+  padding: 0;
+  li {
+    list-style-type: none;
+    padding: 0 0.25em 0.25em 0.25em;
+  }
+}

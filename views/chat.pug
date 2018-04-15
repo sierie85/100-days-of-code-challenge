@@ -1,0 +1,39 @@
+extends layout
+
+block content
+  h1 Chat
+  ul(class="chat-messages border border-primary bg-dark text-white")
+  if(user)
+  form(class="chat-message" action="")
+    if(user)
+      span= `${user.name ? user.name : user.email}: `
+    else
+      span Guest:
+    input(id="m" type="text" autocomplete="off")
+    button Send
+
+block scripts
+  if(user)
+    -var userName = user.name ? user.name : ''
+  else
+    -var userName = 'guest'
+  script(src="/socket.io/socket.io.js")
+  script.
+    var user = '#{userName}';
+    var socket = io();
+    var chatForm = document.querySelector('.chat-message');
+    chatForm.addEventListener('submit', (function(e){
+      e.preventDefault();
+      var msg = document.querySelector('#m');
+      socket.emit('chat message', {msg: msg.value, user: user});
+      msg.value = '';
+      return false;
+    }));
+    socket.on('chat message', function(obj){
+      var messages = document.querySelector('.chat-messages');
+      messages.innerHTML += '<li>'+obj.user+': '+obj.msg+'</li>';
+    });
+    socket.on('user left', function(){
+      var messages = document.querySelector('.chat-messages');
+      messages.innerHTML += '<li>User left</li>';
+    });

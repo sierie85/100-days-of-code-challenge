@@ -6,6 +6,7 @@ const statsController = require("../controllers/statsController");
 const searchController = require("../controllers/searchController");
 const userListsController = require("../controllers/userListsController");
 const reviewController = require("../controllers/reviewController");
+const chatController = require("../controllers/chatController");
 const mongoose = require("mongoose");
 const Movie = require("../models/Movie");
 const User = require("../models/User");
@@ -63,5 +64,8 @@ router.get("/stats", statsController.getMovieStats);
 
 // Search routes
 router.post("/search", searchController.searchMovie);
+
+// Chat routes
+router.get("/chat", chatController.getChat);
 
 module.exports = router;

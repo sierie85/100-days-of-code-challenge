@@ -23,7 +23,7 @@ exports.getlist = async (req, res) => {
   const schema = getSchema(req.params.schema);
   const list = await schema
     .find({ userid: req.user._id })
-    .populate("movie", ["name", "imdbRating", "poster"]);
+    .populate("movie", ["name", "imdbRating", "poster", "runtime"]);
 
   res.render("users/user-list", { list, schema: req.params.schema });
 };
