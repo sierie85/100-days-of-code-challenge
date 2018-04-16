@@ -1,0 +1,42 @@
+doctype html
+html
+  head
+    title MDBO - Backend
+    link(rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu")
+    link(rel='stylesheet' href='/dist/style.css')
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+  body
+
+    div(class='container-fluid')
+      block header
+        header(class='row')
+          div(class='col')
+            nav(class='navbar navbar-expand-lg navbar-dark bg-dark')
+              a(class='navbar-brand' href='/backend') MDBO - Backend
+              button(class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarSupportedContent' aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation')
+                span(class='navbar-toggler-icon')
+              div(class='collapse navbar-collapse' id='navbarSupportedContent')
+
+                ul(class='navbar-nav mr-auto')
+                  li(class='nav-item')
+                    a(class='nav-link' href='/') BackToFrontend
+                  li(class='nav-item')
+                    a(class='nav-link' href='/backend/add-movie') Add Movie
+                  li(class='nav-item')
+                    a(class='nav-link' href='/backend/blog') Blog
+
+    div(class='container-fluid')
+      div(class='row')
+        div(class='col')
+          block messages
+            if locals.flashes
+              - const categories = Object.keys(locals.flashes)
+              each category in categories
+                each message in flashes[category]
+                  div(class=`d-flex flex-row align-items-center flash-msg active alert alert-${category}` role='alert')
+                    span(class='d-block mr-auto')= message
+                    button(class='btn btn-dark' onClick="this.parentElement.remove()") Close
+
+    div(class='container mt-5')
+      block content
+

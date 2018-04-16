@@ -42,6 +42,17 @@ exports.logedin = (req, res, next) => {
   res.redirect("/login");
 };
 
+exports.logedinAdmin = (req, res, next) => {
+  const userRole = req.user.role;
+  if (userRole === "admin" && req.isAuthenticated()) {
+    next();
+    return;
+  } else {
+    req.flash("danger", "You must be logged in to see this page!");
+    res.redirect("/login");
+  }
+};
+
 exports.settings = (req, res) => {
   res.render("users/user-settings");
 };

@@ -2,11 +2,13 @@ const express = require("express");
 const router = express.Router();
 const movieController = require("../controllers/movieController");
 const userController = require("../controllers/userController");
+const achievementController = require("../controllers/achievementController");
 const statsController = require("../controllers/statsController");
 const searchController = require("../controllers/searchController");
 const userListsController = require("../controllers/userListsController");
 const reviewController = require("../controllers/reviewController");
 const chatController = require("../controllers/chatController");
+const backendController = require("../controllers/backendController");
 const mongoose = require("mongoose");
 const Movie = require("../models/Movie");
 const User = require("../models/User");
@@ -34,9 +36,12 @@ router.post("/register", userController.registerNewUser);
 router.get("/logout", userController.logout);
 router.get("/settings", userController.logedin, userController.settings);
 router.post("/settings", userController.logedin, userController.updateProfil);
-router.get("/achivments", userController.logedin, (req, res) => {
-  res.render("users/user-achivments");
-});
+
+router.get(
+  "/achivments",
+  userController.logedin,
+  achievementController.showAchievements
+);
 
 // Userlists routes
 router.get(
@@ -53,8 +58,6 @@ router.post(
 // Movie routes
 router.get("/movies", movieController.getMovies);
 router.get("/movies/page/:page", movieController.getMovies);
-router.get("/add-movie", movieController.addMovie);
-router.post("/add-movie", movieController.createMovie);
 router.get("/movies/:movie", movieController.getMovie);
 
 router.post("/add-review", userController.logedin, reviewController.postReview);
@@ -67,5 +70,22 @@ router.post("/search", searchController.searchMovie);
 
 // Chat routes
 router.get("/chat", chatController.getChat);
+
+// Backend routes
+router.get(
+  "/backend",
+  userController.logedinAdmin,
+  backendController.backendOverview
+);
+router.get(
+  "/backend/add-movie",
+  userController.logedinAdmin,
+  movieController.addMovie
+);
+router.post(
+  "/backend/add-movie",
+  userController.logedinAdmin,
+  movieController.createMovie
+);
 
 module.exports = router;

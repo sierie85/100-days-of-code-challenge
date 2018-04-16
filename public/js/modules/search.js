@@ -19,12 +19,23 @@ function search(e) {
     .then(res => res.json())
     .then(data => {
       searchResults.innerHTML = "";
-      data.map(
-        res =>
-          (searchResults.innerHTML += `<li><a href='/movies/${res.name}'>${
-            res.name
-          }</a></li>`)
-      );
+
+      if (data.movies) {
+        data.movies.map(
+          res =>
+            (searchResults.innerHTML += `<li><a href='/movies/${res.name}'>${
+              res.name
+            }</a></li>`)
+        );
+      }
+      if (data.actors) {
+        data.actors.map(
+          res =>
+            (searchResults.innerHTML += `<li><a href='/movies/${res.name}'>${
+              res.name
+            }</a></li>`)
+        );
+      }
     });
 }
 

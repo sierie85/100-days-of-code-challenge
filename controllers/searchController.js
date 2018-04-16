@@ -6,5 +6,7 @@ exports.searchMovie = async (req, res) => {
   const movies = await Movie.find({ name: query })
     .select("name")
     .limit(5);
-  res.json(movies);
+  const actors = await Movie.find({ actors: query }).limit(5);
+
+  res.json({ movies, actors });
 };
