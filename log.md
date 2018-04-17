@@ -72,10 +72,10 @@
 
 **Today's Progress**: reload modified movie sample data. some styling. begin of adding global chat.
 
-## Day 18: 15-04-2018
+## Day 18: 16-04-2018
 
 **Today's Progress**: auth check for admin role. add backend controller and view for future functions. add achivments controller. modifiy search, add actors.
 
-## Day 18: 15-04-2018
+## Day 19: 17-04-2018
 
-**Today's Progress**: go on with search.
+**Today's Progress**: optimize search.
