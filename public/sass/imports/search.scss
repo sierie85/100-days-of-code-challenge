@@ -4,16 +4,37 @@
 
 .search-results {
   position: absolute;
-  background: #343a40;
+  background: #111;
   top: 2.4em;
-  width: 100%;
+  right: 0;
+  width: 150%;
   color: #fff;
+  z-index: 999;
   ul {
     list-style-type: none;
-    padding-left: 0.75em;
+    padding: 0 0.75em;
     margin: 0;
-    li {
-      padding: 0.375em;
+  }
+  li:hover {
+    background-color: #fff;
+    a {
+      color: #111;
+    }
+  }
+  li.title {
+    font-size: 105%;
+    &:hover {
+      background-color: #111;
+    }
+    a {
+      color: #ddd;
+    }
+  }
+  a {
+    display: block;
+    color: #fff;
+    &:hover {
+      text-decoration: none;
     }
   }
 }

@@ -21,20 +21,19 @@ function search(e) {
       searchResults.innerHTML = "";
 
       if (data.movies) {
+        searchResults.innerHTML += `<li class="title">Movies:</li>`;
         data.movies.map(
           res =>
-            (searchResults.innerHTML += `<li><a href='/movies/${res.name}'>${
-              res.name
-            }</a></li>`)
+            (searchResults.innerHTML += `<li><a href='/movies/${res}'>${res}</a></li>`)
         );
+        searchResults.innerHTML += `<hr/>`;
       }
       if (data.actors) {
-        data.actors.map(
-          res =>
-            (searchResults.innerHTML += `<li><a href='/movies/${res.name}'>${
-              res.name
-            }</a></li>`)
-        );
+        searchResults.innerHTML += `<li class="title">Actor:</li>`;
+        data.actors.map(res => {
+          searchResults.innerHTML += `<li><a href='/movies/?actors=${res}'>${res}</a></li>`;
+        });
+        searchResults.innerHTML += `<hr/>`;
       }
     });
 }
