@@ -79,3 +79,7 @@
 ## Day 19: 17-04-2018
 
 **Today's Progress**: optimize search.
+
+## Day 20: 18-04-2018
+
+**Today's Progress**: working on achievements.
