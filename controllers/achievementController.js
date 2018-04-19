@@ -8,17 +8,46 @@ exports.showAchievements = async (req, res) => {
     .select("movie")
     .lean();
   const watchedCount = watched.movie.length;
+  const watchedAchievements = checkForAchievement(
+    achievements.watched,
+    watchedCount
+  );
+  console.log(checkForAchievement(achievements.watched, watchedCount));
 
-  console.log(watched, watchedCount);
+  res.render("users/user-achievements", {
+    achievements: [watchedAchievements]
+  });
+};
 
-  res.render("users/user-achievements");
+const getKeyByValue = (object, value) => {
+  return Object.keys(object).find(key => object[key] === value);
+};
+
+const checkForAchievement = (ach, count) => {
+  const value = Object.keys(ach).reduce((a, b) => {
+    if (count >= ach[b]) {
+      return (a = ach[b]);
+    }
+    return a;
+  }, 0);
+  return getKeyByValue(ach, value);
 };
 
 const achievements = {
   watched: {
-    1: "beginner",
-    10: "",
-    100: "profi watcher"
+    watched1: 1,
+    watched10: 10,
+    watched100: 100
+  },
+  favorite: {
+    fav1: 1,
+    fav10: 10,
+    fav100: 100
+  },
+  time: {
+    time10: 10,
+    time600: 600,
+    time10000: 10000
   }
 };
 

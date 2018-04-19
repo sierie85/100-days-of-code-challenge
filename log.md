@@ -83,3 +83,7 @@
 ## Day 20: 18-04-2018
 
 **Today's Progress**: working on achievements.
+
+## Day 21: 18-04-2018
+
+**Today's Progress**: working on achievements... find some way to check if achievement is earned. test it for watched.
