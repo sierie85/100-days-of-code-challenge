@@ -14,3 +14,21 @@ block content
           input(type='name' class='form-control' id='name' name='name' value=`${user.name ? user.name : ''}`)
         div(class='form-group')
           input(type='submit' class='form-control btn btn-success' value='UPDATE PROFIL')
+  div(class='row')
+    div(class='col-6')
+      button(class='delete-account btn btn-danger') Delete Account
+
+    div(class="modal micromodal-slide" id="modal-1" aria-hidden="true")
+      div(class="modal__overlay" tabindex="-1" data-micromodal-close)
+        div(class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title")
+          header(class="modal__header")
+            h2(class="modal__title" id="modal-1-title") Delete Account
+            button(class="modal__close" aria-label="Close modal" data-micromodal-close)
+          main(class="modal__content" id="modal-1-content")
+            p Please confirm with your email address if you want to delete your account. Please be aware that your data wont be able to restored!
+            input(type="text" class="account-email" placeholder="your@mail.address")
+          footer(class="modal__footer")
+            button(class="modal__btn modal__btn-primary remove-account") Continue
+            button(class="modal__btn" data-micromodal-close aria-label="Close this dialog window") Close
+
+

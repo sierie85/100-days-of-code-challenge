@@ -5,6 +5,7 @@ import { removeFlashMsg } from "./modules/flash-messages";
 import { search } from "./modules/search";
 import { updateUserList } from "./modules/update-user-lists";
 import { addReview } from "./modules/add-review";
+import { deleteAccount } from "./modules/delete-account";
 
 removeFlashMsg();
 
@@ -44,4 +45,9 @@ const addReviewForm = document.querySelector("#add-review");
 if (typeof addReviewForm !== "undefined" && addReviewForm !== null) {
   addReviewForm.addEventListener("submit", e => e.preventDefault());
   addReviewForm.addEventListener("submit", addReview);
+}
+
+const deleteAccountBtn = document.querySelector(".delete-account");
+if (typeof deleteAccountBtn !== "undefined" && deleteAccountBtn !== null) {
+  deleteAccountBtn.addEventListener("click", deleteAccount);
 }

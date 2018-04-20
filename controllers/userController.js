@@ -72,3 +72,7 @@ exports.updateProfil = async (req, res) => {
   req.flash("success", "Settings changed");
   res.redirect("/settings");
 };
+
+exports.deleteAccount = async (res, req) => {
+  res.json("user-deleted");
+};
