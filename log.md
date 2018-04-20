@@ -84,10 +84,10 @@
 
 **Today's Progress**: working on achievements.
 
-## Day 21: 18-04-2018
+## Day 21: 19-04-2018
 
 **Today's Progress**: working on achievements... find some way to check if achievement is earned. test it for watched.
 
-## Day 21: 18-04-2018
+## Day 22: 20-04-2018
 
 **Today's Progress**: working on delete account.
