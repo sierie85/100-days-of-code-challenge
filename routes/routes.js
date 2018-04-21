@@ -36,7 +36,11 @@ router.post("/register", userController.registerNewUser);
 router.get("/logout", userController.logout);
 router.get("/settings", userController.logedin, userController.settings);
 router.post("/settings", userController.logedin, userController.updateProfil);
-
+router.post(
+  "/delete-account",
+  userController.logedin,
+  userController.deleteAccount
+);
 router.get(
   "/achivments",
   userController.logedin,

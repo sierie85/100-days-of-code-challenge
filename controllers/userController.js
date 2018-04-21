@@ -1,6 +1,10 @@
 const passport = require("passport");
 const mongoose = require("mongoose");
 const User = require("../models/User");
+const Watchlist = require("../models/Watchlist");
+const Watched = require("../models/Watched");
+const Favorite = require("../models/Favorite");
+const Review = require("../models/Review");
 
 exports.registerNewUser = async (req, res) => {
   if (req.body.password.length < 9) {
@@ -73,6 +77,20 @@ exports.updateProfil = async (req, res) => {
   res.redirect("/settings");
 };
 
-exports.deleteAccount = async (res, req) => {
+exports.deleteAccount = async (req, res) => {
+  if (req.body.email !== req.user.email) {
+    res.json("error");
+    return;
+  }
+  const id = req.user._id;
+  console.log(id);
+
+  // const user = User.remove({_id: id });
+  // const watchlist = Watchlist.remove({userid: id });
+  // const watched = Watched.remove({userid: id });
+  // const favorite = Favorite.remove({userid: id });
+  // const review = Review.remove({user: id });
+  // const deleted = await Promise.all([user, watchlist, watched, favorite, review]);
+
   res.json("user-deleted");
 };
