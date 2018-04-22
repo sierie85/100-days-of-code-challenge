@@ -62,9 +62,8 @@ exports.settings = (req, res) => {
 };
 
 exports.updateProfil = async (req, res) => {
-  var query = { _id: req.body._id };
   const user = await User.findOneAndUpdate(
-    query,
+    { _id: req.user._id },
     {
       name: req.body.name
     },
@@ -83,14 +82,18 @@ exports.deleteAccount = async (req, res) => {
     return;
   }
   const id = req.user._id;
-  console.log(id);
-
-  // const user = User.remove({_id: id });
-  // const watchlist = Watchlist.remove({userid: id });
-  // const watched = Watched.remove({userid: id });
-  // const favorite = Favorite.remove({userid: id });
-  // const review = Review.remove({user: id });
-  // const deleted = await Promise.all([user, watchlist, watched, favorite, review]);
+  const user = User.remove({ _id: id });
+  const watchlist = Watchlist.remove({ userid: id });
+  const watched = Watched.remove({ userid: id });
+  const favorite = Favorite.remove({ userid: id });
+  const review = Review.remove({ user: id });
+  const deleted = await Promise.all([
+    user,
+    watchlist,
+    watched,
+    favorite,
+    review
+  ]);
 
   res.json("user-deleted");
 };

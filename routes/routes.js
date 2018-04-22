@@ -1,5 +1,6 @@
 const express = require("express");
 const router = express.Router();
+const homeController = require("../controllers/homeController");
 const movieController = require("../controllers/movieController");
 const userController = require("../controllers/userController");
 const achievementController = require("../controllers/achievementController");
@@ -14,15 +15,7 @@ const Movie = require("../models/Movie");
 const User = require("../models/User");
 
 // Index route
-router.get("/", async (req, res) => {
-  const newestMovies = await Movie.find()
-    .sort({ released: -1 })
-    .limit(4);
-  const bestRatedMovies = await Movie.find()
-    .sort({ imdbRating: -1 })
-    .limit(4);
-  res.render("index", { newestMovies, bestRatedMovies });
-});
+router.get("/", homeController.getContent);
 
 // User routes
 router.get("/login", (req, res) => {

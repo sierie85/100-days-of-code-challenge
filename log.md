@@ -95,3 +95,7 @@
 ## Day 23: 21-04-2018
 
 **Today's Progress**: working on delete account.
+
+## Day 24: 22-04-2018
+
+**Today's Progress**: finish delete account. add homeController for index.
