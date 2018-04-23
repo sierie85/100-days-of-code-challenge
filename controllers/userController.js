@@ -76,6 +76,20 @@ exports.updateProfil = async (req, res) => {
   res.redirect("/settings");
 };
 
+exports.changePassword = async (req, res) => {
+  if (req.body["new-pass"] !== req.body["new-pass-confirm"]) {
+    req.flash("danger", "new password must be the same");
+    res.redirect("/settings");
+    return;
+  }
+  const user = await User.findById(req.user._id);
+  const setNewPass = await user.setPassword(req.body["new-pass"]);
+  const newPass = await setNewPass.save();
+  console.log(user);
+  console.log(setNewPass);
+  res.send("oK");
+};
+
 exports.deleteAccount = async (req, res) => {
   if (req.body.email !== req.user.email) {
     res.json("error");
