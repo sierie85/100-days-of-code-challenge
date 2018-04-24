@@ -76,18 +76,49 @@ exports.updateProfil = async (req, res) => {
   res.redirect("/settings");
 };
 
+exports.getResetPassword = (req, res) => {
+  res.render("users/user-reset-password");
+};
+
+exports.postResetPassword = async (req, res) => {
+  console.log(req.body.email);
+  try {
+    const user = User.findOne({ email: req.body.email });
+    console.log(user);
+  } catch (error) {
+    console.log(error);
+  }
+  res.send("fofo");
+};
+
 exports.changePassword = async (req, res) => {
   if (req.body["new-pass"] !== req.body["new-pass-confirm"]) {
     req.flash("danger", "new password must be the same");
     res.redirect("/settings");
     return;
   }
-  const user = await User.findById(req.user._id);
-  const setNewPass = await user.setPassword(req.body["new-pass"]);
-  const newPass = await setNewPass.save();
-  console.log(user);
-  console.log(setNewPass);
-  res.send("oK");
+  if (!req.body["new-pass"].length > 8) {
+    req.flash("danger", "new password must be at least 8 charakters long");
+    res.redirect("/settings");
+    return;
+  }
+  try {
+    const user = await User.findById(req.user._id);
+    const setNewPass = await user.setPassword(req.body["new-pass"], function(
+      error
+    ) {
+      if (!error) {
+        user.save(function(error) {
+          if (error) console.log(error);
+        });
+      }
+      console.log(error);
+    });
+  } catch (error) {
+    console.log(error);
+  }
+  req.logout();
+  res.redirect("/login");
 };
 
 exports.deleteAccount = async (req, res) => {
