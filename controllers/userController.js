@@ -5,6 +5,8 @@ const Watchlist = require("../models/Watchlist");
 const Watched = require("../models/Watched");
 const Favorite = require("../models/Favorite");
 const Review = require("../models/Review");
+const crypto = require("crypto");
+const nodemailer = require("nodemailer");
 
 exports.registerNewUser = async (req, res) => {
   if (req.body.password.length < 9) {
@@ -80,15 +82,48 @@ exports.getResetPassword = (req, res) => {
   res.render("users/user-reset-password");
 };
 
+const transporter = nodemailer.createTransport({
+  host: process.env.MAIL_HOST,
+  port: process.env.MAIL_PORT,
+  auth: {
+    user: process.env.MAIL_USER,
+    pass: process.env.MAIL_PASS
+  }
+});
+
+const sendResetMail = hash => {
+  console.log(process.env.MAIL_HOST);
+
+  const mailOptions = {
+    from: '"Fred Foo 👻" <foo@example.com>',
+    to: "bar@example.com, baz@example.com",
+    subject: "Hello ✔",
+    text: "Hello world?",
+    html: "<b>Hello world?</b>"
+  };
+
+  transporter.sendMail(mailOptions, (error, info) => {
+    if (error) {
+      return console.log(error);
+    }
+    console.log("boc");
+  });
+};
+
 exports.postResetPassword = async (req, res) => {
-  console.log(req.body.email);
   try {
-    const user = User.findOne({ email: req.body.email });
-    console.log(user);
+    const user = await User.findOne({ email: req.body.email });
+    user.resetPasswordToken = crypto.randomBytes(20).toString("hex");
+    user.resetPasswordDate = Date.now() + 3600000;
+    await user.save();
+    sendResetMail();
+    req.flash("success", "Password reset send to you by email.");
+    res.redirect("/login");
   } catch (error) {
     console.log(error);
+    req.flash("danger", "No User with this email found.");
+    res.redirect("/login");
   }
-  res.send("fofo");
 };
 
 exports.changePassword = async (req, res) => {

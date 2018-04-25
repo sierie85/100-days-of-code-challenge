@@ -1,3 +1,9 @@
 NODE_ENV=development
+
 DATABASE=mongodb://<user>:<pass>@<server>:<port>/<database>
 SESSION_SECRET=YOURSECRECT
+
+MAIL_HOST=host
+MAIL_PORT=port
+MAIL_USER=user
+MAIL_PASS=pass

@@ -107,3 +107,7 @@
 # Day 26: 24-04-2018
 
 **Today's Progress**: finish user password change. working on password forgotten functionality
+
+# Day 27: 25-04-2018
+
+**Today's Progress**: working on password forgotten functionality.

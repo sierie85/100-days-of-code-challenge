@@ -22,7 +22,9 @@ const userSchema = new mongoose.Schema({
   },
   achievements: {
     type: Array
-  }
+  },
+  resetPasswordToken: String,
+  resetPasswordDate: Date
 });
 
 userSchema.plugin(passportLocalMongoose, { usernameField: "email" });
