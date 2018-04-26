@@ -91,33 +91,35 @@ const transporter = nodemailer.createTransport({
   }
 });
 
-const sendResetMail = hash => {
-  console.log(process.env.MAIL_HOST);
-
+const sendResetMail = (email, hash, req) => {
   const mailOptions = {
-    from: '"Fred Foo 👻" <foo@example.com>',
-    to: "bar@example.com, baz@example.com",
-    subject: "Hello ✔",
-    text: "Hello world?",
-    html: "<b>Hello world?</b>"
+    from: '"mdbo" <info@mdbo.com>',
+    to: email,
+    subject: "MDBO - Password reset",
+    text: `To reset your password follow go to "http://${
+      req.headers.host
+    }/set-new-password/${hash}"`,
+    html: `To reset your password click this <a href="http://${
+      req.headers.host
+    }/set-new-password/${hash}">link</a>`
   };
 
   transporter.sendMail(mailOptions, (error, info) => {
     if (error) {
       return console.log(error);
     }
-    console.log("boc");
   });
 };
 
 exports.postResetPassword = async (req, res) => {
   try {
     const user = await User.findOne({ email: req.body.email });
-    user.resetPasswordToken = crypto.randomBytes(20).toString("hex");
+    const hash = crypto.randomBytes(20).toString("hex");
+    user.resetPasswordToken = hash;
     user.resetPasswordDate = Date.now() + 3600000;
     await user.save();
-    sendResetMail();
-    req.flash("success", "Password reset send to you by email.");
+    sendResetMail(user.email, hash, req);
+    req.flash("success", "Password reset send to your email.");
     res.redirect("/login");
   } catch (error) {
     console.log(error);
@@ -125,6 +127,12 @@ exports.postResetPassword = async (req, res) => {
     res.redirect("/login");
   }
 };
+
+exports.setResetPassword = async (req, res) => {
+  res.render("users/user-set-new-password");
+};
+
+exports.setNewPasswordAfterReset = async (req, res) => {};
 
 exports.changePassword = async (req, res) => {
   if (req.body["new-pass"] !== req.body["new-pass-confirm"]) {

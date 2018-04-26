@@ -36,6 +36,7 @@ router.post(
   userController.logedin,
   userController.changePassword
 );
+router.get("/set-new-password/:token", userController.setResetPassword);
 router.post(
   "/delete-account",
   userController.logedin,
