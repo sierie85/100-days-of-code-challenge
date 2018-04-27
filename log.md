@@ -100,18 +100,22 @@
 
 **Today's Progress**: finish delete account. add homeController for index. small fix for update user
 
-# Day 25: 23-04-2018
+## Day 25: 23-04-2018
 
 **Today's Progress**: start with user password change.
 
-# Day 26: 24-04-2018
+## Day 26: 24-04-2018
 
 **Today's Progress**: finish user password change. working on password forgotten functionality
 
-# Day 27: 25-04-2018
+## Day 27: 25-04-2018
 
 **Today's Progress**: working on password forgotten functionality.
 
-# Day 28: 26-04-2018
+## Day 28: 26-04-2018
 
 **Today's Progress**: working on password forgotten functionality.
+
+## Day 29: 27-04-2018
+
+**Today's Progress**: finish password forgotten functionality.

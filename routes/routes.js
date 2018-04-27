@@ -27,6 +27,7 @@ router.get("/register", (req, res) => {
 });
 router.post("/register", userController.registerNewUser);
 router.get("/logout", userController.logout);
+router.get("/dashboard", userController.dashboard);
 router.get("/settings", userController.logedin, userController.settings);
 router.post("/settings", userController.logedin, userController.updateProfil);
 router.get("/password-reset", userController.getResetPassword);
@@ -37,6 +38,10 @@ router.post(
   userController.changePassword
 );
 router.get("/set-new-password/:token", userController.setResetPassword);
+router.post(
+  "/set-new-password/:token",
+  userController.setNewPasswordAfterReset
+);
 router.post(
   "/delete-account",
   userController.logedin,

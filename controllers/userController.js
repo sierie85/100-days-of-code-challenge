@@ -59,6 +59,10 @@ exports.logedinAdmin = (req, res, next) => {
   }
 };
 
+exports.dashboard = (req, res) => {
+  res.render("users/user-dashboard");
+};
+
 exports.settings = (req, res) => {
   res.render("users/user-settings");
 };
@@ -132,7 +136,45 @@ exports.setResetPassword = async (req, res) => {
   res.render("users/user-set-new-password");
 };
 
-exports.setNewPasswordAfterReset = async (req, res) => {};
+exports.setNewPasswordAfterReset = async (req, res) => {
+  if (req.body.password !== req.body["password-confirm"]) {
+    req.flash("danger", "Password are not the same!");
+    res.redirect("back");
+    return;
+  }
+
+  const user = await User.findOne({
+    resetPasswordToken: req.params.token,
+    resetPasswordDate: { $gt: Date.now() }
+  });
+
+  if (!user) {
+    req.flash("error", "Password reset is invalid or has expired");
+    res.redirect("back");
+    return;
+  }
+
+  try {
+    const setNewPass = await user.setPassword(req.body.password, function(
+      error
+    ) {
+      if (!error) {
+        user.resetPasswordToken = undefined;
+        user.resetPasswordExpires = undefined;
+        user.save(function(error) {
+          if (error) {
+            console.log(error);
+          }
+          req.flash("success", "Password successfully renewed.");
+          res.redirect("/login");
+        });
+      }
+      console.log(error);
+    });
+  } catch (error) {
+    console.log(error);
+  }
+};
 
 exports.changePassword = async (req, res) => {
   if (req.body["new-pass"] !== req.body["new-pass-confirm"]) {

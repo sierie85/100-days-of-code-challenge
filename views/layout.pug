@@ -33,7 +33,7 @@ html
                 ul(class='navbar-nav')
                   if user
                     li(class="nav-item dropdown")
-                      a(class="nav-link dropdown-toggle" href="#")= user.name ? user.name : user.email
+                      a(class="nav-link dropdown-toggle" href="/dashboard")= user.name ? user.name : user.email
                       div(class="dropdown-menu")
                         - const userRole = user.role;
                         if(userRole === 'admin')
