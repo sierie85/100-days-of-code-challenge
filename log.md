@@ -119,3 +119,7 @@
 ## Day 29: 27-04-2018
 
 **Today's Progress**: finish password forgotten functionality.
+
+## Day 30: 28-04-2018
+
+**Today's Progress**: add user avatar.

@@ -2,18 +2,23 @@ extend ../layout
 
 block content
   h1 Settings
-  div(class='row')
-
-    div(class='col-6')
-      form(method='POST')
+  form(method='POST' enctype="multipart/form-data")
+    div(class='row')
+      div(class='col-6')
         div(class='form-group')
           label(for='email') Email
           input(type='text' class='form-control' id='email' name='email' disabled value=`${user.email}`)
         div(class='form-group')
           label(for='name') Name
           input(type='name' class='form-control' id='name' name='name' value=`${user.name ? user.name : ''}`)
+      div(class='col-6')
+        img(src=`/uploads/${user.avatar}` class="img-thumbnail rounded-circle" width="200")
         div(class='form-group')
-          input(type='submit' class='form-control btn btn-success' value='Update Profil')
+          label(for='avatar') Avatar
+          input(type='file' class='form-control' id='avatar' name='avatar')
+      div(class='col-6')
+        div(class='form-group')
+        input(type='submit' class='form-control btn btn-success' value='Update Profil')
 
   div(class='row')
     div(class='col-6')

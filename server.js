@@ -17,6 +17,7 @@ const passport = require("passport");
 const LocalStrategy = require("passport-local").Strategy;
 const helmet = require("helmet");
 const flash = require("connect-flash");
+const morgan = require("morgan");
 const routes = require("./routes/routes");
 // Express init
 const app = express();
@@ -45,6 +46,7 @@ app.use(helmet());
 app.use(express.static(path.join(__dirname, "/public")));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+app.use(morgan("dev"));
 app.use(flash());
 app.use(
   expressSession({

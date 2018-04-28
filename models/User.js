@@ -20,6 +20,9 @@ const userSchema = new mongoose.Schema({
     type: String,
     trim: true
   },
+  avatar: {
+    type: String
+  },
   achievements: {
     type: Array
   },

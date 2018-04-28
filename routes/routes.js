@@ -29,7 +29,12 @@ router.post("/register", userController.registerNewUser);
 router.get("/logout", userController.logout);
 router.get("/dashboard", userController.dashboard);
 router.get("/settings", userController.logedin, userController.settings);
-router.post("/settings", userController.logedin, userController.updateProfil);
+router.post(
+  "/settings",
+  userController.logedin,
+  userController.upload,
+  userController.updateProfil
+);
 router.get("/password-reset", userController.getResetPassword);
 router.post("/password-reset", userController.postResetPassword);
 router.post(

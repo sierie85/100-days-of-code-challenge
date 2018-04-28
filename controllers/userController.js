@@ -7,6 +7,9 @@ const Favorite = require("../models/Favorite");
 const Review = require("../models/Review");
 const crypto = require("crypto");
 const nodemailer = require("nodemailer");
+const path = require("path");
+const fs = require("fs");
+const multer = require("multer");
 
 exports.registerNewUser = async (req, res) => {
   if (req.body.password.length < 9) {
@@ -67,17 +70,51 @@ exports.settings = (req, res) => {
   res.render("users/user-settings");
 };
 
-exports.updateProfil = async (req, res) => {
-  const user = await User.findOneAndUpdate(
-    { _id: req.user._id },
-    {
-      name: req.body.name
-    },
-    {
-      new: true,
-      runValidators: true
+exports.upload = multer({
+  storage: multer.memoryStorage(),
+  fileFilter(req, file, next) {
+    if (file.mimetype.startsWith("image/")) {
+      next(null, true);
+    } else {
+      next({ message: "That filetype isnt allowed" }, false);
     }
-  );
+  }
+}).single("avatar");
+
+exports.updateProfil = async (req, res) => {
+  let avatar = "";
+  if (req.file) {
+    console.log(req.file);
+    const random = crypto.randomBytes(24).toString("hex");
+    const extension = req.file.mimetype.split("/")[1];
+    avatar = `${random}.${extension}`;
+    console.log(avatar);
+    fs.writeFile(
+      path.join(__dirname, `../public/uploads/${avatar}`),
+      req.file.buffer,
+      function(err) {
+        if (err) {
+          return console.log(err);
+        }
+      }
+    );
+    console.log(avatar);
+  }
+  try {
+    const user = await User.findOneAndUpdate(
+      { _id: req.user._id },
+      {
+        name: req.body.name,
+        avatar
+      },
+      {
+        new: true,
+        runValidators: true
+      }
+    );
+  } catch (error) {
+    console.log(error);
+  }
   req.flash("success", "Settings changed");
   res.redirect("/settings");
 };
