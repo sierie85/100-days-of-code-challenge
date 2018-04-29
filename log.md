@@ -123,3 +123,7 @@
 ## Day 30: 28-04-2018
 
 **Today's Progress**: add user avatar.
+
+## Day 31: 29-04-2018
+
+**Today's Progress**: add user dashboard for more overview.

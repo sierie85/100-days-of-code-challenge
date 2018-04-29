@@ -1,5 +1,34 @@
 extends ../layout
 
 block content
+  div(class='row')
+    div(class='col-12')
+      h1 Dashboard
+  div(class='row')
+    div(class='col-6')
+      img(src=`/uploads/${user.avatar}`)
+      p= user.name
 
-  h1 Dashboard
+    div(class='col-6')
+      h4 Watchlist
+      div(class="card-group")
+        each item in list
+          each movie in item.movie
+            div(class="card")
+              img(class="card-img-top" src=`${movie.poster}` alt=`${movie.name}`)
+
+      h4 Watched
+      div(class="card-group")
+        each item in watch
+          each movie in item.movie
+            div(class="card")
+              img(class="card-img-top" src=`${movie.poster}` alt=`${movie.name}`)
+
+      h4 Favorite
+      div(class="card-group")
+        each item in fav
+          each movie in item.movie
+            div(class="card")
+              img(class="card-img-top" src=`${movie.poster}` alt=`${movie.name}`)
+
+

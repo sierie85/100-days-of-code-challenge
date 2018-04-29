@@ -1,5 +1,4 @@
-const express = require("express");
-const router = express.Router();
+const router = require("express").Router();
 const homeController = require("../controllers/homeController");
 const movieController = require("../controllers/movieController");
 const userController = require("../controllers/userController");
@@ -10,9 +9,6 @@ const userListsController = require("../controllers/userListsController");
 const reviewController = require("../controllers/reviewController");
 const chatController = require("../controllers/chatController");
 const backendController = require("../controllers/backendController");
-const mongoose = require("mongoose");
-const Movie = require("../models/Movie");
-const User = require("../models/User");
 
 // Index route
 router.get("/", homeController.getContent);
@@ -27,7 +23,7 @@ router.get("/register", (req, res) => {
 });
 router.post("/register", userController.registerNewUser);
 router.get("/logout", userController.logout);
-router.get("/dashboard", userController.dashboard);
+router.get("/dashboard", userController.logedin, userController.dashboard);
 router.get("/settings", userController.logedin, userController.settings);
 router.post(
   "/settings",

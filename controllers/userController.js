@@ -62,8 +62,28 @@ exports.logedinAdmin = (req, res, next) => {
   }
 };
 
-exports.dashboard = (req, res) => {
-  res.render("users/user-dashboard");
+exports.dashboard = async (req, res) => {
+  const watchlist = Watchlist.find(
+    { userid: req.user._id },
+    { movie: { $slice: 3 } }
+  ).populate("movie", ["name", "imdbRating", "poster", "runtime"]);
+
+  const watched = Watched.find(
+    { userid: req.user._id },
+    { movie: { $slice: 3 } }
+  )
+    .populate("movie", ["name", "imdbRating", "poster", "runtime"])
+    .limit(3);
+
+  const favorite = Favorite.find(
+    { userid: req.user._id },
+    { movie: { $slice: 3 } }
+  )
+    .populate("movie", ["name", "imdbRating", "poster", "runtime"])
+    .limit(3);
+
+  const [list, watch, fav] = await Promise.all([watchlist, watched, favorite]);
+  res.render("users/user-dashboard", { list, watch, fav });
 };
 
 exports.settings = (req, res) => {
@@ -84,11 +104,9 @@ exports.upload = multer({
 exports.updateProfil = async (req, res) => {
   let avatar = "";
   if (req.file) {
-    console.log(req.file);
     const random = crypto.randomBytes(24).toString("hex");
     const extension = req.file.mimetype.split("/")[1];
     avatar = `${random}.${extension}`;
-    console.log(avatar);
     fs.writeFile(
       path.join(__dirname, `../public/uploads/${avatar}`),
       req.file.buffer,
@@ -98,7 +116,6 @@ exports.updateProfil = async (req, res) => {
         }
       }
     );
-    console.log(avatar);
   }
   try {
     const user = await User.findOneAndUpdate(
