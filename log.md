@@ -127,3 +127,7 @@
 ## Day 31: 29-04-2018
 
 **Today's Progress**: add user dashboard for more overview.
+
+## Day 32: 30-04-2018
+
+**Today's Progress**: add mosted watched movies by users to home.

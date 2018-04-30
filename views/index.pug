@@ -11,3 +11,7 @@ block content
     div(class='card-group')
       each movie in bestRatedMovies
         +movieCard(movie)
+    h2 Most watched by User
+    div(class='card-group')
+      each movie in mostWatched
+        +movieCard(movie)
