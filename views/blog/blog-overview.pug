@@ -1,0 +1,8 @@
+extends ../layout
+
+block content
+
+  h1 Blog
+  each post in posts
+    a(href=`/blog/${post.title}`)
+      h3= post.title

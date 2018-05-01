@@ -9,6 +9,7 @@ const userListsController = require("../controllers/userListsController");
 const reviewController = require("../controllers/reviewController");
 const chatController = require("../controllers/chatController");
 const backendController = require("../controllers/backendController");
+const blogController = require("../controllers/blogController");
 
 // Index route
 router.get("/", homeController.getContent);
@@ -97,6 +98,22 @@ router.post(
   "/backend/add-movie",
   userController.logedinAdmin,
   movieController.createMovie
+);
+
+// Blog
+router.get("/blog", blogController.blogOverview);
+router.get("/blog/:title", blogController.singlePost);
+
+router.get(
+  "/backend/add-post",
+  userController.logedinAdmin,
+  blogController.addPost
+);
+
+router.post(
+  "/backend/add-post",
+  userController.logedinAdmin,
+  blogController.createPost
 );
 
 module.exports = router;

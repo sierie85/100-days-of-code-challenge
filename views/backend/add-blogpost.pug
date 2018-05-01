@@ -1,0 +1,13 @@
+extends backend-layout
+
+block content
+  div
+    form(method='POST')
+      div(class='form-group')
+        label(for='title') Blog Title
+        input(type='text' class='form-control' id='title' name='title' placeholder='Blog Title')
+      div(class='form-group')
+        label(for='content') Content
+        textarea(class='form-control' id='content' name='content' rows='10')
+      div(class='form-group')
+        input(type='submit' class='btn btn-primary' value='submit')

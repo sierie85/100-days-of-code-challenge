@@ -131,3 +131,7 @@
 ## Day 32: 30-04-2018
 
 **Today's Progress**: add mosted watched movies by users to home.
+
+## Day 33: 01-05-2018
+
+**Today's Progress**: begin with blog. add blog post overview, single, add blogpost for admin.
