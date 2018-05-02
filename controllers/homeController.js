@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 const Movie = require("../models/Movie");
 const Watched = require("../models/Watched");
+const Blog = require("../models/Blog");
 
 exports.getContent = async (req, res) => {
   const newestMovies = await Movie.find()
@@ -33,5 +34,11 @@ exports.getContent = async (req, res) => {
     _id: { $in: mostWatchedSorted }
   });
 
-  res.render("index", { newestMovies, bestRatedMovies, mostWatched });
+  const posts = await Blog.find({})
+    .select({ title: 1, author: 1, created: 1, _id: 0 })
+    .populate("author", ["name"])
+    .sort({ created: -1 })
+    .limit(4);
+
+  res.render("index", { newestMovies, bestRatedMovies, mostWatched, posts });
 };

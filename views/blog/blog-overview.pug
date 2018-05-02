@@ -5,4 +5,8 @@ block content
   h1 Blog
   each post in posts
     a(href=`/blog/${post.title}`)
-      h3= post.title
+      div(class="card border-primary mb-3" style="max-width: 18rem;")
+        div(class="card-header")
+          div(class="card-body text-primary")
+            h5(class="card-title")= post.title
+            span(class="card-text small")= `by ${post.author.name}`

@@ -135,3 +135,7 @@
 ## Day 33: 01-05-2018
 
 **Today's Progress**: begin with blog. add blog post overview, single, add blogpost for admin.
+
+## Day 34: 02-05-2018
+
+**Today's Progress**: working on blog.

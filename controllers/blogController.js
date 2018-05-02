@@ -1,10 +1,12 @@
 const mongoose = require("mongoose");
 const Blog = require("../models/Blog");
+const moment = require("moment");
 
 exports.blogOverview = async (req, res) => {
   const posts = await Blog.find({})
     .select({ title: 1, author: 1, created: 1, _id: 0 })
-    .limit(3);
+    .populate("author", ["name"])
+    .limit(12);
   res.render("blog/blog-overview", { posts });
 };
 
