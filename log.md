@@ -139,3 +139,7 @@
 ## Day 34: 02-05-2018
 
 **Today's Progress**: working on blog.
+
+## Day 35: 05-05-2018
+
+**Today's Progress**: restructor routes. begin unit tests for all routes.
