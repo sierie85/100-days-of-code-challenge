@@ -143,3 +143,7 @@
 ## Day 35: 05-05-2018
 
 **Today's Progress**: restructor routes. begin unit tests for all routes.
+
+## Day 36: 06-05-2018
+
+**Today's Progress**: continue tests for all routes.

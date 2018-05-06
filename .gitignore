@@ -58,6 +58,8 @@ typings/
 .env
 backlog.md
 
+.DS_Store
+
 public/dist/app.bundle.js
 public/dist/app.bundle.js.map
 public/dist/style.css
