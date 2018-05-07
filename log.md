@@ -147,3 +147,7 @@
 ## Day 36: 06-05-2018
 
 **Today's Progress**: continue tests for all routes.
+
+## Day 37: 07-05-2018
+
+**Today's Progress**: continue tests for all routes. register. login.
